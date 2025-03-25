@@ -5,7 +5,7 @@
 #### Reason for starting:
 
 - Bob (friend) talked about another repo porting over to mkdocs and wanted me to explain what they doing.
-- I explained it and thought it was a great idea so thought I might use it for my own notes/blgos that have been on hiatus.
+- I explained it and thought it was a great idea so thought I might use it for my own notes/blogs that have been on hiatus.
 
 --- 
 
