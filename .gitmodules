@@ -1,0 +1,3 @@
+[submodule "docs/recipes"]
+	path = docs/recipes
+	url = https://github.com/ab12gu/recipes
