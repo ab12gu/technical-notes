@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Abhay Gupta
+
+theme:
+  name: mkdocs
+  locale: en
+  color_mode: auto
+  user_color_mode_toggle: auto
