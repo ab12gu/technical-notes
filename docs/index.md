@@ -10,13 +10,12 @@ Currently, the blog is being ported over from main portfolio webpage. The reason
 The docs are being broken down into multiple sections/types. 
 
 ```python
-1. Technical documentation/notes
-
+1. Notes    # mostly technical for projects i've worked/working on 
 2. Blog     # opinionated ideas of mostly software)
 3. Recipes  # instructions for me to navigate to while cooking
 ```
 
+
 ## Source Code
 
-Published via github <br> 
-[github](https://github.com/ab12gu/mkdocs-notes)
+Published via [github](https://github.com/ab12gu/mkdocs-notes)

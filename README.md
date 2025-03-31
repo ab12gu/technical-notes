@@ -49,6 +49,6 @@ site/         # local build files
 
 ## Frameworks docs
 
-mkdocs: <br>
+
 [mkdocs.org](https://mkdocs.com)
 
