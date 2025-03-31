@@ -9,10 +9,10 @@
 
 --- 
 
-#### Reason for depreciating:
+#### Discussion
 
-- However, I didn't realize that the static site generator I use (jekyll) was just a more common/powerful version of it.
-- So I set it up via their documentation, but won't be used.
+- I realized after I starting coding this blog that the static site generator I use (jekyll) was just a more common/powerful version of it. 
+- However, nested folders in jekyll isn't natively supported so am continuing the blog with this framework.
 
 --- 
 
