@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Welcome to Blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+[blog.abgup.com](https://blog.abgup.com)
 
-## Commands
+Currently, the blog is being ported over from main portfolio webpage. The reason behind it is discussed in the README. But in essences, the original website didn't support nested folders that is essential for documentation.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Categories
 
-## Project layout
+The docs are being broken down into multiple sections/types. 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```python
+1. Technical documentation/notes
+
+2. Blog     # opinionated ideas of mostly software)
+3. Recipes  # instructions for me to navigate to while cooking
+```
+
