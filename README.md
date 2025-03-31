@@ -1,4 +1,21 @@
-## Depreciated
+## Released webpage
+
+[blog.abgup.com](https://blog.abgup.com)
+
+## Local build instructions
+
+- `mkdocs serve` - Start the live-reloading docs server.
+- `mkdocs build` - Build the documentation site.
+- `mkdocs -h` - Print help message and exit.
+
+- Open localhost in browser (http://127.0.0.1:8000/)
+
+
+## Frameworks docs
+
+[mkdocs.org](https://mkdocs.com)
+
+## Background
 
 --- 
 
