@@ -1,3 +1,6 @@
 [submodule "docs/recipes"]
 	path = docs/recipes
 	url = https://github.com/ab12gu/recipes
+[submodule "docs/electronics"]
+	path = docs/electronics
+	url = https://github.com/ab12gu/electronics.git
