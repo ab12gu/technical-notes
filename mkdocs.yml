@@ -1,4 +1,5 @@
 site_name: Abhay Gupta
+site_url: https://blog.abgup.com
 
 theme:
   name: mkdocs
