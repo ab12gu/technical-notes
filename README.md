@@ -5,9 +5,10 @@
 ## Local build instructions
 
 ```python
-$ `mkdocs serve`    # Start the live-reloading docs server.
-$ `mkdocs build`    # Build the documentation site.
-$ `mkdocs -h`       # Print help message and exit.
+$ `mkdocs serve`        # Start the live-reloading docs server.
+$ `mkdocs build`        # Build the documentation site.
+$ `mkdocs -h`           # Print help message and exit.
+$ `mkdocs gh-deploy`    # Push changes from main branch to gh-pages
 ```
 
 Open localhost in browser (http://127.0.0.1:8000/)
