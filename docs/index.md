@@ -3,7 +3,7 @@
 [blog.abgup.com](https://blog.abgup.com)
 
 
-Currently, the blog is being ported over from main portfolio webpage. The reason behind it is discussed in the [README](https://github.com/ab12gu/mkdocs-notes). But in essenceD, the original website didn't support nested folders that is essential for documentation.
+Currently, the blog is being ported over from main portfolio webpage. The reason behind it is discussed in the [README](https://github.com/ab12gu/mkdocs-notes). But in essence, the original website didn't support nested folders that is essential for documentation.
 
 ## Categories
 
