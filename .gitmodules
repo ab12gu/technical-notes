@@ -4,3 +4,6 @@
 [submodule "docs/electronics"]
 	path = docs/electronics
 	url = https://github.com/ab12gu/electronics.git
+[submodule "docs/networking"]
+	path = docs/networking
+	url = https://github.com/ab12gu/networking.git
