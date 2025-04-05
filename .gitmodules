@@ -7,3 +7,6 @@
 [submodule "docs/networking"]
 	path = docs/networking
 	url = https://github.com/ab12gu/networking.git
+[submodule "docs/audio"]
+	path = docs/audio
+	url = https://github.com/ab12gu/audio.git
