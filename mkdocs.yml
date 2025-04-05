@@ -2,7 +2,29 @@ site_name: Abhay Gupta
 site_url: https://blog.abgup.com
 
 theme:
-  name: mkdocs
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.top
   locale: en
   color_mode: auto
   user_color_mode_toggle: auto
+
+extra_css:
+  - stylesheets/extra.css

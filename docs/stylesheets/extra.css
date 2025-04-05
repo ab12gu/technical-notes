@@ -1,0 +1,13 @@
+/* Reduce space between bullet points */
+.md-typeset ol {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.md-typeset ul {
+    margin-top: 1.5em;
+}
+.md-typeset li {
+  margin-top: -0.5em;
+}
+
