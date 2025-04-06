@@ -11,3 +11,46 @@
   margin-top: -0.5em;
 }
 
+
+/* H1 - top level heading */
+.md-typeset h1 {
+    color: #cc6699;
+    position: relative;
+    padding-bottom: 0.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .md-typeset h1::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1.3px;
+    background-color: #cc6699; /* First (top) line */
+    box-shadow: 0 6px 0 0 #cc6699; /* Second (bottom) line with gap */
+  }
+  
+  /* H2 - second level heading */
+  .md-typeset h2 {
+    color: #cc6699;
+    border-bottom: 2px solid #cc6699;
+    padding-bottom: 0.2em;
+    margin-top: 2em;
+  }
+  
+  /* H3 - third level heading */
+  .md-typeset h3 {
+    color: #cc6699;
+  }
+ 
+    :root {
+        /* PRIMARY color definitions */
+        --md-primary-fg-color: #520194;         /* main primary color */
+        --md-primary-fg-color--light: #520194;  /* lighter version */
+        --md-primary-fg-color--dark: #520194;   /* darker version */
+    
+        /* ACCENT color definitions */
+        --md-accent-fg-color: #cc6699;          /* accent color */
+    }
+
