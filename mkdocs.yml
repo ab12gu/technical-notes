@@ -25,6 +25,8 @@ theme:
   locale: en
   color_mode: auto
   user_color_mode_toggle: auto
+  favicon: assets/a3.png
+  logo: assets/a5.png
 
 extra_css:
   - stylesheets/extra.css
