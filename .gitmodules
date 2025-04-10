@@ -10,3 +10,6 @@
 [submodule "docs/audio"]
 	path = docs/audio
 	url = https://github.com/ab12gu/audio.git
+[submodule "docs/software-tools"]
+	path = docs/software-tools
+	url = https://github.com/ab12gu/software-tools.git
