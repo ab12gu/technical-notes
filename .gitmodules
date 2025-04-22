@@ -13,3 +13,6 @@
 [submodule "docs/software-tools"]
 	path = docs/software-tools
 	url = https://github.com/ab12gu/software-tools.git
+[submodule "docs/manufacturing"]
+	path = docs/manufacturing
+	url = https://github.com/ab12gu/manufacturing.git
