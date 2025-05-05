@@ -1,6 +1,8 @@
 # Ultraviolet Radiation (UV)
 
-Electromagnetic radiation of wavelengths of 10–400 nanometers. The lower limit is conventionally 400 nm, though isn't a sharp cutoff. It has violet in the name because it has the highest frequencies of visible light.
+Electromagnetic radiation of wavelengths of 10–400 nanometers. 
+
+The lower limit is conventionally 400 nm, though isn't a sharp cutoff. It has violet in the name because it has the highest frequencies of visible light.
 
 It generally isn't visible to humans
 
