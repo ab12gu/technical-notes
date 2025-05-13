@@ -1,18 +1,18 @@
 name: Deploy Github Pages
 
-on: 
-  push: 
+on:
+  push:
     branches: [main]
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to Github Pages
+      - uses: actions/checkout@v3
+
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           publish_branch: gh-pages
-
-
