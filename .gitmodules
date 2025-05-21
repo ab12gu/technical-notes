@@ -25,3 +25,6 @@
 [submodule "docs/health"]
 	path = docs/health
 	url = https://github.com/ab12gu/health.git
+[submodule "docs/coursework"]
+	path = docs/coursework
+	url = https://github.com/ab12gu/coursework.git
