@@ -8,3 +8,4 @@
 
 
 
+Comcast throttles the XfinityWiFi hotspot users to 25 Mbps
