@@ -1,10 +1,23 @@
-## Internet
+# Internet
 
 The global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate
 
 Maintainer organization for the IP addresses and DNS's is the *Internet Corporation for Assigned Names and Numbers (ICANN)*.
 
-#### Average Usage
+## Video requirements
+
+- 720p - 30 frames/second
+    - 3-6 mbps
+- 1080p - 30 frames/second
+    - 6-9 mbps
+
+
+## Music Requirements
+
+- For streaming music - least 5-10 Mbps
+- Music in hi-res or lossless quality needs a connection which is 25 Mbps or higher
+
+## Average Usage
 
 List the things that I most use
 
@@ -47,3 +60,15 @@ Citations:
 - https://help.netflix.com/en/node/306
 - https://support.spotify.com/us/article/audio-quality/
 - https://www.makeuseof.com/tag/how-much-data-does-youtube-use/
+
+## Hotspots
+
+Xfinity unlimited
+
+- caps down to: 600 kbps
+- 15gb hotspot, 50 for data
+
+Mint mobile
+
+- hotspot 10 gb
+- 150 kbps
