@@ -1,4 +1,12 @@
-### Local Internet
+# Public Networks
+
+Local ISP Club/Service
+
+- https://en.wikipedia.org/wiki/Seattle_Community_Access_Network
+- https://seattlecommunitynetwork.org/
+    - Run by a Josh from hacker meetup
+
+## Local Internet
 
 | Pixels        | Download      | Upload        |
 | ---           | ---           | ---           | 
