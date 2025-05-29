@@ -40,6 +40,12 @@ Actix - most mature and high-performance web frameworks for Rust
 - https://book.leptos.dev/ssr/21_cargo_leptos.html
 - https://book.leptos.dev/deployment/ssr.html
 
+Repos
+
+- https://github.com/leptos-rs/start-axum
+- https://github.com/leptos-rs/leptos
+
+
 
 ## Citations
 
