@@ -1,7 +1,7 @@
 # 250619 Radio Signals
 
 1. Get to FM radio waves and catch signal
-2. Get to corresponding signal for RF remote controlled car (ran at 2.4 Ghz)
+2. Get to corresponding signal for RF remote controlled car (RC car) (ran at 2.4 Ghz)
 
 ## Software Used
 
