@@ -19,9 +19,6 @@
 [submodule "docs/design"]
 	path = docs/design
 	url = https://github.com/ab12gu/design.git
-[submodule "docs/software/hacking"]
-	path = docs/software/hacking
-	url = https://github.com/ab12gu/hacking.git
 [submodule "docs/health"]
 	path = docs/health
 	url = https://github.com/ab12gu/health.git
