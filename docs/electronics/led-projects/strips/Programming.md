@@ -1,0 +1,4 @@
+- [https://learn.illuminations.mit.edu/chapter/ws2812b](https://learn.illuminations.mit.edu/chapter/ws2812b)
+- Leds/Meter = 144
+- 432 leds
+- 
