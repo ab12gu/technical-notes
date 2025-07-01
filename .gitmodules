@@ -4,9 +4,6 @@
 [submodule "docs/audio"]
 	path = docs/audio
 	url = https://github.com/ab12gu/audio.git
-[submodule "docs/manufacturing"]
-	path = docs/manufacturing
-	url = https://github.com/ab12gu/manufacturing.git
 [submodule "docs/design"]
 	path = docs/design
 	url = https://github.com/ab12gu/design.git
