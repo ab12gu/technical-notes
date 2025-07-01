@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "6ffec5473976089f",
+    "type": "split",
+    "children": [
+      {
+        "id": "50656de349bb8f43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4e2d67b339b6f5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "led-projects/microcontr-dimensional-drawing.png"
+              },
+              "icon": "lucide-image",
+              "title": "microcontr-dimensional-drawing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c4bc77f4f3a0418",
+    "type": "split",
+    "children": [
+      {
+        "id": "32896ed1e116f77b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6ad478ed1e4190",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "751c0ed9d9d4b329",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f51fd31cad43611",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42a2dfab2f8be2fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7696e925af3e1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d776abf207b2a13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "led-strip-specs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for led-strip-specs"
+            }
+          },
+          {
+            "id": "92ac3228003318be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "led-strip-specs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from led-strip-specs"
+            }
+          },
+          {
+            "id": "59ebdefdadf880ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60c04125cf8a9436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "led-projects/leds-strips/Wiring.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wiring"
+            }
+          },
+          {
+            "id": "cb23a23672ef8f18",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "fb6ad478ed1e4190",
+  "lastOpenFiles": [
+    "led-projects/micocontroller-compare.png",
+    "led-projects/led-hoop-diagram.png",
+    "led-projects/microcontr-dimensional-drawing.png",
+    "ebike/ebike-battery-serial.png",
+    "ebike/ebike-battery.png",
+    "led-projects/hula-hoop/controller/microcontroller.md",
+    "ebike/rad-bike/controller.md",
+    "led-projects/hula-hoop/controller/chips.md",
+    "ebike/rad-bike/motor.md",
+    "led-projects/hula-hoop/controller/chips on hand.md",
+    "ebike/rad-bike/alt controllers.md",
+    "ebike/rad-bike/bike info.md",
+    "ebike/rad-bike/controller-wiring.md",
+    "ebike/rad-bike/battery.md",
+    "ebike/rad-bike/BLDC - Tutorials.md",
+    "led-projects/hula-hoop/battery/battery.md",
+    "led-projects/hula-hoop/battery",
+    "led-projects/hula-hoop/Untitled.md",
+    "led-projects/hula-hoop/images/arduino-mini.png",
+    "ebike/rad-bike",
+    "ebike",
+    "led-projects/hula-hoop/building/building-hula-hoop.md",
+    "led-projects/hula-hoop/controller",
+    "led-projects/hula-hoop/purchasing/polypropylene.md",
+    "led-projects/hula-hoop/size.md",
+    "led-projects/leds-strips/Programming.md",
+    "led-projects/leds-strips/Wiring.md",
+    "led-projects/leds-strips/led-strip-specs.md",
+    "led-projects/leds-strips",
+    "led-projects/UV.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "hula-hoop/building-hula-hoop.md",
+    "hula-hoop",
+    "website-summary.md",
+    "led-strip-specs.md",
+    "input-voltage.md"
+  ]
+}
