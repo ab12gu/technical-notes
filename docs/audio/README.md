@@ -5,9 +5,15 @@ An audio signal is a representation of sound.
 1. by changing the level of electrical voltage for analog signals
 2. or by a series of binary numbers for digital signals
 
+
+## Audible Range
+
 Range: 20 - 20,000 Hz 
 
 - lower and upper limits of human hearing
+
+## Audio Characteristics
+
 - characterized by parameters
     - bandwidth
     - nominal level
@@ -17,13 +23,16 @@ Range: 20 - 20,000 Hz
     - single-ended
     - balanced
 
-Digital audio is sent over:
+## Digital Audio Signal Transfer Methods
 
-- optical viber
-- coaxial cable
-- or, twistsed pair cable
+- optical fiber 
+    - light waves sent through plastic tube
+- coaxial cable 
+    - ground/negative surrounding positive
+- or, twistsed pair cable 
+    - positive and negative in separate lines
 
-Digital audio code formats:
+## Digital audio code formats
 
 - ADAT
 - TDIF
