@@ -1,29 +1,30 @@
 Code repo: WLED
+
 - https://github.com/Aircoookie/WLED
 - https://kno.wled.ge/
 
-
-
-
 Citations:
+
 - https://www.derunledlights.com/the-difference-between-addressable-rgb-led-strip-ws2811-ws2812b-ws2813-ws2815-sk6812-sk9822/
 - https://www.youtube.com/watch?v=LdpvCepML-E
 - https://www.youtube.com/watch?v=Uke98FWkrHg
 - https://www.youtube.com/watch?v=DKOWeuV1FWE
 - https://www.youtube.com/watch?v=DUpFBf321vY
-- 
 
 <img width="687" alt="image" src="https://github.com/user-attachments/assets/5c230b92-e246-4657-a8d2-71884f73c3b4">
 
 
 HSBK <-> RGB conversion utility suite
+
 - https://github.com/nick-lifx/hsbk_rgb
 
 Userspace Raspberry Pi PWM library for WS281X LEDs 
+
 - https://github.com/jgarff/rpi_ws281x
 
 
 TO READ:
+
 - https://www.derunledlights.com/the-difference-between-addressable-rgb-led-strip-ws2811-ws2812b-ws2813-ws2815-sk6812-sk9822/ 
 - https://www.energy.gov/articles/how-do-holiday-lights-work
 - https://www.lumitex.com/blog/visible-light-spectrum
