@@ -13,6 +13,3 @@
 [submodule "docs/coursework"]
 	path = docs/coursework
 	url = https://github.com/ab12gu/coursework.git
-[submodule "docs/misc-notes"]
-	path = docs/misc-notes
-	url = https://github.com/ab12gu/misc-notes.git
