@@ -2,7 +2,8 @@
 
 [wiki](https://en.wikipedia.org/wiki/Polypropylene)
 
-### Material Properties
+## Material Properties
+
 - also called Poly(1-methylethylene)
 - thermoplastic polymer (pliable at elevated temperatures)
 - slightly harder and more heat-resistant to polyethylene
@@ -14,9 +15,9 @@
 - normally tough and flexible
 
 
-### Purchasable:
+## Purchasable:
+
 - https://www.hoopologie.com/natural-clear-polypro-tubing
-- 
 
 
 
