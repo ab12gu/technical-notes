@@ -1,5 +1,6 @@
 
 LEDs are connected in parallel
+
 - to produce your own, you should mix series/parallel 
 
 Direct Current:
@@ -7,6 +8,7 @@ Direct Current:
 24v
 
 12v
+
 - handle longer strips with less voltage drop, reducing the need for frequent power injection
 - Consumes slightly more power due to the higher voltage
 - reduced wiring complexity for long strips
@@ -15,10 +17,12 @@ Direct Current:
 - more expensive due to the higher voltage design
 
 5v
+
 - more frequent power injection for longer runs due to higher voltage drop over distance
 - typically limited to **5 meters** before noticeable voltage drop occurs
 
 Common characteristics:
+
 - similar brightness levels, depending on the quality of the LED chip used
 - **dual data line**, meaning if one LED fails, the data signal bypasses the failed LED and continues to the next one. This increases reliability.
 - 60mA at full brightness (20mA per color channel).
@@ -37,6 +41,7 @@ Common characteristics:
 		- If you reduce the brightness of the blue channel to, say, 50%, then the current would drop to around **10mA** for that channel.
 
 Voltage drop
+
 - The longer the wire and the higher the current, the more voltage is lost in the wire.
 	
 The forward voltage depends on the material and color (wavelength) of the LED:
