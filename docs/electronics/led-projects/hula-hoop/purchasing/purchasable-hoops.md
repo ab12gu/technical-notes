@@ -20,25 +20,26 @@
     - $379
     - patterns preloaded.  Connect to the wand with your iPhone or Android phone to create and upload your own new patterns.  Even upload pictures using your phone's camera
 - [Hyperion Hoop](https://www.hyperionhoop.com/shop/mtsp.php?paID=8&osCsid=RG0ozQESzKWYUvzIP-cCV1)
-  - Hyperion Hoop 
-    - $275
-  - Phoenix Hoop
-    - $400
-  - Hyperion Lite 5/8" Hoop
-    - $300
+    - Hyperion Hoop 
+        - $275
+    - Phoenix Hoop
+        - $400
+    - Hyperion Lite 5/8" Hoop
+        - $300
 
+## Regular Hoops
 
-![alt text](image.png)
-
-Citations
-- https://www.reddit.com/r/Hooping/comments/154wfj9/best_led_hoops/
-
-#### Regular Hoops
 https://shop.astralhoops.com/collections/day-hoops
-- Polypro - $30
 
+- Polypro - $30
 
 https://www.hoopologie.com/
 
-#### Tape
+## Tape
+
 https://www.harlanruby.com/search?q=DECO+TAPE
+
+
+## Citations
+
+- https://www.reddit.com/r/Hooping/comments/154wfj9/best_led_hoops/
