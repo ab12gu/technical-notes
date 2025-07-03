@@ -1,6 +1,8 @@
 # History
 
-09/29/24
+The shop notes of history of diagnostics before it was handed to me.
+
+## 24/09/29
 
 - Installed a new controller, and chain, and the display
 - Speed sensor and PAS does not work
@@ -9,7 +11,7 @@
 - Throttle does and headlight and break sensors do
 - Found visibly bent derailleur (replace later)
 
-10/01/24
+## 24/10/01
 
 - PAS working fine w/ light action
 - Computer response #3
@@ -25,12 +27,12 @@
 - Theory: If used 18 amp controllers from back, it should work
     - Notes say doubtful
 
-10/15/24
+## 24/10/15
   
   - Installed the controller that provides the throttle to wkr
   - Offered Velo Wave Prado S for $600
 
-05/14/25
+## 25/05/14
 
 - Need to figure out right number of magnets for rear hub
   - and display to communicate to PAS
