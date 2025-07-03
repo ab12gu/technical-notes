@@ -1,4 +1,33 @@
-# Black MAX
+#  Black Max San Juan Step Through (B1k) 
+
+![](images/black-max-bike-insta.png)
+
+## Wayback Machine URL links
+
+- [san juan step thru](https://web.archive.org/web/20201124094111/https://blackmaxbike.com/products/san-juan-step-thru)
+- [san juan step thru t-handlebar](https://web.archive.org/web/20200929005225/https://blackmaxbike.com/collections/all-bikes/products/san-juan-step-thru-t-handlebar)
+
+## Brand Overview
+
+Seems like they existed for roughly 2 years from start of 2019 to end of 2020.
+
+- Website offline now
+    - [https://blackmaxbike.com](https://blackmaxbike.com)
+    - [https://blackmaxmarysville.com](https://blackmaxmarysville.com)
+- Social
+    - [facebook](https://www.facebook.com/profile.php?id=100066483199523)
+    - [instagram](https://www.instagram.com/blackmaxbikes/)
+- ytb
+    - [assembly, how to remove battery](https://www.youtube.com/watch?v=xGES5GdyVco)
+    - [ebike review](https://www.youtube.com/watch?v=znNVWR-reCg)
+
+Similar bike just re-branded Frame
+
+- [magnum bike](https://magnumbikes.com/products/premium-3-torque-low-step)
+- [ytb - bike overview - Sep 28, 2022, premium 3](https://www.youtube.com/watch?v=lgq8EBfeOnA)
+- $1,700
+
+## Contract Overview
 
 Contract from shop:
 
@@ -6,41 +35,4 @@ Contract from shop:
 - [Google Maps](https://maps.app.goo.gl/bxTg5VygTNqCm83k6)
 - Best times to come in: mon/wed 8a-8p
 
-Black Max San Juan Step Through (B1k) 
-
-![alt text](black-max.jpeg)
-
-## History
-
-09/29/24
-
-- Installed a new controller, and chain, and the display
-- Speed sensor and PAS does not work
-- Throttle does and headlight and break sensors do
-- Found visibily bent derailleur (replace later)
-
-10/01/24
-
-- PAS working fine w/ light action
-- Computer response #3
-- Identical controller has same throttle but no PAS
-- Rewired and motor gave bad sounds but pas worked but not throttle
-- pas and controller were both male? but colors red/black/yellow ere the same
-  - Hypthoses is they swap connectors so wires can connect, should work
-  - If not, cotnroller bad, or original wiring was correct
-    - Then try other controllers labelled 'spares 1&2' and see if different results
-    - May be worthwile to try 19amp controllers in back (waste of time assumed)
-      - If nothign works, reinstall replacement #1 and diagnose the bike as perminately half functioning
-
-10/15/24
-  
-  - Installed the controller that provides the throttle to wkr
-  - Offered Velo Wave Prado S for $600
-
-05/14/25
-
-- Need to figure out right number of magnets for rear hub
-  - and display to communicate to PAS
-  - Need to pull the motor and count the magnets?
-- Use for from XXL parts bike to bring this up to speed for sale 
-- Now belongs to shop
+![alt text](images/black-max.jpeg)
