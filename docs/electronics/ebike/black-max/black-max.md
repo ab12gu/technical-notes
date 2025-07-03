@@ -1,6 +1,6 @@
 #  Black Max San Juan Step Through (B1k) 
 
-![](images/black-max-bike-insta.png)
+![alt text](images/black-max.jpeg)
 
 ## Wayback Machine URL links
 
@@ -35,4 +35,3 @@ Contract from shop:
 - [Google Maps](https://maps.app.goo.gl/bxTg5VygTNqCm83k6)
 - Best times to come in: mon/wed 8a-8p
 
-![alt text](images/black-max.jpeg)
