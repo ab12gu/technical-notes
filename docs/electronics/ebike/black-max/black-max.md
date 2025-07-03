@@ -1,6 +1,6 @@
 #  Black Max San Juan Step Through (B1k) 
 
-![alt text](images/black-max.jpeg)
+![alt text](images/black-max.jpeg){width="400"}
 
 ## Wayback Machine URL links
 
