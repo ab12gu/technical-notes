@@ -1,27 +1,30 @@
 # Audio
 
-An audio signal is a representation of sound.
-
-1. by changing the level of electrical voltage for analog signals
-2. or by a series of binary numbers for digital signals
-
+The main reason this page was created was to get these passive speakers I found on the ground to work. It has lead to a larger development into the topic :). 
 
 ## Audible Range
 
-Range: 20 - 20,000 Hz 
+Hearing range describes the frequency range that can be heard by humans
 
-- lower and upper limits of human hearing
+- human hearing range: **20 - 20,000 Hz**
+- however, high pitches get harder to hear as we age
+- a basic measure of hearing is afforded by an audiogram
+- involves tones being presented at specific frequencies (pitch) and intensities (loudness).
 
 ## Audio Characteristics
 
-- characterized by parameters
-    - bandwidth
-    - nominal level
-    - power level in decibels (dB)
-    - voltage level
-- Signal paths are either
-    - single-ended
-    - balanced
+Characterized by parameters
+
+- bandwidth
+- nominal level
+- power level in decibels (dB)
+- voltage level
+
+
+Signal paths are either
+
+- single-ended
+- balanced
 
 ## Digital Audio Signal Transfer Methods
 
@@ -29,25 +32,15 @@ Range: 20 - 20,000 Hz
     - light waves sent through plastic tube
 - coaxial cable 
     - ground/negative surrounding positive
-- or, twistsed pair cable 
+- or, twisted pair cable 
     - positive and negative in separate lines
-
-## Digital audio code formats
-
-- ADAT
-- TDIF
-- TOSLINK
-- S/PDIF
-- AES3
-- MADI
-- audio over Ethernet
-- audio over IP
 
 ## Citations
 
-https://en.wikipedia.org/wiki/Audio_signal
+- [https://en.wikipedia.org/wiki/Audio_signal](https://en.wikipedia.org/wiki/Audio_signal)
+- [https://en.wikipedia.org/wiki/Hearing_range](https://en.wikipedia.org/wiki/Hearing_range)
 
 ## TO READ
 
-- https://en.wikipedia.org/wiki/Audio_frequency
-- https://en.wikipedia.org/wiki/Digital_audio
+- [https://en.wikipedia.org/wiki/Audio_frequency](https://en.wikipedia.org/wiki/Audio_frequency)
+- [https://en.wikipedia.org/wiki/Digital_audio](https://en.wikipedia.org/wiki/Digital_audio)
