@@ -10,6 +10,10 @@
 - Made in Malasia
 - TV's have a 3.5mm audio output on the back
 
+
+![images/speaker-closed.jpeg](images/speaker-closed.jpeg){width="400}
+![images/speaker-closed.jpeg](images/speaker-open.jpeg){width="400}
+
 Specs:
 - https://electronics.woot.com/offers/your-choice-of-sony-speakers
 - 5.25" Newly Developed H.O.P Cone Woofer
