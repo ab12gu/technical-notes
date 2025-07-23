@@ -12,7 +12,12 @@ An electric bicycle has an integrated electric motor used to assist propulsion.
         2. torque sensor (high end) - detects strength of pedalling
     - motor controller delivers power to motor
 
+## Events
+
+- [Electrify Expo Seattle](https://www.electrifyexpo.com/seattle)
+
 ## Citations
 
 [Electric Bicycle wiki](https://en.wikipedia.org/wiki/Electric_bicycle)
+
 
