@@ -1,5 +1,7 @@
 # My Car
 
+Due to front fog lights and HID headlight bulbs (higher lumens than halogen), my car is the touring model. 
+
 - VIN: JTDKB20U987769956
     - Country Built: J
     - Region Built: T
