@@ -13,7 +13,7 @@ Due to front fog lights and HID headlight bulbs (higher lumens than halogen), my
     - Serial: 769956
 - Year/Make/Model: 2008 Toyota Prius
 
-![](image.png){width="600"}
+![](media/vin.png){width="600"}
 
 Most Info: [https://vincheck.info/](https://vincheck.info/)
 
