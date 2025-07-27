@@ -13,10 +13,14 @@ Now fixed and replaced: (w/ help of Tim Smith)
    <source src="../../media/bearing-hub-removal-h264.mp4"> 
    Your browser does not support the video tag.
 </video>
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DMh1VkPRk1I/" data-instgrm-version="14" style="background:#FFF; border:0; margin: 1px; max-width:320px; min-width:220px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  <a href="https://www.instagram.com/reel/DMh1VkPRk1I/" target="_blank" rel="noopener">View this post on Instagram</a>
-</blockquote>
-<script async src="https://www.instagram.com/embed.js"></script>
+
+<p>
+  <a href="https://www.instagram.com/reel/DMh1VkPRk1I/" target="_blank" rel="noopener noreferrer">
+    Watch this Reel on Instagram
+  </a>
+</p>
+
+<b>Update after fix:</b> The wheel feels smooth on passenger's side but feels rough on drivers side now. (Passenger's side was replaced)
 
 ## Vibration - Noise Issue 
 
