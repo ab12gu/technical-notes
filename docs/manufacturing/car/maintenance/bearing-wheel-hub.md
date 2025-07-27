@@ -10,7 +10,7 @@ Vibration and noise on passanger side front wheel for 6 months.
 Now fixed and replaced: (w/ help of Tim Smith)
 
 <video autoplay muted width="320" height="240" controls playsinline loop>
-   <source src="../../media/bearing-hub-removal.mp4"> 
+   <source src="../../media/bearing-hub-removal-h264.mp4"> 
    Your browser does not support the video tag.
 </video>
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DMh1VkPRk1I/" data-instgrm-version="14" style="background:#FFF; border:0; margin: 1px; max-width:320px; min-width:220px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
