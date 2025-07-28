@@ -18,10 +18,9 @@ jobs:
           COMMIT_URL="${{ github.event.head_commit.url }}"
           COMMIT_MSG="${{ github.event.head_commit.message }}"
 
+          MESSAGE="$ACTOR pushed to $REPO on branch $BRANCH\\nCommit: $COMMIT_MSG\\nURL: $COMMIT_URL"
+
           curl -H "Content-Type: application/json" \
                -X POST \
-               -d @- "$DISCORD_WEBHOOK" <<EOF
-{
-  "content": "$ACTOR pushed to $REPO on branch $BRANCH\nCommit: $COMMIT_MSG\nURL: $COMMIT_URL"
-}
-EOF
+               -d "{\"content\": \"$MESSAGE\"}" \
+               "$DISCORD_WEBHOOK"
