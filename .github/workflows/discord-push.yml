@@ -10,6 +10,7 @@ jobs:
       - name: Send push info to Discord
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        shell: bash
         run: |
           REPO="${{ github.repository }}"
           BRANCH="${{ github.ref_name }}"
@@ -21,6 +22,6 @@ jobs:
                -X POST \
                -d @- "$DISCORD_WEBHOOK" <<EOF
 {
-  "content": "📦 $ACTOR pushed to **$REPO** on branch \`$BRANCH\`\\n💬 Commit: $COMMIT_MSG\\n🔗 $COMMIT_URL"
+  "content": "📦 $ACTOR pushed to **$REPO** on branch \`$BRANCH\`\n💬 Commit: $COMMIT_MSG\n🔗 $COMMIT_URL"
 }
 EOF
