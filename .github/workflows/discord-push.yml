@@ -19,7 +19,7 @@ jobs:
           COMMIT_URL="https://github.com/$REPO/commit/${COMMIT_SHA:0:7}"
           COMMIT_MSG="${{ github.event.head_commit.message }}"
 
-          MESSAGE="$COMMIT_URL"
+          MESSAGE="URL: $COMMIT_URL"
 
           curl -H "Content-Type: application/json" \
                -X POST \
