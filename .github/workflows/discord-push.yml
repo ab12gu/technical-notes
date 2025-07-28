@@ -18,8 +18,9 @@ jobs:
           ACTOR="${{ github.actor }}"
           COMMIT_URL="https://github.com/$REPO/commit/${COMMIT_SHA:0:7}"
           COMMIT_MSG="${{ github.event.head_commit.message }}"
+          COMMIT_SHA7="${COMMIT_SHA:0:7}"
           
-          PAYLOAD=$(jq -nc --arg desc "[$COMMIT_SHA]($COMMIT_URL) $COMMIT_MSG" \
+          PAYLOAD=$(jq -nc --arg desc "[$COMMIT_SHA7]($COMMIT_URL) $COMMIT_MSG" \
                   '{embeds: [{description: $desc, color: 7506394}]}')
         
           curl -H "Content-Type: application/json" \
