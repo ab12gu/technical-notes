@@ -1,5 +1,14 @@
-Virtual pianos like Keyscape, Addictive Keys, or Spitfire Labs (free) provide realistic piano sounds.
+# Virtual Instruments
 
-drum machines (like the MPC) and vinyl sampling
+Virtual pianos like 
+
+- Keyscape
+- Addictive Keys
+- Spitfire Labs (free) 
+
+provide realistic piano sounds.
+
+- drum machines (like the MPC)
+- vinyl sampling
 
 808 - Roland TR-808 drum machine
