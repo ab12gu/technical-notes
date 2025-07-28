@@ -22,6 +22,6 @@ jobs:
                -X POST \
                -d @- "$DISCORD_WEBHOOK" <<EOF
 {
-  "content": "📦 $ACTOR pushed to **$REPO** on branch \`$BRANCH\`\n💬 Commit: $COMMIT_MSG\n🔗 $COMMIT_URL"
+  "content": "📦 $ACTOR pushed to **$REPO** on branch **$BRANCH**\n💬 Commit: $COMMIT_MSG\n🔗 $COMMIT_URL"
 }
 EOF
