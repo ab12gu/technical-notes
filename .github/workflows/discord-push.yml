@@ -15,7 +15,9 @@ jobs:
           REPO="${{ github.repository }}"
           BRANCH="${{ github.ref_name }}"
           ACTOR="${{ github.actor }}"
-          COMMIT_URL="${{ github.event.head_commit.url }}"
+          COMMIT_SHA: ${{ github.sha }}
+          SHORT_SHA=${COMMIT_SHA:0:7}
+          COMMIT_URL="https://github.com/$REPO/commit/$SHORT_SHA"
           COMMIT_MSG="${{ github.event.head_commit.message }}"
 
           MESSAGE="\\n\\n**$ACTOR** pushed to **$REPO** \\n\\nCommit: **$COMMIT_MSG**\\n$COMMIT_URL"
