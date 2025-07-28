@@ -9,10 +9,13 @@ Currently, the blog is being ported over from main portfolio webpage. The reason
 
 The docs are being broken down into multiple sections/types. 
 
+e.g.
+
 ```python
-1. Notes    # mostly technical for projects i've worked/working on 
-2. Blog     # opinionated ideas of mostly software
-3. Recipes  # instructions for me to navigate to while cooking
+1. Electronics    # technical electrical notes/projects
+2. Audio          # tecnhical audio notes/projects
+3. Recipes        # instructions for me to navigate to while cooking
+...
 ```
 
 
