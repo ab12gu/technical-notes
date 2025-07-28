@@ -20,7 +20,7 @@ jobs:
           COMMIT_MSG="${{ github.event.head_commit.message }}"
           COMMIT_SHA:"${COMMIT_SHA:0:7}"
           
-          PAYLOAD=$(jq -nc --arg desc "[ab12gu\mkdocs-notes\$COMMIT_SHA]($COMMIT_URL) \n\n**Commit Message:** $COMMIT_MSG" \
+          PAYLOAD=$(jq -nc --arg desc "[$COMMIT_MSG]($COMMIT_URL)" \
                   '{embeds: [{description: $desc, color: 7506394}]}')
         
           curl -H "Content-Type: application/json" \
