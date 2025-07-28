@@ -22,7 +22,7 @@ jobs:
           ZWSP=$'\u200b'
           BROKEN_URL="${COMMIT_URL}${ZWSP}"
           
-          MESSAGE="$BROKEN_URL"
+          MESSAGE="$BROKEN_URL \\n\\n$COMMIT_MSG"
           
           curl -H "Content-Type: application/json" \
                -X POST \
