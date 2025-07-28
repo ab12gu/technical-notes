@@ -19,12 +19,10 @@ jobs:
           COMMIT_URL="https://github.com/$REPO/commit/${COMMIT_SHA:0:7}"
           COMMIT_MSG="${{ github.event.head_commit.message }}"
                
-          ZWSP=$'\u200b'
-          BROKEN_URL="${COMMIT_URL}${ZWSP}"
-          
-          MESSAGE="$BROKEN_URL \\n**COMMIT:** $COMMIT_MSG"
-          
+          PAYLOAD=$(jq -nc --arg desc "[View commit here]($COMMIT_URL)\n**Commit Message:** $COMMIT_MSG" \
+            '{embeds: [{description: $desc, color: 7506394}]}')
+        
           curl -H "Content-Type: application/json" \
                -X POST \
-               -d "{\"content\":\"$MESSAGE\"}" \
-               "$DISCORD_WEBHOOK"
+               -d "$PAYLOAD" \
+               ${{ secrets.DISCORD_WEBHOOK }}
