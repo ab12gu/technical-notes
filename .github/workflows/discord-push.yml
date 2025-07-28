@@ -23,5 +23,5 @@ jobs:
           
           curl -H "Content-Type: application/json" \
                -X POST \
-                -d '{"content": "'"$MESSAGE"'", "flags": 4096}'
+               -d '{"content": "'"'"$MESSAGE"'"'", "flags": 4096}' \
                "$DISCORD_WEBHOOK"
