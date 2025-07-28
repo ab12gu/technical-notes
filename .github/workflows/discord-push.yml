@@ -20,7 +20,7 @@ jobs:
           COMMIT_MSG="${{ github.event.head_commit.message }}"
                
           ZWSP=$'\u200b'
-          BROKEN_URL="${COMMIT_URL/https:\/\/github.com\//https:\/\/github.com${ZWSP}/}"
+          BROKEN_URL="${COMMIT_URL}${ZWSP}"
           
           MESSAGE="$BROKEN_URL"
           
