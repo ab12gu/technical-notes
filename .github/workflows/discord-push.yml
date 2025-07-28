@@ -18,7 +18,7 @@ jobs:
           COMMIT_URL="${{ github.event.head_commit.url }}"
           COMMIT_MSG="${{ github.event.head_commit.message }}"
 
-          MESSAGE="$ACTOR pushed to $REPO on branch $BRANCH\\nCommit: $COMMIT_MSG\\nURL: $COMMIT_URL"
+          MESSAGE="\\n\\n**$ACTOR** pushed to **$REPO** \\n\\nCommit: **$COMMIT_MSG**\\n$COMMIT_URL"
 
           curl -H "Content-Type: application/json" \
                -X POST \
