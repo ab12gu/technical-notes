@@ -3,6 +3,8 @@
 
 ## Halogen
 
+![alt](images/hid-halogen-single-beam.jpeg)
+
 ## HID
 
 It is a fluorescent bulb, so it has a ballast to protect the bulb from drawing too much current. 
