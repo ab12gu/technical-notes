@@ -27,7 +27,16 @@ Underwater hockey uses a type of puck that while similar in appearance to an ice
 
 ## Manufacturing
 
-- The black rubber of the puck is made up of a mix of natural rubber, antioxidants, bonding materials and other chemicals to achieve a balance of hardness and resilience.[15] This mixture is then turned in a machine with metal rollers, where workers add extra natural rubber, and ensure that the mixing is even. Samples are then put into a machine that analyses if the rubber will harden at the right temperature. An automated apparatus, called a pultrusion machine,[6] extrudes the rubber into long circular logs that are 3 inches (7.6 cm) in diameter and then cut into 1 inch (2.5 cm) thick pieces while still soft. These pre-forms are then manually put into moulds that are the exact size of a finished puck.[15] There are up to 200 mould cavities per moulding palette, capable of producing up to 5,000 pucks per week.[6] The moulds are then compressed. This compression may be done cold[6] or with the moulds heated to 300 °F (149 °C) for 18 minutes,[15] depending on the proprietary methods of the manufacturer. They come out hard and then are allowed to sit for 24 hours. Each puck is manually cleaned with a trimmer machine to remove excess rubber. The moulding process adds a diamond cross-hatch texture around the edge of the puck for improved friction between the stick and puck for better control and puck handling.[15]
+- Mix of natural rubber, antioxidants, bonding materials and other chemicals 
+- to achieve a balance of hardness and resilience.
+- Samples are then put into a machine that analyses if the rubber will harden at the temp
+- pultrusion machine extrudes the rubber into long circular logs that are 3 inches (7.6 cm) in diameter and then cut into 1 inch (2.5 cm) thick pieces while still soft. 
+- These pre-forms are then manually put into moulds that are the exact size of a finished puck.[15] 
+- There are up to 200 mould cavities per moulding palette, capable of producing up to 5,000 pucks per week.
+- The moulds are then compressed. 
+- This compression may be done cold[6] or with the moulds heated to 300 °F (149 °C) for 18 minutes,[15] depending on the proprietary methods of the manufacturer. 
+- They come out hard and then are allowed to sit for 24 hours. Each puck is manually cleaned with a trimmer machine to remove excess rubber. 
+- The moulding process adds a diamond cross-hatch texture around the edge of the puck for improved friction between the stick and puck for better control and puck handling.[15]
 
 
 
