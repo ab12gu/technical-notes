@@ -1,6 +1,11 @@
-# Rivets
+# Outdoor Pucks
 
-## Hockey Off-Ice Pucks
+## Green Biscuit
+
+![alt text](images/IMG_5441.jpeg){width="350"}
+![alt text](images/IMG_5443.jpeg){width="350"}
+
+### Patent Review
  
 [Patent US5792012A](https://patents.google.com/patent/US5792012A/en)
 
@@ -29,8 +34,7 @@ Patent Notes Extended
 - The disks of all of the puck embodiments could be made with injection molded plastic such as high density polyethylene (HDPE). 
 - Some ice hockey players may want a heavily weighted street puck to practice their shooting. Such a puck would be too heavy to use in a game.
 
-![alt text](images/IMG_5441.jpeg){width="350"}
-![alt text](images/IMG_5443.jpeg){width="350"}
+### Rivets
 
 #### Semi Tubular Rivets
 
@@ -42,8 +46,10 @@ Semi-tubular rivets (also known as tubular rivets) are essentially the same as s
 - [ytb short - semitubular punch install](https://www.youtube.com/shorts/fKvkP3poVog)
 - [ytb short - cross-section video punch](https://www.youtube.com/watch?v=I40ISVkF08s)
 
-![alt text](images/puck-rivets.png){width="280"}
 ![alt text](images/semi-tubular-rivets.png){width="300"}
+![alt text](images/punch.png){width="280"}
+
+### Dimensions
 
 Held together by 3 rivets and foam spacer
 
@@ -58,28 +64,7 @@ Held together by 3 rivets and foam spacer
 - 4.6 oz
 
 
-![alt text](images/punch.png){width="280"}
-
-## Purchase
-
-
-### Rivets
-
-#### Purchasable
-
-- Arrow 3/16 in. D X 1/2 in. Aluminum Long Rivets Silver 50 pk
-    - $10.49 - [Ace Hardware](https://www.acehardware.com/departments/tools/fastening-tools/rivets/2496925)
-- (200Pcs) 3/16"x5/8" stainless steel blind pro Rivets,Steel handle and stainless steel mandrel 
-    - 15% $16.99 [amazon](https://www.amazon.com/Wensilon-200Pcs-Aluminum-4-8X16mm-Mandrel/dp/B0C2KF5KL4)
-- [harbor freight](https://www.harborfreight.com/90-piece-pom-rivet-assortment-67611.html)
-
-### Rivet Guns
-
-- [Harbor Freight - $20](https://www.harborfreight.com/45-piece-threaded-insert-riveter-kit-1210.html)
-- [Harbor Freight - $10](https://www.harborfreight.com/11-in-swivel-head-hand-riveter-63396.html)
-- [Harbor Freight - $17, weird design](https://www.harborfreight.com/hand-riveter-with-40-industrial-strength-poly-rivets-97757.html)
-
-## Videos
+### Videos
 
 - [Good rivet tutorial](https://www.youtube.com/watch?v=ZyWqWJKAV6k)
 - [Punch method - rivets](https://www.youtube.com/watch?v=uh4oUxCzVbw)
@@ -101,3 +86,28 @@ Held together by 3 rivets and foam spacer
 - Can I just use rivets with threads and put a bolt through?
 - https://www.youtube.com/shorts/RAVH4-h1cPA
 - So then we can re-use half when half breaks
+
+
+- [ytb short - puck comparision](https://www.youtube.com/shorts/sJTnaBffoCU)
+
+
+Why the spacers in middle: 
+
+- vibrates if no spacers, and then will bounce and roll on side from vibrations
+- https://www.youtube.com/watch?v=yWEAxzvjBpw
+
+
+Green Biscuit vs Traditional Hockey Puck on Concrete
+
+- Traditional keeps flipping and rolling on its side
+- https://www.youtube.com/watch?v=pmq_cu_92Jw
+
+## TO WATCH
+
+- https://www.youtube.com/watch?v=0hmjAejXjQU
+- https://www.youtube.com/watch?v=UhzGAIRBKAw
+- https://www.youtube.com/watch?v=i5Z1sa2QvbE
+- https://www.youtube.com/watch?v=TEIvj7QmHDY
+- https://www.youtube.com/watch?v=7st9f7JHJIw
+- https://www.youtube.com/watch?v=gzfpLAIc6pM
+

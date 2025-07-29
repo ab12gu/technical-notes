@@ -42,6 +42,9 @@
   /* H3 - third level heading */
   .md-typeset h3 {
     color: #cc6699;
+    border-bottom: 1px solid #cc6699;
+    padding-bottom: 0.2em;
+    margin-top: 2em;
   }
  
     :root {
