@@ -1,5 +1,9 @@
 # Outdoor Pucks
 
+[Evolution of hockey puck](https://www.instagram.com/p/DJsM9fhMW9i/)
+
+[PUCKAROUND™ Pro Training Puck](https://hockeywraparound.com/products/puckaround-off-ice-training-puck)
+- Chase said it was too heavy
 ## Green Biscuit
 
 ![alt text](images/IMG_5441.jpeg){width="350"}
