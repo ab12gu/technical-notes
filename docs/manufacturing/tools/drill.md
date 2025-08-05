@@ -1,8 +1,47 @@
 # Drill
 
+Torque = (Horsepower × 5252) / RPM
 
-![](images/drill-specs.jpeg "a title"){width="300"}
-![](images/jake-drill-press.jpg){width="300"}
+- Some motors maintain torque better under load (especially capacitor-start induction motors or TEFC motors)
+- The WEN’s motor is lower quality — it bogs down easier under load
+    - WEN 4214T uses a variable pulley system (belt + reeves drive). These lose torque at lower speeds.
+    - basic capacitor-start, induction motor (capacitor-start split-phase induction motor (usually capacitor-start)
+    - Better: electronic variable speed + geared belt drive or DC motors with constant torque curves maintain torque
+        - Capacitor-start, capacitor-run induction motors, sometimes with TEFC (Totally Enclosed Fan Cooled) design
+    - big Forstner bits that ideally run at 250–500 RPM.
+    
+
+
+Current drill I own - [corded drill - amazon](https://www.amazon.com/BLACK-DECKER-Corded-5-2-Amp-DR260C/dp/B00T2VJ93C)
+
+- Black and Decker
+- DR260C
+- 5.5 amps
+- 1600 rpm
+- corded
+- $45
+- 3/8in (10 mm) chuck
+- 
+
+Jake's [drill press](https://wenproducts.com/products/wen-4214t-12-in-variable-speed-drill-press)
+
+- WEN 4214T
+- brushless, induction motor
+- 5-Amp
+- 12 inch swing
+- 3 1/8 inch spindle travel
+- 580 to 3200 RPM
+- 5/8-inch capacity keyed chuck
+- [$220 home depot](https://www.homedepot.com/p/WEN-5-Amp-12-in-Variable-Speed-Cast-Iron-Benchtop-Drill-Press-with-Laser-Work-Light-and-5-8-in-Chuck-Capacity-4214T/316951776)
+- 0.75 horsepower
+
+Let’s say you’re using a 2" Forstner bit in hard maple:
+
+- Required torque to cut = ~6–10 Nm
+- WEN motor may produce ~3–4 Nm at 580 RPM
+
+
+
 
 ## Purchase-able drill:
 
