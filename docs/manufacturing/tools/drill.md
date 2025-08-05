@@ -13,6 +13,14 @@
     - Rated Voltage: 21V
     - Chuck: 3/8in
     - $26
+- [Miwaulkee Impact Driver](https://www.homedepot.com/p/Milwaukee-M18-FUEL-SURGE-18V-Lithium-Ion-Brushless-Cordless-1-4-in-Hex-Impact-Driver-Tool-Only-2760-20/300193508?selectedSellerId=0#overlay)
+    - $170
+    - Recommended by Greg due to noise level
+    - Used for tougher bolts
+    - limitation: needs bits with hex collet (1/4")
+        - many drillbits don't have a hex collet (spade, forstneer, even standard)
+        - cant limit overdriving with torque limiter that drills have
+            - but can work if u know ur impact driver well, generally not as smooth
 
 ## Common Drill Motor Specs
 
