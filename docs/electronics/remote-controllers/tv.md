@@ -7,6 +7,7 @@ TV Brand: Samsung
 - Model: UN32J4000BF
 - Type No: UN32J4000
 - October 2016
+- Size Diagonal: 32"
 
 Power
 
@@ -34,11 +35,17 @@ Output:
 Vizio E43-c2 
 
 - Screen Size (Diag.): 43"
+- TV SN: 43LWZ2SEAR03263
+- Version: V2.1.18.0888_143
+- Source Type: HDMI
+- Resolution: 1920 x 1080
+- Released: 2015
+- [spec sheet](https://support.vizio.com/s/article/E43-C2-Model-Information?language=en_US)
 
 Remote
 
 - XRT122 Remote - infrared
-- [https://www.amazon.com/Control-E65x-c2-E40x-c2-E32h-c1-E28h-c1/dp/B018VBX0IS?gQT=2](https://www.amazon.com/Control-E65x-c2-E40x-c2-E32h-c1-E28h-c1/dp/B018VBX0IS?gQT=2)
+- [amazon universal remote - $6](https://www.amazon.com/Control-E65x-c2-E40x-c2-E32h-c1-E28h-c1/dp/B018VBX0IS?gQT=2)
 - typical operates close to near-infrared @ 940 nm
     - Common values: 850 nm, 870 nm, 940 nm, but 940 nm is the industry standard for IR remote control LEDs
     - Modulation frequency too (usually 38 kHz): turns on and off 38,000 times per second reducing light interference
