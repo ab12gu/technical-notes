@@ -3,7 +3,7 @@ Soundbio Lab CRISPR Course
 
 - Date: 10-2024
 - 5 week course
-- [course-link]([https://www.sound.bio/trainings-and-courses-tickets/2024/1/10/dnd0wktkz66k4yo5x4ka4bjq0ngx12-mjyn2)
+- [course-link](https://www.sound.bio/trainings-and-courses-tickets/2024/1/10/dnd0wktkz66k4yo5x4ka4bjq0ngx12-mjyn2)
 
 CRISPR, or Clustered Regularly Interspaced Short Palindromic Repeats, is a gene-editing tool that has revolutionized gene editing across various fields, including medicine, agriculture, and biotechnology. 
 
