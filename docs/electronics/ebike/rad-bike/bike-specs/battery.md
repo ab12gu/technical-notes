@@ -28,6 +28,6 @@
 
 ## Images
 
-![](images/ebike-battery.png)
+![](../images/ebike-battery.png)
 
-![](images/ebike-battery-serial.png)
+![](../images/ebike-battery-serial.png)
