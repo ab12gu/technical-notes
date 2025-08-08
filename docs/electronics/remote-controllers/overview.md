@@ -2,6 +2,13 @@
 
 The first remote controls detonated bombs in WWII.
 
+Runs at 940nm
+
+- Occasionally @ 850nm for security cameras
+- Invisible to human eye but seen through cameras
+
+- [arduino ir remote build](https://electronoobs.com/eng_arduino_tut34)
+
 ## Infrared Spectrum
 
 Lower energy than visible light (longer wavelengths)
