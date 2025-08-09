@@ -17,6 +17,7 @@
 ### Materials
 
 - 10ft polypropylene [tubing](https://www.hoopologie.com/natural-clear-polypro-tubing)
+- Connector bit (2in in length roughly)
 - [snap buttons](https://www.hoopologie.com/tools-hardware)
 - smaller locking tubing
 - gaffer tape
