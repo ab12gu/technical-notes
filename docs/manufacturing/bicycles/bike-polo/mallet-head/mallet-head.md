@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/reel/DIN23ZpupiH/?igsh=MzFoeWlpcm15cG1o" target="_blank">View this post on Instagram</a>
   </blockquote>
   <script async src="https://www.instagram.com/embed.js"></script>
-</div
+</div>
 
 ## Material
 
