@@ -68,6 +68,7 @@ Mild Steel
 
 - typically contain 18% chromium 
 - exhibit improved corrosion and oxidation resistance 
+- 
 
 ## Alloys
 
