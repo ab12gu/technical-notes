@@ -16,9 +16,13 @@
     - [SS - Threaded rod Home Depot - $8](https://www.homedepot.com/p/Everbilt-1-4-in-x-3-ft-Stainless-Steel-Coarse-Threaded-Rod-7803/332735299)
     - [Zinc Plated, Home Depot - $6](https://www.homedepot.com/p/Everbilt-1-4-in-x-3-ft-Zinc-Plated-Steel-Solid-Round-Rod-1601/332734030)
     - [Online Metals, $5 ss rod, free cut and pickup :)](https://www.onlinemetals.com/en/buy/stainless-steel/0-25-stainless-round-bar-304-304l-annealed-cold-finish/pid/73)
-- Clamps: [1/4in Wire Rope Clips - Harbor Freight - $4](https://www.harborfreight.com/2-piece-1-4-quarter-inch-wire-rope-clips-93891.html)
+- Clamps: [1/4in Wire Rope Clips, 2pc - Harbor Freight - $4](https://www.harborfreight.com/2-piece-1-4-quarter-inch-wire-rope-clips-93891.html)
     - NOTE: Most standard bike saddle rails have a diameter of 7 mm.
     - Or [Ace hardware Wire Rope - $7](https://www.acehardware.com/departments/hardware/chain-and-rope/rope-and-chain-accessories/77725)
+    - [Mcmaster - $1](https://www.mcmaster.com/30325T63/)
+    - [Aliexpress - $1.75](https://www.aliexpress.us/item/3256805937890967.html?mp=1&pdp_npi=5%40dis!USD!USD%201.75!USD%201.75!!USD%201.75!!!%402103146f17553379577858130e5ede!12000035861822735!ct!US!2624340281!!1!0&gatewayAdapt=glo2usa)
+    - [Amazon - 40/$20 or 12/$7.50](https://www.amazon.com/gp/product/B0F1CW5LPL?psc=1)
+    - [Tacoma Screw - $8](https://www.tacomascrew.com/Product/552-123)
 - Instructional video: [YTB - DIY saddle bag support](https://youtu.be/dy4tRtDtaro)
     - He says 11kg/20lbs is limit bacause bends too much
     - Recommends to mount it to seatpost
