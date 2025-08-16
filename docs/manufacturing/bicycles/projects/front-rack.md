@@ -23,6 +23,7 @@
     - [Aliexpress - $1.75](https://www.aliexpress.us/item/3256805937890967.html?mp=1&pdp_npi=5%40dis!USD!USD%201.75!USD%201.75!!USD%201.75!!!%402103146f17553379577858130e5ede!12000035861822735!ct!US!2624340281!!1!0&gatewayAdapt=glo2usa)
     - Amazon - [40/$20](https://www.amazon.com/gp/product/B0F1CW5LPL?psc=1) or [12/$7.50](https://www.amazon.com/gp/product/B0F1CW5LPL?psc=://www.amazon.com/gp/product/B09D79Y4M9)
     - [Tacoma Screw - $8](https://www.tacomascrew.com/Product/552-123)
+    - [Granger - $10 each](https://www.grainger.com/product/DAYTON-Wire-Rope-U-Bolt-Clip-1-4-2VKH3)
 - Instructional video: [YTB - DIY saddle bag support](https://youtu.be/dy4tRtDtaro)
     - He says 11kg/20lbs is limit bacause bends too much
     - Recommends to mount it to seatpost
