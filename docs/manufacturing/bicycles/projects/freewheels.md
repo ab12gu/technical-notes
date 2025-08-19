@@ -12,7 +12,7 @@ List of freewheels on the market
 
 
 White Industries
-[White Industries]([https://link-url-here.org](https://www.whiteind.com/))
+[White Industries](https://www.whiteind.com/)
 
 - [Single Freewheels](https://www.whiteind.com/product/single-freewheels/) ($120, 24-07-01):
   - Heat treated 4130 steel that houses 3 heat treated S7 tool steel pawls
