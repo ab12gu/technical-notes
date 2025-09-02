@@ -17,7 +17,6 @@ Dry wall characteristics:
 - Wood and plaster are heavier, more expensive, and might not be fire retardant
 - the firerated drywall has fiberglass mixed in w/ the gypsum
 
-
 ## Lath + Plaster
 
 Used to use lath + plaster, where narrow strips of wood (lath) stacked with plaster
@@ -77,7 +76,16 @@ Steps
 2. Sanding
 3. Primer
 4. Paint
-- 
+
+## Mounting onto drywall
+
+Find a stud
+
+- Drywall panels are either 4 or 5.5ft, so you can measure 4 ft from bottom or corner for estimate
+
+Dry wall anchors - [harbor freight - $4](https://www.harborfreight.com/search?q=drywall%20anchors)
+
+- [ytb - how to hang on drywall - 4min](https://www.youtube.com/watch?v=T_k4WtidlY4)
 
 ## Citations
 
