@@ -21,6 +21,11 @@ Dry wall characteristics:
 
 - works better if on edge across stud
     - else will find first edge, but overshoot the second edge
+- studs are typically 16" apart
+- Drywall panels are either 4 or 5.5ft, so you can measure 4 ft from bottom or corner for estimate
+- studs are on one side of an electrical outlet
+- you can happer a small nail above baseboard to see if resistance of stud
+    - then repair with a slip of [caulking](https://www.youtube.com/shorts/BPEf6G5AxuY)
 
 ## Lath + Plaster
 
@@ -87,13 +92,12 @@ Steps
 
 ![](images/wall-anchor.webp){width="500"}
 
-Find a stud
-
-- Drywall panels are either 4 or 5.5ft, so you can measure 4 ft from bottom or corner for estimate
-
 Dry wall anchors - [harbor freight - $4](https://www.harborfreight.com/search?q=drywall%20anchors)
 
+- [ytb - how ot install anchors - 2min](https://www.youtube.com/watch?v=HRbOk5fyUB0)
 - [ytb - how to hang on drywall - 4min](https://www.youtube.com/watch?v=T_k4WtidlY4)
+- [amazon - 3m dry wall mounts](https://www.amazon.com/3M-Claw-Drywall-Picture-Hanger/dp/B09RN92NFC?geniuslink=true)
+- [ytb - how plastic wall anchors work - short](https://www.youtube.com/shorts/BPEf6G5AxuY)
 
 ## Citations
 
