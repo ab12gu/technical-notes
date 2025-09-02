@@ -18,6 +18,7 @@ Note: Current is limited by charger so no need for fuse or extra limiter
 
 For a 2008 Prius AGM: 13.4 V is a good target float voltage.
 
+- Check battery voltage, if under 11.0v, some chargers may refuse to start due to previous battery damage
 - Lead-acid batteries will accept very small currents, even tens of milliamps
 - C = the capacity of the battery in ampere-hours (Ah)
 = C/10 is safe, c/3 is fast, but safe
