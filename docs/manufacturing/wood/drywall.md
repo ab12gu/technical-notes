@@ -17,6 +17,11 @@ Dry wall characteristics:
 - Wood and plaster are heavier, more expensive, and might not be fire retardant
 - the firerated drywall has fiberglass mixed in w/ the gypsum
 
+## Stud finder
+
+- works better if on edge across stud
+    - else will find first edge, but overshoot the second edge
+
 ## Lath + Plaster
 
 Used to use lath + plaster, where narrow strips of wood (lath) stacked with plaster
@@ -52,6 +57,7 @@ The thicker the drywall, the longer it can hold without requiring a stud/joist b
 ## Repair
 
 - [ytb - Lowe's how to repair drwall - 3min](https://www.youtube.com/watch?v=Fdy9uRvpI-E)
+- [ytb - snap toggle removal](https://www.youtube.com/watch?v=cKixOhnRw8I&t=52s)
 
 Purchaseable
 
@@ -78,6 +84,8 @@ Steps
 4. Paint
 
 ## Mounting onto drywall
+
+![](images/wall-anchor.webp){width="500"}
 
 Find a stud
 
