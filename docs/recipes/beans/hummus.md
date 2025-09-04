@@ -44,3 +44,11 @@
     - replace tahini w/ greek yogurt
 - Tahini replacements
     - any nut butter
+
+## Roasting Sesame Seeds
+
+- Toast (optional but recommended):
+    - Heat sesame seeds in a dry skillet over medium-low heat, stirring often
+    - Until lightly golden and fragrant (3–5 minutes)
+- Reduces bitterness and adds more nuttiness flavor
+- About double the number of seeds per usage of tahini sauce
