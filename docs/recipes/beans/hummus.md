@@ -6,6 +6,7 @@
     - NOTE: Only thing done separately, makes smoother vs grainier
     - 1/4 cup lemon juice (aka 1 large lemon)
     - 1/4 cup tahini (sesame paste)
+        - Just blend 1/2 cup seeds... same thing homie
 2. FLAVORS: Blend for 30 more seconds:
     - 1+ clove garlic minced
     - 2 tablespoons extra virign olive oil
