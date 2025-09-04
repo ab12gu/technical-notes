@@ -1,4 +1,4 @@
-# Skateedge
+# Skatedge
 
 - [sparx sharpener](https://sparxhockey.com/products/sparx-sharpener-3?variant=40488619901027&country=US&currency=USD)
 - [blademaster](https://americanathleticshoe.com/products/blademaster-infinity-skate-sharpening-machine?variant=44961409499307&country=US&currency=USD)
