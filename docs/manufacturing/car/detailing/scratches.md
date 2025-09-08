@@ -31,6 +31,15 @@
     - Protects from UV, scratches, chemicals
     - Gives gloss & depth
 
+## How polish works
+
+Car polish has fine abrasives
+
+    - sponge just moves polish around
+    - else sponge just moves on top of clear coat, possibly burning it
+    - secondary, the polish acts as a lubrication to prevent burns
+    - the pads get softer with higher grit to provide less force 
+
 ## Repair clear coat
 
 Polishing pad + compound acts like super-fine sandpaper — it shaves down a microscopic layer of clear coat until the scratch is level with the surrounding surface
@@ -40,13 +49,10 @@ Compound is generally just a more aggressive version of liquid polisher, used li
 [ytb - buff w/ sponge pads](https://www.youtube.com/watch?v=xVUzn6rT5JU)
 
 1. clean panel with car shampoo or soap to make sure grit does scratch surface again
-2. buffing [sponge pads](https://www.amazon.com/SPTA-Backing-Compound-Polishing-Polisher/dp/B07STT35FF?s=automotive&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&linkId=3c1fbcb5451c957e1ccf480f2d71ce18&language=en_US) for polishing/waxing - $16-$27
-    - Fit for 3" -> 7" backing plate.
-    - Green T120 (more coarse, deeper cuts)
-    - Yellow T80 
-    - Orange T60
-    - Blue T40 
-    - Red T20 (more fine)
+2. buffing [sponge pads] for polishing/waxing
+    - Orange (Coarse) -  Standard Grade Cutting Pad, Excellent For Enamels, Acrylics And Urethane.
+    - Yellow & Blue (Medium) -  Polishing Pad, Final Cutting, Polishing Or Glazing Clear Coat Surfaces
+    - White & Black (Extra Fine) - Finishing Pad, Provides A Rich Swirl-Free High Gloss Finish. 
 - Held in place w/ velcro
 - Damp polisher with water and run to remove excess
 - Pour a circle of polishing compound on sponge
@@ -63,6 +69,15 @@ Microfiber’s ultra-fine fibers lift dirt away instead of dragging it. Doesn't 
 - 300–400 GSM grams per square meter
 - thick enough to be safe, but not so plush they soak up all your polish before wiping
 - higher gsm is thiccer 
+
+## Paint Touch Up
+
+Purchaseable small liquid cartridges of paint specific for your car color
+
+NOTE: Paint may not match if car is older as UV rays "damage" color of paint over time
+
+- Additionally, the darker the paint, the lighter the touchup paint will be because the clearcoat darkens it
+- However, due to differences in clear-coat, the darker touchup won't match darker cars
 
 ## Equipment
 
