@@ -1,5 +1,14 @@
 # build123d
 
+Python based boundary representation (BREP) modelling framework for 2d/3d modelling.
+
+- Built on the Open Cascade geometric kernel
+- Generated from faults of CADQuery, having somewhat restricted Fluent API (method chaining) that is replaced with full python toolbox
+
+
+
+## Hyperlinks
+
 - [build123d readthedocs](https://build123d.readthedocs.io/en/latest/)
 - [build123d reddit](https://www.reddit.com/r/build123d/)
 - [build123d units](https://build123d.readthedocs.io/en/latest/build_part.html#units)
