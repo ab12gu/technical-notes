@@ -16,7 +16,3 @@ Figma color
 - [https://m3.material.io/get-started](https://m3.material.io/get-started)
 
 
-## Color Accessiblity Checker
-
-- [https://accessibleweb.com/color-contrast-checker/](https://accessibleweb.com/color-contrast-checker/)
-- [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)
