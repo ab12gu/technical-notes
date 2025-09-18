@@ -2,8 +2,6 @@
 
 ## Ingredients
 
-- Pasta
-    
 - Base
     - sliced garlic
     - pepper flakes (grill w/ garlic)
@@ -32,18 +30,24 @@
 
 ## Steps
 
-- Broccoli Blanching
-    1. bring salt water to boil
-    2. boil broccoli for 3 minutes
-    3. Alt: just fry in salt/pepper/garlic for 5 minutes
-- Pasta Blanching
-    1. bring salt water to boil
-    2. boil pasta for 10 minutes
-- Sauce
-    1. saute garlic + chili flakes
-    2. add diced tomatoes
-    3. Add garnish 1
-    4. Simmer for 15 minutes
-    5. Add garnish 2
+Broccoli Blanching
+
+1. bring salt water to boil
+2. boil broccoli for 3 minutes
+3. Alt: just fry in salt/pepper/garlic for 5 minutes
+
+Pasta Blanching
+
+1. bring salt water to boil
+2. boil pasta for 10 minutes
+
+Sauce
+
+0. blend cottege cheese/greek yogurt (optional add on)
+1. saute garlic + chili flakes
+2. add diced tomatoes
+3. add garnish 1
+4. Simmer for 15 minutes
+5. add garnish 2
 
 
