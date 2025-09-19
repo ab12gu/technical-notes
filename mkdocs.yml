@@ -35,3 +35,6 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - admonition
+  - attr_list # grids - https://squidfunk.github.io/mkdocs-material/reference/grids/
+  - md_in_html # grids
