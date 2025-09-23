@@ -38,3 +38,6 @@ markdown_extensions:
   - admonition
   - attr_list # grids - https://squidfunk.github.io/mkdocs-material/reference/grids/
   - md_in_html # grids
+
+extra:
+  generator: false
