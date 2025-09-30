@@ -15,4 +15,8 @@ Figma color
 - recommended by bob
 - [https://m3.material.io/get-started](https://m3.material.io/get-started)
 
+## FRC
+
+= Made by David from Miso Mechanics
+    - [https://frcdesign.org/](https://frcdesign.org/)
 
