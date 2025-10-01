@@ -5,6 +5,7 @@
 ## Vim
 
 - [https://vimhelp.org/ - HTML version of the Vim help pages](https://vimhelp.org/)
+- [https://vimhelp.org/vim_faq.txt.html](https://vimhelp.org/vim_faq.txt.html)
 - [https://www.vim.org/](https://www.vim.org/)
 - [https://www.vim.org/web.php](https://www.vim.org/web.php)
 - [https://www.iopb.res.in/vimbook-OPL.pdf](https://www.iopb.res.in/vimbook-OPL.pdf)
