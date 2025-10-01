@@ -45,10 +45,20 @@
 ## Popular books
 
 - [https://en.wikipedia.org/wiki/Redshirts_(novel)](https://en.wikipedia.org/wiki/Redshirts_(novel))
+- [https://en.wikipedia.org/wiki/Blood_Meridian](https://en.wikipedia.org/wiki/Blood_Meridian)
 
 ## Popular Authors
 
 - [https://en.wikipedia.org/wiki/John_Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)
+- [https://en.wikipedia.org/wiki/Kurt_Vonnegut](https://en.wikipedia.org/wiki/Kurt_Vonnegut)
+- [https://en.wikipedia.org/wiki/Daniel_Silva_(novelist)](https://en.wikipedia.org/wiki/Daniel_Silva_(novelist))
+- [https://en.wikipedia.org/wiki/Sue_Grafton](https://en.wikipedia.org/wiki/Sue_Grafton)
+- [https://en.wikipedia.org/wiki/Patricia_Cornwell](https://en.wikipedia.org/wiki/Patricia_Cornwell)
+- [https://en.wikipedia.org/wiki/Tom_Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)
+- [https://en.wikipedia.org/wiki/A.Scott_Berg](https://en.wikipedia.org/wiki/A._Scott_Berg)
+- [https://en.wikipedia.org/wiki/Phyllis_E.Grann](https://en.wikipedia.org/wiki/Phyllis_E._Grann)
+- [https://en.wikipedia.org/wiki/Judy_Blume](https://en.wikipedia.org/wiki/Judy_Blume)
+- 
 
 ## Publishers
 
