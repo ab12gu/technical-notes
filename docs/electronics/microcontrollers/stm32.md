@@ -32,3 +32,10 @@ Based on various 32-bit RISC ARM Cortex-M processing cores
 - [https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 - [https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html)
 
+## Links
+
+- [https://www.txsemi.com/cn/index.html](https://www.txsemi.com/cn/index.html)
+- [https://reversepcb.com/stm32f103c8t6/](https://reversepcb.com/stm32f103c8t6/)
+- [https://electronics.stackexchange.com/questions/638490/how-can-i-use-stm32-blue-pill-with-external-power-source-like-battery-which-p](https://electronics.stackexchange.com/questions/638490/how-can-i-use-stm32-blue-pill-with-external-power-source-like-battery-which-p)
+- [https://electronics.stackexchange.com/questions/348514/how-to-power-stm32f103c8t6-in-a-real-project](https://electronics.stackexchange.com/questions/348514/how-to-power-stm32f103c8t6-in-a-real-project)
+- [https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
