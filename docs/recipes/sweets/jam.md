@@ -14,10 +14,12 @@ For the pb&j tortillas, you can just do pb+banana instead of jam...
 
 Fiber:
 
-- Add chia seeds or ground flax seeds to give more fats/fiber/protein
-- Orange peels for pectin (soluble fiber)
-- Psyllium husk for fiber (or inulin powder)
-- Hemp seeds
+- chia seeds or ground flax seeds 
+- orange peels 
+    - for pectin (soluble fiber)
+- psyllium husk 
+- inulin powder
+- hemp seeds
 
 Sugar:
 
@@ -29,19 +31,21 @@ Sugar:
 
 Protein:
 
-- Maybe when pb protein works, but may have artificial sweeteners
-- Use pb protein powder + water to get pb taste
+- pb protein powder + water 
+    - to get pb taste
+- whey pb protein
+    - but may have artificial sweeteners
 
 Spices:
 
-- Cinnamon, cardamom, ginger
+- cinnamon, cardamom, ginger
 - cocoa nibs
 - cononut flakes
 - chipped nuts
 
 Herbs:
 
-- Basil, mint or rosemary
+- basil, mint or rosemary
 - lemon?
 
 
