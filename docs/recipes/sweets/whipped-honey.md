@@ -1,5 +1,6 @@
 # Whipped Honey
 
+- You can do it either before honey crystalizes or after to smoothen it
 - More distributed crystals
 - doesn't harden
 
