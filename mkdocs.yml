@@ -22,6 +22,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+    - content.code.copy
   locale: en
   color_mode: auto
   user_color_mode_toggle: auto
@@ -38,6 +39,12 @@ markdown_extensions:
   - admonition
   - attr_list # grids - https://squidfunk.github.io/mkdocs-material/reference/grids/
   - md_in_html # grids
+  - pymdownx.highlight: # code syntax highlighting
+      pygments_lang_class: true
+  - pymdownx.superfences
 
 extra:
   generator: false
+
+
+
