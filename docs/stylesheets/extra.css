@@ -68,6 +68,11 @@
   font-size: 1.1rem; /* default is ~1.1rem — increase this as needed */
 }
 
+/* No wrap mkdocs table */
+.nowrap-table table td {
+  white-space: nowrap;
+}
+
 /* sidebar UI changes */
 @media screen and (max-width: 1219px) {
  .md-header__title {
