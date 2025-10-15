@@ -1,5 +1,14 @@
 # Events
 
+
+[Puget Sound Tenants Union](https://soundtenants.org/)
+
+- Wed, 6:30p
+- [Cal Anderson Shelterhouse](https://maps.app.goo.gl/5QePdh87Dpcr7jvp7)
+- [Whatsapp](https://chat.whatsapp.com/KTH2sWuMSSfJ1pLGH9NoGm)
+
+## City Hosted Events
+
 - [Seattle Recreation Brochure](https://www.seattle.gov/parks)
 - [Freeway at the Park](https://www.freewayparkassociation.org/events)
 - [Seattle Rec Public Events](https://www.seattle.gov/parks/recreation/events-and-attractions/public-meeting-and-events-calendar)
