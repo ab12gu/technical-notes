@@ -1,5 +1,9 @@
 # TV Specs
 
+## Troubleshooting
+
+- [tv visio no remote](https://www.reddit.com/r/it/comments/14z1m2q/vizio_smart_tv_no_remote_and_cant_connect_to_wifi/)
+
 ## Smaller TV 
 
 TV Brand: Samsung
