@@ -1,4 +1,6 @@
-# CAD-software
+# 3D Modelling
+
+## CAD-software
 
 List of commerically and non-commerically available CAD software
 
@@ -31,11 +33,11 @@ List of commerically and non-commerically available CAD software
 
 ### 06/2023
 
-- https://www.reddit.com/r/FreeCAD/comments/1adxupp/looking_for_free_cad_software_suggestions/
-- https://en.wikipedia.org/wiki/Computer-aided_design
-- https://en.wikipedia.org/wiki/SolveSpace
-- https://en.wikipedia.org/wiki/GIMP
-- https://en.wikipedia.org/wiki/QGIS
-- https://colmap.github.io/
-- https://en.wikipedia.org/wiki/CloudCompare
-- https://en.wikipedia.org/wiki/MeshLab
+- [reddit.com/r/FreeCAD/for_free_cad_software_suggestions/](https://www.reddit.com/r/FreeCAD/comments/1adxupp/looking_for_free_cad_software_suggestions/)
+- [wiki/Computer-aided_design](https://en.wikipedia.org/wiki/Computer-aided_design)
+- [wiki/GIMP](https://en.wikipedia.org/wiki/GIMP)
+- [wiki/SolveSpace](https://en.wikipedia.org/wiki/SolveSpace)
+- [wiki/QGIS](https://en.wikipedia.org/wiki/QGIS)
+- [wiki/CloudCompare](https://en.wikipedia.org/wiki/CloudCompare)
+- [https://colmap.github.io/](https://colmap.github.io/)
+- [wiki/MeshLab](https://en.wikipedia.org/wiki/MeshLab)
