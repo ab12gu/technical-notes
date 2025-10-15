@@ -1,5 +1,8 @@
 # 3D Modelling
 
+- Need to try: [Blender](https://www.blender.org/)
+- Need to see if can sell CAD models
+
 ## CAD-software
 
 List of commerically and non-commerically available CAD software
