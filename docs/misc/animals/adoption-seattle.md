@@ -1,6 +1,6 @@
 # Adoption Seattle
 
-Where I got my cat:
+Where I got my cat: Seattle Animal Shelter, run by city
 
 - [seattle.gov/fees](https://www.seattle.gov/animal-shelter/find-an-animal/adopt/adoption-fees-and-applications)
 - [seattle.gov/adopt](https://www.seattle.gov/animal-shelter/find-an-animal/adopt)
