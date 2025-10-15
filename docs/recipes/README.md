@@ -11,6 +11,7 @@ Just a list of recipes I make, will try to make, have made at one point, or will
 
 - Cauliflower
 - Cabbage
+- buddist chef - satan pucks (rec from Charcol eastvan polo)
 
 
 ## TOADD
