@@ -23,3 +23,23 @@ Interior section of the park where you really only need to worry about getting t
 
 - I think usually in that part of the park bear hangs are permitted and you don't need to deal with a canister.
 
+## Self Made List
+
+- tent
+- sleeppad
+- sleepingbag
+- backpacking bag
+- disposible waters maybe - 3/4 smart water
+- flashlight
+- toilet paper
+- plate/spoon
+- juggling stuff
+- book
+- kindle
+- towel
+- flipflops
+- pincho
+- sunglasses
+- toothbrush
+- 4 days dry food for bear canister
+- hat
