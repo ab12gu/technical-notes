@@ -2,6 +2,13 @@
 
 - [https://neovim.io/](https://neovim.io/)
 
+## Common Commands
+
+
+```bash
+:w !python % # runs current file in python
+```
+
 ## Getting Started 
 
 Create a configuration file for neovim editor
