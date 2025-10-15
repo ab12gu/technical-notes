@@ -28,3 +28,4 @@ The print issue that I ran into was the printer I use (Bambu X1 Carbon) has a 25
 
 However, with the new dimensions based on relationship math to the holes. The length dimension "happened" to be exactly 256 cm :), and I removed the middle gap and it fit perfectly without needed to split the CAD model. 
 
+Code used to generate CAD: [github.com/ab12gu/paintstand.py](https://github.com/ab12gu/cad-scripts/blob/main/build123d/paint-stand/code/paintstand.py)
