@@ -11,8 +11,8 @@ Elizabeth wanted to remake her paint stand to something more sturdy. So I 3d mod
 
 ## Images
 
-<img src="/design/3d-modeling/paint-stand/images/cardboard-stand-front.png" alt="paint-stand" width="300">
-<img src="/design/3d-modeling/paint-stand/images/cardboard-stand-top.png" alt="paint-stand" width="300">
+<img src="/design/3d-modeling/projects/paint-stand/images/cardboard-stand-front.png" alt="paint-stand" width="300">
+<img src="/design/3d-modeling/projects/paint-stand/images/cardboard-stand-top.png" alt="paint-stand" width="300">
 
 
 ## CAD Software
