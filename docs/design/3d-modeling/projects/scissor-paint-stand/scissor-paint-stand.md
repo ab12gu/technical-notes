@@ -1,4 +1,4 @@
-# Sciessor Paint Stand
+# Scissor Paint Stand
 
 Requested by Angela (Elliot's friend)
 
