@@ -13,6 +13,12 @@ Just a list of recipes I make, will try to make, have made at one point, or will
 - Cabbage
 - buddist chef - satan pucks (rec from Charcol eastvan polo)
 
+## Apps/Websites
+
+- [BeChef](https://apps.apple.com/us/app/bechef-recipe-manager/id6743420060)
+    - Never used it
+    - But my friend Brandon developed it summer of 2025
+    - It generates a recipe from an image of a food item
 
 ## TOADD
 
