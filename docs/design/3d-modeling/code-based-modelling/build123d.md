@@ -22,7 +22,7 @@ How to run:
 $ source .venv/bin/activate
 $ python -m ocp_vscode
 $ python -m ocp_vscode --theme dark
-$ python box_generate.py
+$ python box_generate.py # need a 2nd terminal or tmux
 ```
 
 This will start a Flask server and the viewer can be reached under
@@ -62,6 +62,38 @@ Code breakdown:
 - **BuildLine:** creates lines
 
 ### Algebra Mode
+
+## Animations
+
+[https://github.com/GarryBGoode/gggears](https://github.com/GarryBGoode/gggears "https://github.com/GarryBGoode/gggears")
+
+- [https://github.com/bernhard-42/bd_animation/tree/main](https://github.com/bernhard-42/bd_animation/tree/main)
+    - Seems Animation it should be included in ocp_vscode
+
+You can see the animation in the viewer w/ this code:
+```python
+import numpy as np
+
+animation = Animation(p.part)
+times = np.linspace(0, 2, 11) # 2 seconds split in 0.2 intervals
+values = np.linspace(0, 360, 11) # as many positions as times
+animation.add_track(f"/Group", "rz", times, values) # animate the group 
+
+show(p)
+animation.animate(1)
+```
+
+
+I never toyed with that feature myself, but [YACV](https://yeicor-3d.github.io/yet-another-cad-viewer/?preload=logo.glb&preload=logo_hl.glb&preload=logo_hl_tex.glb&preload=fox.glb&preload=img.glb&preload=location.glb) internally uses the [GLTF format](https://www.khronos.org/gltf/"GLTF), which is a common one supporting animations. The documentation for YACV is nearly non-existant, but I guess, it relies on model-viewer for this feature, so maybe [_their_ documentation](https://modelviewer.dev/examples/animation/index.html) may help.
+
+From Mac on Discord CadQuery, Build123d server (wants to know about it after test)
+## Mobile Sandbox
+
+There are wasm ports that work on mobile
+
+- [https://jojain.github.io/build123d-sandbox/](https://jojain.github.io/build123d-sandbox/) (works great on android and apparently works ok on newer iphones)
+
+
 
 ## Hyperlinks
 
