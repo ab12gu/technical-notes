@@ -24,6 +24,8 @@
 
 Local
 
+- [World Market](https://www.google.com/maps?q=World+Market+Seattle)
+- [Ross](https://www.google.com/maps?q=Ross+Seattle)
 - [Bedrooms & More, Wallingford](https://www.google.com/maps?q=Bedrooms+%26+More+Seattle)
 - [IKEA, Renton](https://www.google.com/maps?q=IKEA+Renton)
 - [West Elm, Seattle](https://www.google.com/maps?q=West+Elm+Seattle)
