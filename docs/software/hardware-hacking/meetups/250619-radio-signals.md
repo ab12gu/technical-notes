@@ -20,3 +20,39 @@ Attempted: [Trunked Radio System](https://en.wikipedia.org/wiki/Trunked_radio_sy
     - Caped at 1.7 GHz, so couldn't detect signal
     - [https://www.rtl-sdr.com/](https://www.rtl-sdr.com/)
 
+
+NOTES:
+
+- gnu radio
+- ex: run a pager network on an island with radio in a box on an island
+- posx encoding and runs a bunch of beakers
+
+CHIPS USED:
+
+- realtec chips - rtlsdr
+- realtex rt3828 option
+
+Amazon
+
+- RTL-XTR
+- DVV - salder an entenna
+
+RTL2838UHIDIR
+
+- https://www.rtl-sdr.com/
+- DVB-T+DAB+FM+SDR
+
+RTL2832U R820T2 TCX0+BIAS T+HF
+
+- https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0BMKB3L47
+
+hackerRF One
+Great Scott Gadgets
+
+directional antenna
+
+- sma or rp sma
+- bigger - bnc tnc etc
+- cv connector so-123
+
+alpha - high power dongle - power limited
