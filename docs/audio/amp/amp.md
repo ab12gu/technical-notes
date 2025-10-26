@@ -10,7 +10,7 @@ I found 2 desktop speakers outside my apartment while walking the dog and wanted
 
 So, I decided to look up how speakers work, getting deep into passive vs. active speakers, amplifiers, recifievers, digital vs. analog audio, etc, etc. 
 
-For simplicity sake, I could have just bought a integrated amplifier, but those were more than my budget rolling around $30 for the cheapest models on Amazon. So I found a <$2 amp from [aliexpress](https://www.aliexpress.us/item/3256804913221986.html?gatewayAdapt=glo2usa). 
+For simplicity sake, I could have just bought a integrated amplifier, but those were more than my budget rolling around $30 for the cheapest models on Amazon. So I found a $2 amp from [aliexpress](https://www.aliexpress.us/item/3256804913221986.html?gatewayAdapt=glo2usa). 
 
 I went to the Capitol hill tool library and sorted through their bins of old laptop chargers and found one that works for the speaker model I found outside. I also got some cables to splice and solder to connect to power supply to plug into the purchased amplifier.
 
@@ -46,4 +46,32 @@ Working on building an enclosure for the amplifier.
 ![](../images/amp-labelled.png)
 ![](../images/amp-front-back.png)
 ![](../images/amp-dimensions.png)
+
+
+## Changes to be made
+
+Currently I don't actually maximize the input power into the amp. I think it cannot draw enough current but I don't remember... I research this on July 4th 2025 and its been a few months...
+
+Here are the notes for it tho:
+
+- Need: 15 volt charger w/ 7.5 amps
+
+20 volt input
+
+- 8 ohm resistance
+- 2.5 amps*** each 
+- 50 watts
+
+20 volt inout
+
+- 8 ohm resistance
+- 2.5 amps*** each
+- 50 watts
+
+max 120 watts
+
+Recently bought a subwoofer - 6ohms
+
+- 70W rms ?
+- 10% thd 6ohms 100 hz
 

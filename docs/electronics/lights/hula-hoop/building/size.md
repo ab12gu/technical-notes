@@ -8,6 +8,7 @@ Flowtoys [blog](https://flowtoys.com/blog/choosing-the-perfect-hoop-size-for-you
 
 - OD: **5/8"** as a decimal is 0.625in (1.5875cm)**
 - ID: variable ~1/2in
+    - umm isn't the inner dimenion 8mm?
 - Length:  (for 32" -> **34"** diameter tube)**
     - 8ft 4in -> **8ft 11in**
     - 100 -> 107 inches
