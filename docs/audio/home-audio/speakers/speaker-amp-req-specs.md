@@ -1,3 +1,4 @@
+# Speaker Amp Specs
 
 Speakers input:
 - 8 ohm impediance
@@ -20,4 +21,6 @@ Spec:
 Package List:
 - 1 x Amplifier Board
 - 1 x Cable
+
+
 

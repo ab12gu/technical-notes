@@ -4,6 +4,8 @@
 - [https://srslywrong.com/](https://srslywrong.com/)
 - [https://arbortrarypod.com/](https://arbortrarypod.com/)
 - [https://www.allmyrelationspodcast.com/](https://www.allmyrelationspodcast.com/)
+- [Modern MBA](https://modernmba.libsyn.com/)
+    - Katt was listening to it
 
 ## Add some here
 
