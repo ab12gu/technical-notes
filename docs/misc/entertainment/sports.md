@@ -1,6 +1,26 @@
 # Sports
 
+## Yoga
 
+- Urban Yoga Spa Link
+    - [https://clients.mindbodyonline.com/](https://clients.mindbodyonline.com/)
+
+## Soccer
+
+- John's (from tool library) soccer group
+    - Weekly, in a league
+    - Might be able to sub, coed
+- Chris (lived in kent) soccer group 
+   - [Brighten Playfield, Beacon Hill](https://maps.app.goo.gl/N5iu1F2BskYTX2es7) 
+   - Alternates 10am, 2pm Sundays
+   - Play as long as no downpour
+- Raincity Soccer
+    - $10, [https://www.raincitysoccer.org/](https://www.raincitysoccer.org/)
+    - Sundays 1pm, 90minutes, cal anderson
+
+## Kickball
+
+## Softball
 
 ## DiscNW — Pickup Ultimate Frisbee
 
