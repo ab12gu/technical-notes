@@ -1,5 +1,12 @@
 # Events
 
+[https://shortrun.org/](https://shortrun.org/)
+
+- Short Run Comix Festival
+- Georgetown
+- Nov 1st, Sat, 11am – 6pm
+- Unsure if there is multiple events for this a year?
+
 
 [Puget Sound Tenants Union](https://soundtenants.org/)
 
