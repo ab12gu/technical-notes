@@ -1,6 +1,8 @@
 # My Car
 
-Due to front fog lights and HID headlight bulbs (higher lumens than halogen), my car is the touring model. 
+I own a [prius](https://en.wikipedia.org/wiki/Toyota_Prius) 2008 Touring model. It was bought new from mom in 2008/9.
+
+You can tell that it is a touring model because it has separate front fog lights and HID headlight bulbs (higher lumens than halogen). 
 
 - VIN: JTDKB20U987769956
     - Country Built: J
