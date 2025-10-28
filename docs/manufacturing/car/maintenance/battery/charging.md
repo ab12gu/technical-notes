@@ -1,6 +1,9 @@
 # Charging
 
-TODO: Simple Wiring Diagram in KiCAD?
+Made with KiCAD
+
+![](img/charger-diagram.png)
+
 
 ## Setup
 
