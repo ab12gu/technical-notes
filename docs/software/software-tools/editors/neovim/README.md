@@ -1,27 +1,29 @@
-# NVim
+# Neovim
 
 - [https://neovim.io/](https://neovim.io/)
 
 ## Common Commands
 
-
 ```bash
 :w !python % # runs current file in python
+:vsplit # splits screen vertically
+:term # opens terminal obvi...
 ```
 
-## Getting Started 
+## Getting Started
 
-Create a configuration file for neovim editor
+- Create our `init.lua` file
+    - [https://neovim.io/doc/user/lua-guide.html#lua-guide-config](https://neovim.io/doc/user/lua-guide.html#lua-guide-config)
+    - Check if one is already exists
+        - Run `:echo stdpath('config')`
+- Install `lazy.vim` our package manager
+    - custom theme settings for `nvim`
+- Add colorscheme to init file: `colorscheme (catppuccin)`
+- Add plugins
+    - `Treesitter # fancier syntax highlighting (cause some files aren't supported in nvim by default)`
+    - `telescope.nvim`
 
-- [https://neovim.io/doc/user/lua-guide.html#lua-guide-config](https://neovim.io/doc/user/lua-guide.html#lua-guide-config)
-
-Check if one exists already in neovim
-
-```bash
-:echo stdpath('config')
-```
-
-### Writing Lua for config
+## How to port .vimrc to init.lua
 
 Create an `init.lua` file in `~/.config/nvim/`
 
@@ -42,23 +44,12 @@ vim.api.nvim_set_hl(0, "LineNr", { ctermfg = "LightBlue", })
 The vim.cmd runs vimscript rather than lua in-built functions, so its slower
 
 ```lua
-vim.cmd("colorscheme elflord") 
+vim.cmd("colorscheme elflord")
 vim.cmd.colorscheme(elflord) -- same as above
 ```
 
 
 
-
-
-### From ytb video these are what you need to get started:
-
-- Create our `init.lua` file
-- Install `lazy.vim` our package manager 
-    - custom theme settings for `nvim`
-- Add colorscheme to init file: `colorscheme (catppuccin)` 
-- Add plugins
-    - `telescope.nvim`
-    - `Treesitter`
 
 ## Lua
 
@@ -74,4 +65,3 @@ vim.cmd.colorscheme(elflord) -- same as above
 - [https://www.iopb.res.in/vimbook-OPL.pdf](https://www.iopb.res.in/vimbook-OPL.pdf)
 - [file:///Users/abhaygupta/Downloads/VimLikeAPro-sample.pdf](file:///Users/abhaygupta/Downloads/VimLikeAPro-sample.pdf)
 - [https://learnvimscriptthehardway.stevelosh.com/](https://learnvimscriptthehardway.stevelosh.com/)
-
