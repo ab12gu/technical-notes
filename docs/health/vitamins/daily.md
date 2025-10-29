@@ -1,5 +1,25 @@
 # Daily Vitamins
 
+## Testing
+
+Fourteen tests in a typical “all vitamin test package”
+
+## Vitamin D
+
+Due to lack of sun in Seattle, Kristie and Lily were prescribed vitamin D supplements.
+
+Kristie's Reccs:
+
+- [Dr. Formulated Vitamin D3 & Zinc – 5,000 IU by Garden of Life](https://www.gardenoflife.com/dr-formulated-vitamin-d3-5000-iu-zinc)
+    - She likes the zinc for her skin
+    - $15 for 30 tablets
+- [Vitamin Code®, RAW D3™, 125 mcg (5,000 IU)](https://www.amazon.com/Garden-Life-Raw-Supplement-Vegetarian/dp/B005JAT318?)
+    - $20 for 60 tablets
+
+
+
+## Typical Dificiencies
+
 If you eat some nuts daily and some fish a couple times a week, you should never get into deficiencies bb.
 
 1. Fish 2x a week for omega-3
@@ -25,4 +45,3 @@ If you eat some nuts daily and some fish a couple times a week, you should never
 | Ashwagandha         | For stress, anxiety, testosterone support. 300–600mg/day.                       |
 | Probiotics/Fiber    | If you have gut issues or don’t eat much fermented food or fiber.               |
 | Iron                | Only if tested low. Common in vegetarians/vegans. Don’t supplement blindly.     |
-
