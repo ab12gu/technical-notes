@@ -18,6 +18,18 @@ How to run:
 1. via vscode extension
 2. via terminal:
 
+Create a new project
+
+```bash
+$ mkdir <project-name>
+$ cd <project-name>
+$ uv init
+$ mv main.py <project-name>.py
+$ uv venv .venv
+```
+
+Activate existing project
+
 ```bash
 $ source .venv/bin/activate
 $ python -m ocp_vscode
