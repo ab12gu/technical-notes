@@ -9,6 +9,35 @@ Alternative options are to use a plugin for defualt mac terminal zsh or use a no
 
 TL;DR: Allows you to run multiple command-line programs at once
 
+## Shortcuts
+
+`C-b` is notation for `ctrl + b`
+
+When in tmux, pressing C-b / then ? shows the key bindings
+
+```
+C-b ? List key bindings
+```
+
+This is the best method to find out what the keybindings are instead of google/chatgpt/[github](https://github.com/tmux/tmux/wiki/Getting-Started).
+
+## Split/Navigate Screens
+
+```
+Vertical split:
+$ ctrl b (let go) shift 5 
+
+Horizontal split
+$ ctrl b (let go) shift "
+
+Switch between panes:
+$ ctrl b (let go) <- or -> arrows
+
+Resize panes:
+$ ctrl b (let go) :resize-pane -L 10   # shrink 10 cells left
+$ ctrl b (let go) :resize-pane -R 10   # grow 10 cells right
+```
+
 ## Installation
 
 Via homebrew
@@ -27,20 +56,6 @@ $ tmux
 - [https://tmuxcheatsheet.com/](https://tmuxcheatsheet.com/)
 - [https://en.wikipedia.org/wiki/Tmux](https://en.wikipedia.org/wiki/Tmux)
 
-
-## Split/Navigate Screens
-
-```
-Vertical split:
-$ ctrl b (let go) shift 5 
-
-Switch between panes:
-$ ctrl b (let go) <- or -> arrows
-
-Resize panes:
-$ ctrl b (let go) :resize-pane -L 10   # shrink 10 cells left
-$ ctrl b (let go) :resize-pane -R 10   # grow 10 cells right
-```
 
 ## Hyperlinks
 
