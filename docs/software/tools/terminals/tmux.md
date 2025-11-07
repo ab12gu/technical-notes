@@ -23,19 +23,26 @@ This is the best method to find out what the keybindings are instead of google/c
 
 ## Split/Navigate Screens
 
-```
-Vertical split:
+```bash
+# List active sessions
+$ tmux ls
+
+# Open session
+$ tmux a -t <session_name_or_id>
+
+# Vertical split:
 $ ctrl b (let go) shift 5 
 
-Horizontal split
+# Horizontal split
 $ ctrl b (let go) shift "
 
-Switch between panes:
+# Switch between panes:
 $ ctrl b (let go) <- or -> arrows
 
-Resize panes:
+# Resize panes:
 $ ctrl b (let go) :resize-pane -L 10   # shrink 10 cells left
 $ ctrl b (let go) :resize-pane -R 10   # grow 10 cells right
+# or can just use mouse and grab divider and drag
 ```
 
 ## Installation
