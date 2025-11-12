@@ -6,6 +6,8 @@
 - [https://www.allmyrelationspodcast.com/](https://www.allmyrelationspodcast.com/)
 - [Modern MBA](https://modernmba.libsyn.com/)
     - Katt was listening to it
+- [Ronda Patrick, Insomnia](https://www.youtube.com/watch?v=AQF_eopP1ys)
+    - Recc by kristie
 
 ## Add some here
 

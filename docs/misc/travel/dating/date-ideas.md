@@ -15,6 +15,16 @@
 - Linoln Park
     - Location: West Seattle
     - Recommended by: Abhay
+- Sports
+    - Ping pong (recc by Deen)
+- Sailing
+    - Recc by Deen
+- [Dimitrious's Jazz Alley](https://www.jazzalley.com/www-home/)
+    - Recc by Deen
+- Trampolene house, Kent
+    - Recc by Deen
+
+
 
 ## Event Pages
 
