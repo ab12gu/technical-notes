@@ -9,6 +9,7 @@
     - Soft and durable
     - But others say it’s a bit thin and formless
 - Cotton shrinks and loses shape, but breathable
+- $5 -> $10
 
 Goth Jacket
 
