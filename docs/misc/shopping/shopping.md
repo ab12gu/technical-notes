@@ -3,6 +3,13 @@
 
 ## Clothing
 
+[https://www.bellacanvas.com/](https://www.bellacanvas.com/)
+
+- Kasi reccs [triblend](https://www.bellacanvas.com/product/3413/Unisex-Triblend-SS-Tee.html)
+    - Soft and durable
+    - But others say it’s a bit thin and formless
+- Cotton shrinks and loses shape, but breathable
+
 Goth Jacket
 
 - Black/white w/ white Snakes
