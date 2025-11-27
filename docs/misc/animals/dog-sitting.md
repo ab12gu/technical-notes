@@ -166,6 +166,12 @@
     - avoid walking or letting her eat geese poop
     - a lot of geese poop at lake union waterfront in SLU
 - if you leave your food on counter unattended, Kiran might eat it.
+- If she doesn't like some treat, she might throw it up
+    - so dont force her to eat food or a treat
+- If you forget to water her
+    - she might drink too much water at once
+        - and throw it up, so give her water gradually
+
 
 ## Hikes
 
