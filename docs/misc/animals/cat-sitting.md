@@ -3,6 +3,23 @@
 - Name: Kajal (American name: Bean)
 - Born: May 22nd, 2025
 - Breed: Domestic Short Hair Black Cat
+- Gender: Female
+- Spayed, so won't be having kids :(
+- No medications
+
+## Emergency/Vet
+
+- Doesn't have a goto vet
+- I have a couple petco free vet vouchers that you can use
+    - if not in bag, i can send you a picture and help you book appointment
+- Emergency Contact: Kristie: (817) 673-9529, lives in beacon hill
+
+## Time Alone
+
+- You can leave her alone for hours or days, doesn't matter
+- I got her to keep company for Kiran when I leave the house :)
+    - and it worked so you can leave Kiran at home for hours! 
+    - like 12+ hours and she'll be super entertained so no worrying!
 
 ## Play
 
@@ -12,6 +29,8 @@
     - Try not to let her bit too hard, but she does a playful bite when you rub her belly
     - Generally she bites my toes too hard when i move them around too much in bed
 - Don't worry about knives or sharp objects, kajal is quick and smart to not get hurt
+- She likes playing with trash-type materials
+    - like if i open up new boxes, she likes playing with the plastic/cardboard
 
 ## Hiding
 
@@ -28,6 +47,9 @@
 
 ## Litter
 
+- Really does smell
+    - you need to find a good place to keep so you cant smell it
+    - just test different locations around the house, you will find one!
 - Often you need clean the litter box daily
     - but kajal doesn't care and you can do it whenever
 - I just use cheapest clay/sand litter
@@ -49,12 +71,22 @@
 - She will drink out of kiran's water bowl, so no need for separate bowls of water
 - Leave water out at all times
 
+## Treats
+
+- I don't give her treats
+    - but wouldn't hurt if you did
+- Feel free to buy some and treat her! 
+    - I'll pay you back
+- Unsure what she likes the best
+    - seems she likes the goyogurt type tubes, but kinda annoying to feed that to her
+
 ## Outside
 
 - I take her out to events if all doors are closed
 - And take her outside with a harness and leash
     - but don't walk her, just the harness and leash on if sitting in grass together
 - but you don't need to do any of this
+- She is scared of loud/big trucks so she will try to go on your shoulder when they pass
 
 ## Tricks and Commands
 
@@ -63,7 +95,6 @@
     - might be because she is being held and wants to get down generally
 - She kinda knows her name Kajal    
     - try to call her with her name kajal to get her to know it
-- 
 
 ## Nail Cutting
 
@@ -84,3 +115,14 @@
 ## Sleep
 
 - She sleeps near my legs on my bed with me
+
+## Cat Safety
+
+- She will knock over things off counters
+- like i have some plastic items she drops
+- or like plants in plastic containers she drops off counters
+    - if they are in ceramic they won't fall
+    - she doesn't do it on purpose i think? but maybe she does
+
+
+
