@@ -114,8 +114,10 @@
 ## Scratching
 
 - She likes climbing
-- She esecially likes climbing the windows screens over glass
+- She especially likes climbing the windows screens over glass
     - I let her do this, she has never ripped my window screens so why not?
+    - Prasana said to stop this behavior cause screen will fall if heavier
+        - will teach to stop
 - I have a couple cardboard scratch pads, hopefully i brought you one!
 
 ## Sleep
