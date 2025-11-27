@@ -7,6 +7,7 @@
 - Gender: Femaie
 - Spayed, so no kids :(
 - No medications
+- No pet insurance, overpriced/unnecessary
 
 ## Emergency/Vet
 
@@ -21,8 +22,26 @@
 - But she will bring you toys to play fetch in the house and tug of war
     - some toys may lead to bloody gums, don't worry its normal
     - I would just stop tug of war if bloody, goes away in a minute
+- I rarely do this anymore, but she does like dog videos on youtube/tv lol
+
+## Grooming
+
+- Kiran is also just like a cat
+    - in that she will groom herself clean
+- I don't wash or groom her
+- but if you wanted to take her to a groomer lmk; i would be down to cover it!
+
 
 ## Shedding
+
+- Sheds the entire month of April and September
+- Outisde of these months, she doesn't lose much hair
+- But during these months, even if you brush every day, the hair will stil come out in clumps at home
+- No solution until after season
+- Hopefully I gave you a brush :)
+- At the start of shedding season, she eats a lot of fur during grooming
+    - and becomes super gassy
+    - so i don't let her sleep in my room, cause it smells bad
 
 ## Sleep
 
@@ -31,11 +50,14 @@
 - Let her know whats a good place you would want her to sleep by tapping/showing her
     - but she might just choose to sleep on hardwood of colder, for example
 
-## Poop bags
+## Poop/Poop bags
 
 - All the dog parks have poop bags
     - i use these to restock
 - But if you buy some, just venmo request me to restock!
+- Twice, Kiran has gone through a bloody poop phase
+    - generally happens for a week and goes away
+    - unsure cause but no need to worry, goes away by itself
 
 ## Food
 
@@ -50,6 +72,7 @@
 - She will eat goose poop (only goose poop)
     - avoid walking or letting her eat geese poop
     - a lot of geese poop at lake union waterfront in SLU
+- if you leave your food on counter unattended, Kiran might eat it.
 
 ## Hikes
 
