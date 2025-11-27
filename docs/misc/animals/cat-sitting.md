@@ -61,7 +61,7 @@
 - I just use cheapest clay/sand litter
 - She will know where the litter is when you put sand in it
 - She rarely ever throws up (twice in 4 months)
-- And she has never not pooped or peed outside the litterbox
+- And she has never pooped or peed outside the litterbox
 
 ## Food
 
