@@ -3,6 +3,7 @@
 - Dog Name: Kiran
 - Born: Sept 21st, 2020
 - Race: Siberian Husky Mix (Unknown mix)
+    - chris said breed is more politically correct
 - Weight: 56 lbs
 - Gender: Femaie
 - Spayed, so no kids :(
@@ -184,10 +185,13 @@
     - I believe she will only like me because of treats and not me
 - Feel free to buy treats, I will reimburse
 - Kiran is a little picky on treats, so find what she likes
+- the main sitter, Ash, gives her cheese
+    - so she loves cheese!
 
 ## Human Food
 
 - She is Indian, so she likes rice
+    - Also naan
 - She also likes bread
 - She likes cooked meat (spice bad for dogs, so no spice)
 - Cooked eggs
@@ -199,6 +203,7 @@
 - Preferably twice
 - The longer she walks, the more she will poop
     - I think her body digests the food more while walking?
+- she pulls more if ahe wants food/water or needs to poop
 
 ## Skin Picking
 
