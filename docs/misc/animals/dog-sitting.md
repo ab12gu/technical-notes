@@ -118,7 +118,7 @@
     - in that she will groom herself clean
 - I don't wash or groom her
 - but if you wanted to take her to a groomer lmk; i would be down to cover it!
-
+    - idk how she'll behave with the groomer tho 
 
 ## Shedding
 
