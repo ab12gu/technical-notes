@@ -147,6 +147,9 @@
     - generally happens for a week and goes away
     - unsure cause but no need to worry, goes away by itself
 - I tie the poop bags to the leash and untie during walk (any method works)
+- On the first walk, Kiran may be embarrassed to go poop
+    - a longer walk doesn't necessarily solve it, unsure of real solution
+    - she will just poop on a later walk
 
 ## Food
 
