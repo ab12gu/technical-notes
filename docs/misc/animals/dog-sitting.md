@@ -8,6 +8,8 @@
 - Spayed, so no kids :(
 - No medications
 - No pet insurance, overpriced/unnecessary
+- Flea cream on neck monthly
+    - I am very bad at doing this, but she isn't in nature much so don't use it that often
 
 ## Emergency/Vet
 
@@ -16,6 +18,51 @@
     - if not in bag, i can send you a picture and help you book appointment
 - Emergency Contact: Kristie: (817) 673-9529, lives in beacon hill
 
+## Commands
+
+- She doesn't like her paws being touched
+    - so unable to do shake
+- When saying a command, i say `Kiran` first to get her attention
+    - like i say `Kiran sit` to tell her to sit
+- She knows `sit` and `down` (meaning lay down)
+- She knows `left/right` when i walk/run with her
+- I say `let go/drop` when we play tug of war
+- Say `Up` or `Jump` to get onto a couch/bed/booth at bar
+    - You also double tap the location with your hand
+- She is very quiet, so don't think this is abnormal 
+
+## Behaviors
+
+- If she is indoors and you are walking, she will sit really fast if she really needs to poop
+    - very rare, but means she wants to poop now and you should go outside
+- If she does her beg, i'll link it, means she is upset and wants something
+    - water/food/outide
+    - generally doesn't pout for pets, but sometimes she does
+- she will want to be petted 24/7, up to u to engage
+- I walk her with a waste strap now
+    - she pulls more than she used to because of the strap but allows me to text and walk lol
+    - my pelvis bones are actually get sore from walking/running with kiran and the hip strap, so just a heads up
+        - might be good for bone growth? prevention of osteoperosis?
+- She rarely has ever pooped or peed in the house, so really no worries there
+- Be careful with other dogs/dogparkrs
+    - She gets along with about 3/4ths of dogs
+    - I am really good at being aware but just keep an eye out
+    - She makes a growl with her nose so you know immediately if she doesn't like a dog
+    - if that happens i try to keep those dogs away from each other
+- She is picky about which dogs she likes
+    - female dogs her size she generally doesn't like
+    - loves smaller dogs, such as corgies
+- She pushes dogs that don't move/play with her
+    - not a sign of aggression, a sign of why are you so lazy?
+    - a lot of bigger dogs don't play because they are slow and lazy so she pushes them
+
+## Pets/Scratches
+
+- She loves getting scratched right between her eyes and forhead
+- then her neck
+- then the top and sides of her butt
+- she will lie on her back and you can pet her belly
+
 ## Play
 
 - I don't play with her too much at home, because I have work to do
@@ -23,6 +70,7 @@
     - some toys may lead to bloody gums, don't worry its normal
     - I would just stop tug of war if bloody, goes away in a minute
 - I rarely do this anymore, but she does like dog videos on youtube/tv lol
+- she has never bit any human so don't worry if she gets a little mouthy with you
 
 ## Grooming
 
@@ -58,6 +106,7 @@
 - Twice, Kiran has gone through a bloody poop phase
     - generally happens for a week and goes away
     - unsure cause but no need to worry, goes away by itself
+- I tie the poop bags to the leash and untie during walk (any method works)
 
 ## Food
 
