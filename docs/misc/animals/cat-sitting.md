@@ -6,6 +6,7 @@
 - Gender: Female
 - Spayed, so won't be having kids :(
 - No medications
+- No pet insurance, overpriced/unnecessary
 
 ## Emergency/Vet
 
@@ -13,6 +14,11 @@
 - I have a couple petco free vet vouchers that you can use
     - if not in bag, i can send you a picture and help you book appointment
 - Emergency Contact: Kristie: (817) 673-9529, lives in beacon hill
+
+## Grooming
+
+- I don't wash/groom her
+- Cat's lick themselves clean all the time so 
 
 ## Time Alone
 
