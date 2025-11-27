@@ -73,6 +73,28 @@
         - unsure if she will eat them? 
     - She likes chasing squirrels
     - She enjoys chasing rats
+- She has a very loud bark
+    - 95% of the time she just wants to play
+    - 100% of the time she barks at other dogs, it means she loves them
+- The 5% I am usnure about
+    - She sometimes barks at homeless people or people of color
+    - I think it's mostly that they might smell
+    - And actually, I try to just get them to pet kiran, but they get scared
+    - So if they pet her, she will stop barking and love them
+    - but again, she would never bite a human and never has :)
+- Kids/Toddlers/Babies
+    - Kids often put kiran in headlocks
+        - Kiran hates this...
+        - I had to put her in a headlock for shots, so she has ptsd
+    - Just let kids know to not do that
+    - Actually I have a funny story where i told a mom that her kids shouldn't do that
+        - and the mom said nobody likes being in headlocks
+        - and i said maybe if it was someone like ur husband then wouldn't be so bad
+        - and she was like when the time is right he can do it ;)
+    - Kids sometimes yell or make fun of kiran, so kiran doesn't like that
+    - And if the kid is like a real toddler... unsure, sometimes they just too aloof
+    - Babies she seems fine with :)
+
 
 ## Pets/Scratches
 
