@@ -10,13 +10,22 @@
 - No pet insurance, overpriced/unnecessary
 - Flea cream on neck monthly
     - I am very bad at doing this, but she isn't in nature much so don't use it that often
+    - Feedback: Steve said to do monthly, will ensure monthly
 
 ## Emergency/Vet
 
 - Doesn't have a goto vet
+    - Yearly vet is recommended
+    - The last vet appointment was Nov 2024
+    - But since healhy/young, i'm not worrying about it
 - I have a couple petco free vet vouchers that you can use
     - if not in bag, i can send you a picture and help you book appointment
 - Emergency Contact: Kristie: (817) 673-9529, lives in beacon hill
+- Shots
+    - Rabies shots up-to-date
+    - Free shots monthly given by city of Seattle in Rainier Warehouse, 2901 27th Ave. S, Seattle, WA 98144
+    - Generally mid-month, Wednesdays
+    - [https://www.seattle.gov/animal-shelter/resources/pet-vaccination-clinics](https://www.seattle.gov/animal-shelter/resources/pet-vaccination-clinics)
 
 ## Commands
 
@@ -55,6 +64,15 @@
 - She pushes dogs that don't move/play with her
     - not a sign of aggression, a sign of why are you so lazy?
     - a lot of bigger dogs don't play because they are slow and lazy so she pushes them
+- Chatgpt says huskies run away
+    - FALSE
+    - KIRAN WILL NEVER RUN AWAY!
+    - She is actually very calm and won't run anywhere if offleash, feel free to try anytime :)
+- Critter chasing
+    - She LOVES chasing bunnies
+        - unsure if she will eat them? 
+    - She likes chasing squirrels
+    - She enjoys chasing rats
 
 ## Pets/Scratches
 
