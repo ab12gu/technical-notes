@@ -1,5 +1,7 @@
 # Paint Stand
 
+![paint-stand-finished](./images/paint-stand-finished.png)
+
 ## Project Description
 
 Elizabeth wanted to remake her paint stand to something more sturdy. So I 3d modelled and printed it.
