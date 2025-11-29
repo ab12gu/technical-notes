@@ -10,6 +10,10 @@
 
 - [Each & Every Aluminum Free Deodorant](https://www.amazon.com/Each-Every-Deodorant-Sensitive-Essential/dp/B082M1HVPD?th=1)
     - No Irritation! Amazing!
+    - Currently using cedar & vanilla (approved by sister-says smells like cookies-and naia)
+    - Carried at Ulta
+        - smelled all flavors... didn't smell great
+        - Rose and Vanilla was okay, but feminine and strong
 - [Native Store, Aluminum Free with Coconut Oil and Shea Butter](https://www.amazon.com/Native-Deodorant-Naturally-Ingredients-Protection/dp/B0CM552MBK?th=1)
 - [Tom’s of Maine Unscented](https://www.amazon.com/Toms-Maine-Unscented-Deodorant-Aluminum/dp/B0CB1V1X5S)
 - [Sol de Janeiro Rio Deo Refillable Aluminum Free Deodorant](https://www.amazon.com/Sol-Janeiro-Rio-Deo-Refillable/dp/B0BHF5GXD9?th=1)
