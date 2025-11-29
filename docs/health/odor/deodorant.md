@@ -1,4 +1,4 @@
-# Deoderant
+# Deodorant
 
 ## Things to Avoid
  
