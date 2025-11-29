@@ -21,6 +21,9 @@
             - Citrus oxides in air/heat
 - [Salt & Stone Sensative Skin](https://www.saltandstone.com/products/natural-deodorant-gel?variant=42738051055866)
     - Nonsensative skin contains baking soda that irritates skin
+    - Bergamot scent, smells too fruity... not a fan of fruit
+    - I like the Santal & Vetiver, matches the cream I have
+        - Cream causes slight itchiness
 - [Kopari Aluminum Free Coconut Deodorant](https://www.amazon.com/Kopari-Aluminum-Free-Deodorant-Non-Toxic-Paraben/dp/B07B8B1XJX?tag=womenshealth-auto-20&th=1)
 
 
