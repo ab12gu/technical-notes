@@ -36,5 +36,5 @@ Worked :)
 
 - [kitchenaid, door will not close](https://producthelp.kitchenaid.com/Cooking/Microwaves/Built-In_Microwave/Door_Concerns/Door_Will_Not_Close_-_Built-In_Microwave)
 - [ytb - top reasons why micrwave is not working - 2m](https://www.youtube.com/watch?v=NAux6TryrmU)
-
+- [vid - kitchenaid fix](https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Microwave/66-121--/Kitchenaid-Microwave-Not-Working)
 
