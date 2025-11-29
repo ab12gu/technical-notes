@@ -16,6 +16,9 @@ Solution: Open microwave electronic controls and put the springs in place.
 2. Push up the buttonpad out of slots
 3. Use a small screwdrive to help push the springs holding the switches to currect location
 
+![alt](./images/microwave-front.png){width=300}
+![alt](./images/microwave-spring.png){width=300}
+
 Issue: I didn't turn off microwave so I shorted the fuse because the screwdriver touched tow leads and caused a short, which pulls too much current into the load because there is no/too low of resistance. The high current trips the breaker in the breaker box. 
 
 Buy replacement fuse. Cars contain standard fuses, so shops that have car maintainence supplies may carry the fuse. We bought at walmart 10 minutes before closing. Check rating of fuse (written on it). The one we had was rated at 220v, 20A. We used a 20A, 35v fuse and hope that it is the same because they design w/ change in amperage in mind :).
@@ -27,6 +30,7 @@ Buy replacement fuse. Cars contain standard fuses, so shops that have car mainta
 
 Worked :)
 
+![alt](./images/fuse2.png){width=300}
 
 ## Citations
 
