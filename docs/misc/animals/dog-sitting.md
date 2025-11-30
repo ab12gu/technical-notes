@@ -70,8 +70,13 @@
     - KIRAN WILL NEVER RUN AWAY!
     - She is actually very calm and won't run anywhere if offleash, feel free to try anytime :)
 - Critter chasing
+    - She will pull to run after them
+        - if she is in open area i let her chase squirrels up trees
     - She LOVES chasing bunnies
         - unsure if she will eat them? 
+    - She LOVES chasing ducks
+        - at greenlake she really pulls to get them
+        - she will walk into water enough for only her head to show
     - She likes chasing squirrels
     - She enjoys chasing rats
 - She has a very loud bark
@@ -96,7 +101,6 @@
     - And if the kid is like a real toddler... unsure, sometimes they just too aloof
     - Babies she seems fine with :)
 
-
 ## Pets/Scratches
 
 - She loves getting scratched right between her eyes and forhead
@@ -119,17 +123,12 @@
     - in that she will groom herself clean
 - I don't wash or groom her
 - but if you wanted to take her to a groomer lmk; i would be down to cover it!
-<<<<<<< Updated upstream
-    - idk how she'll behave with the groomer tho 
-=======
     - but idk how she'd react w/ the groomer, so heads up
-
->>>>>>> Stashed changes
 
 ## Shedding
 
 - Sheds the entire month of April and September
-- Outisde of these months, she doesn't lose much hair
+- Outside of these months, she doesn't lose much hair
 - But during these months, even if you brush every day, the hair will stil come out in clumps at home
 - No solution until after season
 - Hopefully I gave you a brush :)
@@ -177,7 +176,6 @@
     - she might drink too much water at once
         - and throw it up, so give her water gradually
 
-
 ## Hikes
 
 - I put her off leash on hikes
@@ -189,6 +187,9 @@
 
 - Unlimited water
 - Doesn't need water during walks but after
+- She cannot swim, but she knows it
+- She isn't scared of standing water or raim
+    - She actually will walk into water till her head
 
 ## Treats
 
@@ -215,6 +216,16 @@
 - The longer she walks, the more she will poop
     - I think her body digests the food more while walking?
 - she pulls more if ahe wants food/water or needs to poop
+- feel free to leave her at home for extended periods of time
+    - once a week i leave her for about 8 hrs
+    - this is why i got the kitty, so she has company
+- she also likes the car A LOT!
+    - I dont tie her down in the car, but u can tie her leash to belt or something
+    - I leave her in the car while running errands
+        - i part the windows but if cold enough, idk if necessary
+        - try to leave water in car too but thats for long drives
+    - i let her sit in passenger seat with windows down while driving
+- i take her into grocery stores, cafes, and libraries all the time
 
 ## Skin Picking
 
