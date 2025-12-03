@@ -27,3 +27,23 @@
 
 - [https://www.nongnu.org/eliot/en/index.html](https://www.nongnu.org/eliot/en/index.html)
 - 
+
+## Making business cards
+
+### Version 1
+
+- Print on stock paper at the Bikery
+- Laminated
+- Cut
+- Issue: Cutt had sharp corners
+
+### Alt
+
+- Can print on glossy paper (G&H print used for resumes)
+
+## Purchasable
+
+- [staples](https://www.staples.com/services/printing/same-day-services/business-cards/)
+- [walmart](https://walmartbusinessprint.com/category/3-custom-business-cards)
+- [walgreens](https://photo.walgreens.com/store/premium-business-cards#/bspview)
+- 
