@@ -39,3 +39,4 @@ The higher price options include titanium or magnesium for strength and lightnes
 - [great article on skateboard parts](https://nollieskateboarding.com/en/truck)
 - [https://nollieskateboarding.com/en/deck](https://nollieskateboarding.com/en/deck)
 - [https://www.reddit.com/r/NewSkaters/comments/q56mtq/aluminum_trucks/](https://www.reddit.com/r/NewSkaters/comments/q56mtq/aluminum_trucks/)
+- [skate dimensions](https://www.skatedeluxe.com/blog/en/wiki/skateboarding/skateboard-wiki/trucks/)
