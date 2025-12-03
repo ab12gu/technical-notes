@@ -1,6 +1,8 @@
 # Skateboard Deck
 
-## Steps
+Most made from Hard "rock" Maple grown in NA.
+
+## Make your own steps
 
 1. Buy thin plywood from hardware store
 2. Buy wood glue
