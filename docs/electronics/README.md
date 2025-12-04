@@ -4,6 +4,10 @@
 
 - [Electrarc2404](https://www.youtube.com/@electrarc240)
 - [Every Type of Capacitor for Power Electronics Compared & Analysed](https://www.youtube.com/watch?v=Fwng7mRuOVw)
+- Some Random guy
+    - [https://mitxela.com/projects/hardware](https://mitxela.com/projects/hardware)
+    - [https://mitxela.com/projects/ledstud](https://mitxela.com/projects/ledstud)
+    - [https://mitxela.com/projects/scaffold](https://mitxela.com/projects/scaffold)
 
 ## Circuit Design Software
 
