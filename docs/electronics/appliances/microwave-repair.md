@@ -38,3 +38,12 @@ Worked :)
 - [ytb - top reasons why micrwave is not working - 2m](https://www.youtube.com/watch?v=NAux6TryrmU)
 - [vid - kitchenaid fix](https://www.repairclinic.com/RepairHelp/How-To-Fix-A-Microwave/66-121--/Kitchenaid-Microwave-Not-Working)
 
+More Citations
+
+- [https://www.youtube.com/watch?v=CdzXAM-EG2U](https://www.youtube.com/watch?v=CdzXAM-EG2U)
+- [https://www.youtube.com/watch?v=nWWJYc1fvts](https://www.youtube.com/watch?v=nWWJYc1fvts)
+- [https://www.youtube.com/watch?v=reKIq3IHxDk](https://www.youtube.com/watch?v=reKIq3IHxDk)
+- [https://www.youtube.com/watch?v=zNw_WTfxsCc](https://www.youtube.com/watch?v=zNw_WTfxsCc)
+- [https://www.youtube.com/watch?v=SQrjKb5Cjgs](https://www.youtube.com/watch?v=SQrjKb5Cjgs)
+- [ytb switch replacement](https://www.youtube.com/watch?v=EDNM1AWzD7A)
+- [ytb switch replacement 2](https://www.youtube.com/watch?v=8i3iYtQOih4)
