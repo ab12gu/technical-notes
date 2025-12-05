@@ -2,14 +2,25 @@
 
 The umbrella term to describe all fibre-based materials
 
-- cotton/denim
-    - can be short/long/extra-long staple
-    - low heat to prevent shrinkage
-- linen
-    - made from flaxplant
-    - extremely lightweight (used for hot sleepers/warm temps)
-    - durable
-- silk
+- Local Fabric store, [Pacific Fabrics](https://www.pacificfabrics.com/)
+    - out in SODO
+    - they can order materials for you :)
+
+### Cotton
+
+- can be short/long/extra-long staple
+- low heat to prevent shrinkage
+
+denim - made of cotton
+
+### Linen
+
+- made from flaxplant
+- extremely lightweight (used for hot sleepers/warm temps)
+- durable
+
+### silk
+
 - polyester
     - made from petroleum (non-renewable resource)
     - prone to shrinkage like cotton
@@ -39,7 +50,7 @@ The umbrella term to describe all fibre-based materials
     - synthetic rubber (polychloroprene)
     - front/flexible used for padding
 
-Types of Weaves
+## Types of Weaves
 
 - Corduroy
     - generally cotten/cotten blends
@@ -75,3 +86,6 @@ Cleaning Options
 ## Citations
 
 - [https://www.nbcnews.com/select/shopping/fabric-types-explained-rcna193819](https://www.nbcnews.com/select/shopping/fabric-types-explained-rcna193819)
+- [https://en.wikipedia.org/wiki/Nylon](https://en.wikipedia.org/wiki/Nylon)
+- [https://en.wikipedia.org/wiki/Textile](https://en.wikipedia.org/wiki/Textile)
+
