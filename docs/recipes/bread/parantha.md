@@ -48,3 +48,5 @@ Put in middle of a tortilla
 
 - Mayuri might have goat meat
 - [https://www.google.com/maps?q=Byblos+Mediterranean+Market](https://www.google.com/maps?q=Byblos+Mediterranean+Market)
+    - Lynnwood & Kent
+    - Source: Brandon   
