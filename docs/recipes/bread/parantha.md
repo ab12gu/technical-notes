@@ -1,6 +1,9 @@
-# Aloo Parantha
+# Parantha
 
-Indian flatbreads stuffed with spicy potato
+Indian flatbread with vegetable or meat stuffing
+
+- Aloo Parantha: stuffed with spicy potato
+- Ground Goat
 
 ## Make Dough
 
@@ -39,4 +42,9 @@ Put in middle of a tortilla
 
 ## Citations
 
-- https://www.indianhealthyrecipes.com/aloo-paratha/
+- [https://www.indianhealthyrecipes.com/aloo-paratha/](https://www.indianhealthyrecipes.com/aloo-paratha/)
+
+## Where to find Goat Meat
+
+- Mayuri might have goat meat
+- [https://www.google.com/maps?q=Byblos+Mediterranean+Market](https://www.google.com/maps?q=Byblos+Mediterranean+Market)
