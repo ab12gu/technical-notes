@@ -19,36 +19,48 @@ denim - made of cotton
 - extremely lightweight (used for hot sleepers/warm temps)
 - durable
 
-### silk
+### Silk
 
-- polyester
-    - made from petroleum (non-renewable resource)
-    - prone to shrinkage like cotton
-- wool
-    - merino wool comes from merino sheep   
-    - breathable/insulated/soft
-    - antibacterial/odor-resistant, reducing need to wash
-    - wicks mousture, so keeps warm without feel damp
-- nylon
-    - very stretchy and flexible so used in active/swim/dance
-- hemp
-- satin
-- spandex
-- leather
-    - soften over time
-    - environment (sun/heat/moisture) causes fading/cracking/mold
-    - leather cleaner can restore moisture
-- canvas
-- cashmere
-- viscose/bamboo/rayon
-    - made from wood pulp
-- down
-    - soft/breathable feathers from birds
-    - washing loses fluffliness
-    - avoid fabric softeners (changes texture)
-- Neoprene
-    - synthetic rubber (polychloroprene)
-    - front/flexible used for padding
+### Polyester
+
+- made from petroleum (non-renewable resource)
+- prone to shrinkage like cotton
+
+### Wool
+
+- merino wool comes from merino sheep   
+- breathable/insulated/soft
+- antibacterial/odor-resistant, reducing need to wash
+- wicks mousture, so keeps warm without feel damp
+
+### nylon
+
+- very stretchy and flexible so used in active/swim/dance
+
+### hemp
+### satin
+### spandex
+### leather
+
+- soften over time
+- environment (sun/heat/moisture) causes fading/cracking/mold
+- leather cleaner can restore moisture
+
+### Canvas
+### Cashmere
+### Viscose/bamboo/rayon
+
+- made from wood pulp
+### Down
+
+- soft/breathable feathers from birds
+- washing loses fluffliness
+- avoid fabric softeners (changes texture)
+
+### Neoprene
+
+- synthetic rubber (polychloroprene)
+- front/flexible used for padding
 
 ## Types of Weaves
 
@@ -57,6 +69,16 @@ denim - made of cotton
 - Twill
     - diagonal line weave used for denim
     - indigo dye added to denim
+- Percale
+    - cotton or polyester used for bedding
+    - extremely airy/breathable, but crisp rather than soft
+    - good for hot sleepers 
+- Jersey Knit
+    - warmer, stretchy
+    - knit instead of a weave
+- Sateen
+    - softer than percale weeve and warmer
+    - horizontal yarn (weft) floats over several vertical yarns (warp) before going under one
 - Fleece
     - made from polyester
     - mimic/feel like wool (less expensive)
@@ -64,16 +86,8 @@ denim - made of cotton
 - Microfiber
     - finer fibers from polyester
     - cant decompose cause utlrafine
-- Percale
-    - cotton or polyester used for bedding
-    - extremely airy/breathable, but crisp rather than soft
-    - good for hot sleepers 
-- Sateen
-    - softer than percale weeve and warmer
 - Ripstop
     - made from nylon for backpacks/tents
-
-
 
 
 Cleaning Options
