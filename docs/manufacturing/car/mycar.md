@@ -2,6 +2,8 @@
 
 I own a [prius](https://en.wikipedia.org/wiki/Toyota_Prius) 2008 Touring model. It was bought new from mom in 2008/9.
 
+[Owner's manual](https://assets.sia.toyota.com/publications/en/om-s/OM08W1QG/pdf/2008_Prius_QRG_lr.pdf)
+
 You can tell that it is a touring model because it has separate front fog lights and HID headlight bulbs (higher lumens than halogen). 
 
 - VIN: JTDKB20U987769956
