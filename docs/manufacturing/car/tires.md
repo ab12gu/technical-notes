@@ -4,6 +4,22 @@
 
 Lowest priced tires @ [Discount Tires](https://discounttire.com)
 
+- +$100 for installation
+
+Alt:
+
+- Costco, [more expensive bridgestone: $430, but free installation](https://tires.costco.com/SearchResultsByVehicle?Year=2002&Make=Honda&Model=Civic&Option=EX&size=15)
+- Sam's Club (not in seattle)
+- Walmart (tire center not in king county, only tacoma/kitsap)
+- Firestone
+- Priority Tire
+- SimpleTire
+- Amazon (same price but $25 extra for install @ goodyear)
+- Pep Boys
+- Tire Rack (more expensive)
+- [Tire House LLC](https://www.google.com/maps?q=Tire+House+LLC) (Used Tire Shop, no website)
+- Les Schwab 
+
 - Recommended by car mechanics @ [autoangels](https://www.autoangels.org/)
 - Only does tire replacements, so can get tires for cheap & be quicker with replacements
 
@@ -68,6 +84,14 @@ Smaller than original tire
 - Less traction on ground
 - Wear out quicker
 
+## Brands
+
+- Name Brands:
+    - General
+    - Michelin
+    - Bridgestones
+    - Continental
+    - Goodyear
 
 ## Citations
 
