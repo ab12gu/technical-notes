@@ -3,6 +3,10 @@
 
 ## Local 
 
+- Christmas Lights
+    - Locaiton: [Tulalip, WA](https://maps.app.goo.gl/GsvgD4EsLiJDdW7S9)
+    - Link: [https://www.quilcedavillage.com/TulalipLightsAndIce](https://www.quilcedavillage.com/TulalipLightsAndIce)
+    - Rec by: Abhay
 - Eagle Harbor Books
     - Location: bainbridge island
     - Recommended by: Elizabeth lets her dog eat drugs off ground
