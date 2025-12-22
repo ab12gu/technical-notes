@@ -1,6 +1,6 @@
 # Config
 
-Docs: [git-scm.com/docs/git-config](git-scm.com/docs/git-config)
+Docs: [git-scm.com/docs/git-config](https://git-scm.com/docs/git-config)
 
 The config file is the root of your terminal. The file is `~/.gitconfig`.
 
