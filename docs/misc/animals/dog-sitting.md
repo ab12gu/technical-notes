@@ -54,17 +54,6 @@
     - my pelvis bones are actually get sore from walking/running with kiran and the hip strap, so just a heads up
         - might be good for bone growth? prevention of osteoperosis?
 - She rarely has ever pooped or peed in the house, so really no worries there
-- Be careful with other dogs/dogparkrs
-    - She gets along with about 3/4ths of dogs
-    - I am really good at being aware but just keep an eye out
-    - She makes a growl with her nose so you know immediately if she doesn't like a dog
-    - if that happens i try to keep those dogs away from each other
-- She is picky about which dogs she likes
-    - female dogs her size she generally doesn't like
-    - loves smaller dogs, such as corgies
-- She pushes dogs that don't move/play with her
-    - not a sign of aggression, a sign of why are you so lazy?
-    - a lot of bigger dogs don't play because they are slow and lazy so she pushes them
 - Chatgpt says huskies run away
     - FALSE
     - KIRAN WILL NEVER RUN AWAY!
@@ -79,6 +68,31 @@
         - she will walk into water enough for only her head to show
     - She likes chasing squirrels
     - She enjoys chasing rats
+
+
+## Other dogs
+
+- Be careful with other dogs/dogparkrs
+    - She gets along with about 3/4ths of dogs
+    - I am really good at being aware but just keep an eye out
+    - She makes a growl with her nose so you know immediately if she doesn't like a dog
+    - if that happens i try to keep those dogs away from each other
+- She is picky about which dogs she likes
+    - female dogs her size she generally doesn't like
+    - loves smaller dogs, such as corgies
+- She pushes dogs that don't move/play with her
+    - not a sign of aggression, a sign of why are you so lazy?
+    - a lot of bigger dogs don't play because they are slow and lazy so she pushes them
+- She is very possessive about toys
+    - even if some other dog has a toy/ball it becomes hers
+    - if she gets her mouth on it at least once, then it is her possession
+    - most dogs will try to get the toy back, but kiran will not let them
+        - she WILL attack them
+        - and probably try to bite them as well
+    - these are scary situations, so just no toys with her and other dogs
+
+## Bark
+
 - She has a very loud bark
     - 95% of the time she just wants to play
     - 100% of the time she barks at other dogs, it means she loves them
@@ -88,6 +102,9 @@
     - And actually, I try to just get them to pet kiran, but they get scared
     - So if they pet her, she will stop barking and love them
     - but again, she would never bite a human and never has :)
+
+## Kids
+
 - Kids/Toddlers/Babies
     - Kids often put kiran in headlocks
         - Kiran hates this...
