@@ -11,6 +11,7 @@ Kristie's Notes
 
 - Dr. Bronnners unscented castille [soap](https://www.drbronner.com/products/baby-unscented-pure-castile-liquid-soap)
     - [Castille Soap](https://en.wikipedia.org/wiki/Castile_soap) is a
+- [Liquid soap](https://www.drbronner.com/products/baby-unscented-pure-castile-liquid-soap)
 
 ## Laundry
 
@@ -20,3 +21,6 @@ Kristie's Notes
 
 - Ingredients vary too much to know if good
 
+## Castille Soap
+
+- Olive-oil made in Castile region of Spain
