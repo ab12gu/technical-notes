@@ -32,6 +32,7 @@
 
 - She doesn't like her paws being touched
     - so unable to do shake
+    - cleaning her paws will allso be rough tbh
 - When saying a command, i say `Kiran` first to get her attention
     - like i say `Kiran sit` to tell her to sit
 - She knows `sit` and `down` (meaning lay down)
@@ -244,6 +245,7 @@
         - i part the windows but if cold enough, idk if necessary
         - try to leave water in car too but thats for long drives
     - i let her sit in passenger seat with windows down while driving
+    - she doesn't like being in back of hatchback, prefers seats
 - i take her into grocery stores, cafes, and libraries all the time
 
 ## Skin Picking
