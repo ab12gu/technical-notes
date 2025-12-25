@@ -219,6 +219,8 @@
 
 ## Human Food
 
+- Personally, I prefer if you give her carrots
+    - healthiest option and she loves them :)
 - She is Indian, so she likes rice
     - Also naan
 - She also likes bread
