@@ -2,7 +2,7 @@
 
 ![](https://discounttire.scene7.com/is/image/discounttire/EDUtire-size-check_tire-size-check_hero?)
 
-Lowest priced tires @ [Discount Tires](https://discounttire.com) (See [alt](#Alternative-Shops) section for alternatives)
+Lowest priced tires @ [Discount Tires](https://discounttire.com) (See `Alternative Shops` page for alternatives)
 
 - ~$200-250 for 4 tires
 - +$100 for installation

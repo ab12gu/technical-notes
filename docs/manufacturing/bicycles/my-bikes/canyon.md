@@ -27,6 +27,6 @@ Model:
 - Style: lower bottom bracket and longer wheelbase
 - Brakes: Shimano RS505 road bike disc brake system
 
-[Bike Insights Geometry](bikeinsights.com/bikes/5b91abd6ca258c0015e4dd23-canyon-bicycles-endurace-al?version=2021-70&build=disc-brake)
+[Bike Insights Geometry](https://bikeinsights.com/bikes/5b91abd6ca258c0015e4dd23-canyon-bicycles-endurace-al?version=2021-70&build=disc-brake)
 
 [way-back-machine](https://web.archive.org/web/20200809165042/https://www.canyon.com/en-us/road-bikes/endurance-bikes/endurace/endurace-al-disc-6.0/2393.html)
