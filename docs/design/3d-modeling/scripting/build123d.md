@@ -26,7 +26,7 @@ $ cd <project-name>
 $ uv init
 $ mv main.py <project-name>.py
 $ uv venv .venv
-$ uv add ocp-viewer
+$ uv add ocp-vscode
 $ uv add build123d
 ```
 
