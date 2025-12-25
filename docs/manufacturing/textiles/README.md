@@ -2,16 +2,16 @@
 
 The umbrella term to describe all fibre-based materials
 
-- Local Fabric store, [Pacific Fabrics](https://www.pacificfabrics.com/)
-    - out in SODO
-    - they can order materials for you :)
-
 ### Cotton
 
 - can be short/long/extra-long staple
 - low heat to prevent shrinkage
+- breathable
 
-denim - made of cotton
+Denim 
+
+- made of cotton
+- thicker 
 
 ### Linen
 
@@ -25,6 +25,7 @@ denim - made of cotton
 
 - made from petroleum (non-renewable resource)
 - prone to shrinkage like cotton
+- wisk's away moisture (not as good as wool)
 
 ### Wool
 
@@ -33,14 +34,15 @@ denim - made of cotton
 - antibacterial/odor-resistant, reducing need to wash
 - wicks mousture, so keeps warm without feel damp
 
-### nylon
+### Nylon
 
 - very stretchy and flexible so used in active/swim/dance
+- waterproof
 
-### hemp
-### satin
-### spandex
-### leather
+### Hemp
+### Satin
+### Spandex
+### Leather
 
 - soften over time
 - environment (sun/heat/moisture) causes fading/cracking/mold
@@ -51,51 +53,18 @@ denim - made of cotton
 ### Viscose/bamboo/rayon
 
 - made from wood pulp
+
 ### Down
 
 - soft/breathable feathers from birds
 - washing loses fluffliness
 - avoid fabric softeners (changes texture)
+- needs sections cause will clump and drop from gravity
 
 ### Neoprene
 
 - synthetic rubber (polychloroprene)
 - front/flexible used for padding
-
-## Types of Weaves
-
-- Corduroy
-    - generally cotten/cotten blends
-- Twill
-    - diagonal line weave used for denim
-    - indigo dye added to denim
-- Percale
-    - cotton or polyester used for bedding
-    - extremely airy/breathable, but crisp rather than soft
-    - good for hot sleepers 
-- Jersey Knit
-    - warmer, stretchy
-    - knit instead of a weave
-- Sateen
-    - softer than percale weeve and warmer
-    - horizontal yarn (weft) floats over several vertical yarns (warp) before going under one
-- Fleece
-    - made from polyester
-    - mimic/feel like wool (less expensive)
-    - polar fleece - more insulated
-- Microfiber
-    - finer fibers from polyester
-    - cant decompose cause utlrafine
-- Ripstop
-    - made from nylon for backpacks/tents
-
-
-Cleaning Options
-
-1. Freeze clothes
-    - kills bacteria and reduces odor
-2. Wash
-
 
 ## Citations
 
