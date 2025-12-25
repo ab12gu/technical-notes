@@ -56,4 +56,4 @@ Wheel Bearing Hub Assembly
 - [https://www.youtube.com/user/RockAutoLLC/videos](https://www.youtube.com/user/RockAutoLLC/videos)
 - RockAuto - [MOOG 513265](https://www.rockauto.com/en/moreinfo.php?pk=1318766&cc=1441533&pt=1636&jsn=29&optionchoice=0-0-1-1&_nck=eAAcbbIvRAmM9UPnwkoz98Rg9O6qai1xHg%2FSnlS5%2By8%2B2APEBfTQuZCDb4ZosKrIRInMbZLer%2B5LDk%2Bzfi3Wt7kdVyPV8Q%2F3YR7JqQ7vLXLbY5y1K42FGoQXLd6viJch6DVmWuknqxIy%2BaF7HGIZxHA8KMxhP0DPhwBfLfmlR2SVHfDZlFCC6oaX2ijh%2BvLeBaSH4P3ZGNdxmI9ygajEyF6rXagfewY3tN3el1kTfu8B6DpnAh%2BgsjLj0jwGrbDkmHbLQ%2BhR5ZTCZJmui%2F%2FIyILQO9QUNFxbGZhwLLiOkN25%2F2XGgy4Mg10ztKdM%2By%2Fy)
 
-![alt](../images/bearing.png){width="300"}
+![alt](../../../images/bearing.png){width="300"}
