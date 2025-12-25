@@ -17,7 +17,7 @@ You can tell that it is a touring model because it has separate front fog lights
     - Serial: 769956
 - Year/Make/Model: 2008 Toyota Prius
 
-![](images/vin.png){width="600"}
+![](../../images/vin.png){width="600"}
 
 Most Info: [https://vincheck.info/](https://vincheck.info/)
 
