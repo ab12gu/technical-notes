@@ -6,8 +6,9 @@ You can grind up grains to make flour at home too!
 
 ## Ingredients
 
-- Wheat Flour (atta)
+- Wheat Flour (atta) 1 cup = ~10 rotis
 - Water (lukewarm; hotter the water, the more water absorbed (boiled ok))
+    - 2:1 Flour to Water ratio
 - Pinch of salt
 
 Add ons:
@@ -21,6 +22,7 @@ Add ons:
 
 Videos:
 
+- [Kneading Roti, ytb](https://www.youtube.com/watch?v=L0fRM0feSgM)
 - [How to make Roti, ytb short](https://www.youtube.com/shorts/hRR_jM8D38M)
 - [How to make Roti v2, ytb short](https://www.youtube.com/shorts/cNu6P-LoPzw)
 - [More sciency roti tutorial, ytb](https://www.youtube.com/watch?v=jnQgkwVsMgc&t=38s)
