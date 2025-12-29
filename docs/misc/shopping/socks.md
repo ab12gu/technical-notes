@@ -3,11 +3,14 @@
 Been mostly wearing: [Gold Toe Socks](https://en.wikipedia.org/wiki/Gold_Toe_Brands)
 
 - Been around since 1919
-- Material:
+- [Harrington Crew](https://www.amazon.com/GOLDTOE-Harrington-Multipairs-Tricolor-Assorted/dp/B08GN1GNC1?th=1&psc=1)
+- $20 for 5 pairs, $4 a pair
+- Material: 74% Combed Cotton, 17% Polyester, 6% Nylon, 3% Spandex
+
 
 Also have some Fruit n Loom & Uniqulo socks. 
 
-Want to try:
+## Want to try
 
 Bombas
 
@@ -19,6 +22,10 @@ Bombas
 - [link 5](https://bombas.com/products/mens-hybrid-ribbed-calf-socks?variant=misty-sky&size=l)
 - [link 6](https://bombas.com/products/men-s-solid-calf-eight-pack-3?variant=black&size=l)
 - [link 7](https://bombas.com/products/mens-solids-half-calf-sock-4-pack?variant=black&size=l)
+
+Thick cotton socks
+
+- [Dickies thick cotton](https://www.amazon.com/gp/product/B00Q9KG4JG?smid=A1O9DE8KW3M9HR&psc=1)
 
 ## Future Me
 
@@ -36,4 +43,3 @@ I personally don't like wool. I have some merino wool socks from costco for year
 
 - Darn Tough
 - [Smartwool](https://www.smartwool.com/en-us/men/socks?prefn1=sockHeight&prefv1=Crew)
-- 
