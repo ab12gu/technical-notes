@@ -1,12 +1,31 @@
 # Date ideas
 
+## General
+
+- Movies
+- Dinner
+
+## Winter
+
+- Christmas Lights + Ice Skating
+    - Location: [Tulalip, WA](https://maps.app.goo.gl/GsvgD4EsLiJDdW7S9)
+    - Link: [https://www.quilcedavillage.com/TulalipLightsAndIce](https://www.quilcedavillage.com/TulalipLightsAndIce)
+    - Rec by: Abhay
+- Bellevue Ice Skating
+
+## Nature
+
+- Lincoln Park
+    - Location: West Seattle
+    - Recommended by: Abhay
+
+## Museums
+
+- Bainbridge Art Museum 
+    - [https://www.biartmuseum.org/](https://www.biartmuseum.org/)
 
 ## Local 
 
-- Christmas Lights
-    - Locaiton: [Tulalip, WA](https://maps.app.goo.gl/GsvgD4EsLiJDdW7S9)
-    - Link: [https://www.quilcedavillage.com/TulalipLightsAndIce](https://www.quilcedavillage.com/TulalipLightsAndIce)
-    - Rec by: Abhay
 - Eagle Harbor Books
     - Location: bainbridge island
     - Recommended by: Elizabeth lets her dog eat drugs off ground
@@ -16,9 +35,6 @@
 - Escape Room
     - Location: South Lake Union
     - Recommended by: Claire hates my pink clothes
-- Linoln Park
-    - Location: West Seattle
-    - Recommended by: Abhay
 - Sports
     - Ping pong (recc by Deen)
 - Sailing
@@ -27,8 +43,6 @@
     - Recc by Deen
 - Trampolene house, Kent
     - Recc by Deen
-
-
 
 ## Event Pages
 
