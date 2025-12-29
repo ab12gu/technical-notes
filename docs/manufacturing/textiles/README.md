@@ -27,6 +27,11 @@ Denim
 - prone to shrinkage like cotton
 - wisk's away moisture (not as good as wool)
 
+Alt: Acrylic
+
+- also petroleum based
+- but has a softer/wool like feel, more fragile
+
 ### Wool
 
 - merino wool comes from merino sheep   
