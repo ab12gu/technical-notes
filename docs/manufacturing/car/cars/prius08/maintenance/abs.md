@@ -6,6 +6,10 @@ ABS - Anti-lock braking system
 - prevents the wheels from locking during breaking
 - difficult to replace accumulator/pump, requires removing inverter
 
+ABS Control Module
+
+- [VEMO V70730088](https://www.rockauto.com/en/catalog/toyota,2008,prius,1.5l+l4+electric/gas,1441533,brake+&+wheel+hub,abs+control+module,1844)
+
 ## Error Codes
 
 - Actuator codes: C1345, C1391, C1256
