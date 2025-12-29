@@ -30,6 +30,11 @@ $ git lfs install
 # Update system git config
 $ git lfs install --system
 
+# Go to repo
+
+$ git lfs track "*.psd"
+> Tracking "*.psd"
+
 ```
 
 
