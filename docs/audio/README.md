@@ -38,10 +38,10 @@ Signal paths are either
 
 ## Citations
 
-- [https://en.wikipedia.org/wiki/Audio_signal](https://en.wikipedia.org/wiki/Audio_signal)
-- [https://en.wikipedia.org/wiki/Hearing_range](https://en.wikipedia.org/wiki/Hearing_range)
+- [/wiki/Audio_signal](https://en.wikipedia.org/wiki/Audio_signal)
+- [/wiki/Hearing_range](https://en.wikipedia.org/wiki/Hearing_range)
 
 ## TO READ
 
-- [https://en.wikipedia.org/wiki/Audio_frequency](https://en.wikipedia.org/wiki/Audio_frequency)
-- [https://en.wikipedia.org/wiki/Digital_audio](https://en.wikipedia.org/wiki/Digital_audio)
+- [/wiki/Audio_frequency](https://en.wikipedia.org/wiki/Audio_frequency)
+- [/wiki/Digital_audio](https://en.wikipedia.org/wiki/Digital_audio)
