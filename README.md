@@ -4,12 +4,12 @@
 
 ## Local build instructions
 
-```python
-$ `source .venv/bin/activate    # Activate venv
-$ `mkdocs serve`                # Start the live-reloading docs server.
-$ `mkdocs build`                # Build the documentation site.
-$ `mkdocs -h`                   # Print help message and exit.
-$ `mkdocs gh-deploy`            # Push changes from main branch to gh-pages
+```bash
+$ source .venv/bin/activate   # Activate venv
+$ mkdocs serve                # Start the live-reloading docs server.
+$ mkdocs build                # Build the documentation site.
+$ mkdocs -h                   # Print help message and exit.
+$ mkdocs gh-deploy            # Push changes from main branch to gh-pages
 ```
 
 Open localhost in browser (http://127.0.0.1:8000/)
