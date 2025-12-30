@@ -1,3 +1,9 @@
+/* Remove transparent background of images */
+
+.background {
+    background-color: white;
+}
+
 /* Reduce space between bullet points */
 .md-typeset ol {
   margin-top: 0;
