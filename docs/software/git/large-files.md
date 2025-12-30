@@ -32,9 +32,12 @@ $ git lfs install --system
 
 # Go to repo
 
+# Make sure you are in root of repo
 $ git lfs track "*.psd"
 > Tracking "*.psd"
 
 ```
+
+The file `.gitattributes` specifies all files that are tracked in LFS storage.
 
 
