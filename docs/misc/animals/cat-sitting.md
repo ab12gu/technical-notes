@@ -69,8 +69,6 @@
 - She rarely ever throws up (twice in 4 months)
 - And she has never pooped or peed outside the litterbox
 
-![](images/kiran-kajal2.avif){width="400"}
-
 ## Food
 
 - I use Iams Chicken Kitten food - [purple bag](https://www.amazon.com/Iams-Proactive-Health-Healthy-Chicken/dp/B01BMBYKUQ?)
@@ -102,7 +100,7 @@
 - but you don't need to do any of this
 - She is scared of loud/big trucks so she will try to go on your shoulder when they pass
 
-![](images/kiran-kajal3.avif){width="400"}
+![](images/kiran-kajal2.avif){width="400"}
 
 ## Tricks and Commands
 
