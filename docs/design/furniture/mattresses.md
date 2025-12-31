@@ -7,5 +7,7 @@ Emron's Recommnedation
 
 Mattress I've been using since 2015: [Tuft and Needle](https://www.tuftandneedle.com/)
 
+Shikha's Guest bedroom mattress
 
+- [Amazon Zinus 10", $224](https://a.co/d/6PkiOAN)
 
