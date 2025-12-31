@@ -1,5 +1,7 @@
 # Dog Sitting
 
+![](images/seattle-kiran2.avif){width="400"}
+
 - Dog Name: Kiran
 - Born: Sept 21st, 2020
 - Race: Siberian Husky Mix (Unknown mix)
@@ -12,6 +14,8 @@
 - Flea cream on neck monthly
     - I am very bad at doing this, but she isn't in nature much so don't use it that often
     - Feedback: Steve said to do monthly, will ensure monthly
+
+![](images/seattle-kiran.avif){width="400"}
 
 ## Emergency/Vet
 
@@ -61,7 +65,7 @@
     - She is actually very calm and won't run anywhere if offleash, feel free to try anytime :)
 - Critter chasing
     - She will pull to run after them
-        - if she is in open area i let her chase squirrels up trees
+        - if she is i4 open area i let her chase squirrels up trees
     - She LOVES chasing bunnies
         - unsure if she will eat them? 
     - She LOVES chasing ducks
@@ -69,9 +73,11 @@
         - she will walk into water enough for only her head to show
     - She likes chasing squirrels
     - She enjoys chasing rats
+- She doesn't like doors being opened or knocked (neighbors/yours)
+    - she just barks
 
 
-## Other dogs
+## Interacting w/ other Animals
 
 - Be careful with other dogs/dogparkrs
     - She gets along with about 3/4ths of dogs
@@ -91,6 +97,12 @@
         - she WILL attack them
         - and probably try to bite them as well
     - these are scary situations, so just no toys with her and other dogs
+- She loves Kajal, my black cat
+    - never worry about them playing, they are playing
+    - sometimes kiran puts her whole head on kajal and kajal puts her mouth in her fur
+        - but its fine, pretty funny tbh
+
+![](images/kiran-kajal.avif){width="400"}
 
 ## Bark
 
