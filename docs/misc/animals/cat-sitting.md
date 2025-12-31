@@ -1,5 +1,7 @@
 # Cat Sitting
 
+![](images/cat-drawer.avif){width="400"}
+
 - Name: Kajal (American name: Bean)
 - Born: May 22nd, 2025
 - Breed: Domestic Short Hair Black Cat
@@ -14,6 +16,8 @@
 - I have a couple petco free vet vouchers that you can use
     - if not in bag, i can send you a picture and help you book appointment
 - Emergency Contact: Kristie: (817) 673-9529, lives in beacon hill
+
+![](images/kajal-laptop.avif){width="400"}
 
 ## Grooming
 
@@ -37,6 +41,8 @@
 - Don't worry about knives or sharp objects, kajal is quick and smart to not get hurt
 - She likes playing with trash-type materials
     - like if i open up new boxes, she likes playing with the plastic/cardboard
+
+![](images/kajal-car.avif){width="400"}
 
 ## Hiding
 
@@ -62,6 +68,8 @@
 - She will know where the litter is when you put sand in it
 - She rarely ever throws up (twice in 4 months)
 - And she has never pooped or peed outside the litterbox
+
+![](images/kiran-kajal2.avif){width="400"}
 
 ## Food
 
@@ -93,6 +101,8 @@
     - but don't walk her, just the harness and leash on if sitting in grass together
 - but you don't need to do any of this
 - She is scared of loud/big trucks so she will try to go on your shoulder when they pass
+
+![](images/kiran-kajal3.avif){width="400"}
 
 ## Tricks and Commands
 
