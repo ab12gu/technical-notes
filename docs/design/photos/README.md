@@ -8,11 +8,9 @@ However, jpeg has slower transfer speed to the client's browser since it has a r
 
 ![](images/jpeg-speed-chart.avif)
 
-Source: [https://groups.google.com/a/webmproject.org/g/webp-discuss/c/hn3LwO6_bS0](https://groups.google.com/a/webmproject.org/g/webp-discuss/c/hn3LwO6_bS0)
-
-File format [resolution tool](https://squoosh.app/editor)
-
-In development, [Webp2](https://chromium.googlesource.com/codecs/libwebp2/+/df4ec90a2befb79ed45cf8810e8ac93da7a47297/README.md)
+- Source: [https://groups.google.com/a/webmproject.org/g/webp-discuss/c/hn3LwO6_bS0](https://groups.google.com/a/webmproject.org/g/webp-discuss/c/hn3LwO6_bS0)
+- File format resolution tool [squoosh.app](https://squoosh.app/editor)
+-  In development, [Webp2](https://chromium.googlesource.com/codecs/libwebp2/+/df4ec90a2befb79ed45cf8810e8ac93da7a47297/README.md)
 
 ## Converting Files
 
@@ -41,7 +39,7 @@ Two types of compression
     - larger than lossy
 - Lossy
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/ce/Image_formats_by_scope.svg){: .background}
+![](https://upload.wikimedia.org/wikipedia/commons/c/ce/Image_formats_by_scope.svg){: style="background-color: white;"}
 
 ## Less common file types
 
