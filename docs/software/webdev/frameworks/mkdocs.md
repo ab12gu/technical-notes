@@ -1,5 +1,10 @@
 # MkDocs
 
+## Inline Styles
+
+`![](){: style="width: 50% background-color: white;"}`
+
+
 - [https://github.com/mkdocs/catalog](https://github.com/mkdocs/catalog)
 - [Access control thread](https://github.com/squidfunk/mkdocs-material/discussions/6872)
 
