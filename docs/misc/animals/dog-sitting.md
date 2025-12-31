@@ -46,6 +46,8 @@
     - You also double tap the location with your hand
 - She is very quiet, so don't think this is abnormal 
 
+![](images/kiran-kajal.avif){width="400"}
+
 ## Behaviors
 
 - If she is indoors and you are walking, she will sit really fast if she really needs to poop
@@ -102,7 +104,7 @@
     - sometimes kiran puts her whole head on kajal and kajal puts her mouth in her fur
         - but its fine, pretty funny tbh
 
-![](images/kiran-kajal.avif){width="400"}
+![](images/kiran-couch.avif){width="400"}
 
 ## Bark
 
@@ -131,6 +133,9 @@
     - And if the kid is like a real toddler... unsure, sometimes they just too aloof
     - Babies she seems fine with :)
 
+
+![](images/kiran-sari2.avif){width="400"}
+
 ## Pets/Scratches
 
 - She loves getting scratched right between her eyes and forhead
@@ -154,6 +159,9 @@
 - I don't wash or groom her
 - but if you wanted to take her to a groomer lmk; i would be down to cover it!
     - but idk how she'd react w/ the groomer, so heads up
+
+
+![](images/kiran-kajal3.avif){width="400"}
 
 ## Shedding
 
@@ -186,6 +194,9 @@
     - a longer walk doesn't necessarily solve it, unsure of real solution
     - she will just poop on a later walk
 
+
+![](images/kiran-sari.avif){width="400"}
+
 ## Food
 
 - [Iams Lamb](https://www.amazon.com/Iams-Proactive-Health-Adult-Food/dp/B07BCRTZ71?)
@@ -212,6 +223,9 @@
 - Great recall, never runs too far away
 - technically she should be on leash based on state laws, but who gives a fuck?
 - she will run in front/behind and into the trees, but always comes back
+
+
+![](images/kiran-under-bed.avif){width="400"}
 
 ## Water
 
@@ -241,6 +255,8 @@
 - Cooked eggs
 - Loves bread
 
+![](images/kiran-seat.avif){width="400"}
+
 ## Dog Walking
 
 - Walk at least once a day
@@ -260,12 +276,14 @@
     - she doesn't like being in back of hatchback, prefers seats
 - i take her into grocery stores, cafes, and libraries all the time
 
+
 ## Skin Picking
 
 - Kiran picks her butt
     - it never gets to the place of bleeding so not an issue
     - not a nervous pick, just a grooming habit but gets caught up in picking it 
     - i generally tell her to stop, but she will do it when i'm not looking so it doesn't matter
+
 
 ## Humping
 
