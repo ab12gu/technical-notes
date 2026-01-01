@@ -1,6 +1,10 @@
 site_name: Abhay Gupta
 site_url: https://blog.abgup.com
 
+plugins:
+  - optimize:
+      optimize_png_strip: false
+
 theme:
   name: material
   palette:
