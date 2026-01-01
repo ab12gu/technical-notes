@@ -1,6 +1,6 @@
 # Dog Sitting
 
-![](images/seattle-kiran2.avif){width="400"}
+![](images/seattle-kiran2.webp){width="400"}
 
 - Dog Name: Kiran
 - Born: Sept 21st, 2020
@@ -15,7 +15,7 @@
     - I am very bad at doing this, but she isn't in nature much so don't use it that often
     - Feedback: Steve said to do monthly, will ensure monthly
 
-![](images/seattle-kiran.avif){width="400"}
+![](images/seattle-kiran.webp){width="400"}
 
 ## Emergency/Vet
 
@@ -46,7 +46,7 @@
     - You also double tap the location with your hand
 - She is very quiet, so don't think this is abnormal 
 
-![](images/kiran-kajal.avif){width="400"}
+![](images/kiran-kajal.webp){width="400"}
 
 ## Behaviors
 
@@ -104,7 +104,7 @@
     - sometimes kiran puts her whole head on kajal and kajal puts her mouth in her fur
         - but its fine, pretty funny tbh
 
-![](images/kiran-couch.avif){width="400"}
+![](images/kiran-couch.webp){width="400"}
 
 ## Bark
 
@@ -134,7 +134,7 @@
     - Babies she seems fine with :)
 
 
-![](images/kiran-sari2.avif){width="400"}
+![](images/kiran-sari2.webp){width="400"}
 
 ## Pets/Scratches
 
@@ -161,7 +161,7 @@
     - but idk how she'd react w/ the groomer, so heads up
 
 
-![](images/kiran-kajal3.avif){width="400"}
+![](images/kiran-kajal3.webp){width="400"}
 
 ## Shedding
 
@@ -195,7 +195,7 @@
     - she will just poop on a later walk
 
 
-![](images/kiran-sari.avif){width="400"}
+![](images/kiran-sari.webp){width="400"}
 
 ## Food
 
@@ -225,7 +225,7 @@
 - she will run in front/behind and into the trees, but always comes back
 
 
-![](images/kiran-under-bed.avif){width="400"}
+![](images/kiran-under-bed.webp){width="400"}
 
 ## Water
 
@@ -255,7 +255,7 @@
 - Cooked eggs
 - Loves bread
 
-![](images/kiran-seat.avif){width="400"}
+![](images/kiran-seat.webp){width="400"}
 
 ## Dog Walking
 
