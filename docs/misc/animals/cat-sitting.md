@@ -1,6 +1,6 @@
 # Cat Sitting
 
-![](images/cat-drawer.avif){width="400"}
+![](images/cat-drawer.webp){width="400"}
 
 - Name: Kajal (American name: Bean)
 - Born: May 22nd, 2025
@@ -17,7 +17,7 @@
     - if not in bag, i can send you a picture and help you book appointment
 - Emergency Contact: Kristie: (817) 673-9529, lives in beacon hill
 
-![](images/kajal-laptop.avif){width="400"}
+![](images/kajal-laptop.webp){width="400"}
 
 ## Grooming
 
@@ -42,7 +42,7 @@
 - She likes playing with trash-type materials
     - like if i open up new boxes, she likes playing with the plastic/cardboard
 
-![](images/kajal-car.avif){width="400"}
+![](images/kajal-car.webp){width="400"}
 
 ## Hiding
 
@@ -100,7 +100,7 @@
 - but you don't need to do any of this
 - She is scared of loud/big trucks so she will try to go on your shoulder when they pass
 
-![](images/kiran-kajal2.avif){width="400"}
+![](images/kiran-kajal2.webp){width="400"}
 
 ## Tricks and Commands
 
