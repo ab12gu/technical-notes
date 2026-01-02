@@ -20,6 +20,10 @@ $ chmod +x .example.sh
 
 - Poorly written official docs: [https://www.gnu.org/software/bash/manual/?](https://www.gnu.org/software/bash/manual/?)
 
+Untested recommended docs from Chatgpt
+
+- [https://support.apple.com/guide/terminal/welcome/mac](https://support.apple.com/guide/terminal/welcome/mac)
+- [https://www.redhat.com/en/blog/bash-scripting-loops](https://www.redhat.com/en/blog/bash-scripting-loops)
 
 ## Citations
 
