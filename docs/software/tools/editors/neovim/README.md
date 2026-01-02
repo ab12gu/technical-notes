@@ -5,9 +5,11 @@
 ## Common Commands
 
 ```bash
-:w !python % # runs current file in python
-:vsplit # splits screen vertically
-:term # opens terminal obvi...
+:w !python %    # runs current file in python
+:vsplit         # splits screen vertically
+:term           # opens terminal obvi...
+:w !./%         # run file within nvim
+:%s/old/new/g   # search and replace
 ```
 
 ## Getting Started
