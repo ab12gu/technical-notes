@@ -1,5 +1,7 @@
 # Large Files
 
+Use [github LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)!
+
 Currently repo size 8gb due to images & videos. By default github gives you 10gb per repository and maybe allows you run over... unsure.
 
 Check github repo size:  [How to see github size? - stack overflow discussion](https://stackoverflow.com/questions/8646517/how-can-i-see-the-size-of-a-github-repository-before-cloning-it)
@@ -35,6 +37,9 @@ $ git lfs install --system
 # Make sure you are in root of repo
 $ git lfs track "*.psd"
 > Tracking "*.psd"
+
+# Remove file from 
+$ git rm --cached filename.ext
 
 ```
 
