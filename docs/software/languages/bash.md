@@ -5,7 +5,8 @@
 Needs to start file with a `shebang` which is a sharp + hashtag (!#)
 
 ```bash
-$ !# /bin/env bash
+$ !# /bin/env bash # tested and didn't work once, reverted to /bin/sh
+$ !# /bin/bash
 $ !# /bin/sh
 ```
 
