@@ -26,8 +26,11 @@ In cmd line, you can use [imagemagick](https://imagemagick.org/script/convert.ph
     - lossy compression
     - nearly every digital camera stores files in this format
     - 8-bit greyscale, 24-bit color
+    - doesn't support transparency or video
+    - universally supported
 - png
     - lossless compression
+    - universally supported
 - gif
     - 8-bit palette
     - old format so not the greatest compression algos tbh
@@ -50,11 +53,13 @@ Two types of compression
 - Webp
     - released in 2010
     - lossy & lossless compression (isn't that just lossy then tho?)
+    - supports transparency and animation
 - AVIF
     - New open source web image standard over webp?
     - Netflix first tried it
     - Single frame of video format AV1?
     - 12 bit colors
+    - NOT SUPPORTED BY: slack & github pages as of 25/01/01
 - HEIC (High Efficiency Image File)
     - Better than JPEG alt used by apple 
 
