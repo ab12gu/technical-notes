@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v3 # Check out the repo
         with:
           submodules: recursive
+          lfs: true
 
       - name: Set up Python # Fetch python version
         uses: actions/setup-python@v4
