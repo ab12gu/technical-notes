@@ -48,6 +48,9 @@ markdown_extensions:
 
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-2ZG54S4SXE
 
 extra_javascript: # table sorting built into mkdocs
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
@@ -56,3 +59,4 @@ extra_javascript: # table sorting built into mkdocs
 # rendering html in md
 use_directory_urls: true
 strict: false
+
