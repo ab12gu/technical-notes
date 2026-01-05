@@ -161,8 +161,6 @@
 - but if you wanted to take her to a groomer lmk; i would be down to cover it!
     - but idk how she'd react w/ the groomer, so heads up
 
-
-
 ## Shedding
 
 - Sheds the entire month of April and September
@@ -173,8 +171,6 @@
 - At the start of shedding season, she eats a lot of fur during grooming
     - and becomes super gassy
     - so i don't let her sleep in my room, cause it smells bad
-
-![](images/kiran-shedding.mp4)
 
 <video autoplay width="320" height="240" controls playsinline loop>
   <source src="../images/kiran-shedding.mp4"/>
