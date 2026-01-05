@@ -45,6 +45,15 @@ Some credit cards have a yearly fee. These allow you to get higher percent back 
 - TD Double Up Card
 - Amex Blue Business Plus/Cash Card
 
+## Credit Unions
+
+A credit union is a not-for-profit financial institution. The ones in WA (I live in WA), give 0->1.5% back :(. 
+
+- [https://www.firsttechfed.com/help/faqs/membership-faqs](https://www.firsttechfed.com/help/faqs/membership-faqs)
+    - West Coast Credit Union
+    - 2% gas/groceries/homegoods, 1% for rest
+    - Just donate $15 for Computer history museum membership to be eligible
+
 ## Cards
 
 NOTE: American Express (AE) cards are not accepted everywhere, so you should have a backup.
@@ -67,7 +76,6 @@ NOTE: American Express (AE) cards are not accepted everywhere, so you should hav
     - [Capital One Savior](https://www.capitalone.com/credit-cards/savor/)
     - $200 Intro offer
     - 8% for entertainment but must be purchased through [https://www.capitalone.com/credit-cards/benefits/entertainment/](https://www.capitalone.com/credit-cards/benefits/entertainment/)... dumb
-    - Ticket purchases made at movie theaters, sports promoters (professional and semi-professional live events), theatrical promoters, amusement parks, tourist attractions, aquariums, zoos, dance halls, record stores, pool halls or bowling alleys. This excludes golf courses, collegiate sporting events and non-industry entertainment merchant codes like cable, digital streaming and membership services.
 - Online Purchases [no, AE better]
     - [Bank of America® Customized Cash Rewards](https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/cash-back-category-choices/)
     - 3% on catagory, so online shopping works
