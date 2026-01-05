@@ -78,6 +78,7 @@
 - She doesn't like doors being opened or knocked (neighbors/yours)
     - she just barks
 
+![](images/kiran-kajal3.webp){width="400"}
 
 ## Interacting w/ other Animals
 
@@ -161,7 +162,6 @@
     - but idk how she'd react w/ the groomer, so heads up
 
 
-![](images/kiran-kajal3.webp){width="400"}
 
 ## Shedding
 
@@ -173,6 +173,13 @@
 - At the start of shedding season, she eats a lot of fur during grooming
     - and becomes super gassy
     - so i don't let her sleep in my room, cause it smells bad
+
+![](images/kiran-shedding.mp4)
+
+<video autoplay width="320" height="240" controls playsinline loop>
+  <source src="../images/kiran-shedding.mp4"/>
+   Your browser does not support the video tag.
+</video>
 
 ## Sleep
 
