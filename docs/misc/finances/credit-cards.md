@@ -1,12 +1,55 @@
 # Credit Cards
 
-## Sources:
+As of Jan 2026, the credit card rewards max out at flat rates of 2%. You can get variable rates from 1 to 6% based on category, but you would need to mentally track. 
 
-- https://www.nerdwallet.com/ 
+A good idea to start with 2% card and increase cards gradually to get better rewards. 
+
+## Recommended Credit Cards
+
+Note: Mastercard sometimes is not accepted, so should have a VISA backup
+
+- [Wells Fargo - Active Cash Card](https://creditcards.wellsfargo.com/active-cash-credit-card/?)
+    - 2% general
+- [American Express - Blue cash card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/?)
+    - 3% general (not accepted averywhere)
+- [Chase - Freedom Unlimited](https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited)
+    - 5% on travel
+
+## New Card Bonus
+
+Most credit cards give you bonuses from $100 to $1000 when you create a new card. 
+
+- You need to spend a certain amount in the few first months to receive rewards 
+- E.g. $1000 in first 3 months to get back $300
+
+If buying multiple cards, get the bonus for one, and apply for another after bonus is recieved. 
+
+## Credit Card Limit
+
+You can only open 5 credit cards within 24 months (5/24 Rule). Will be denied if exceeds.
+
+## Fees
+
+Some credit cards have a yearly fee. These allow you to get higher percent back or freebies.
+
+## 2% back cards
+
+- [Wells Fargo Active Cash Card](https://creditcards.wellsfargo.com/active-cash-credit-card/?)
+    - RECOMMENDED due to having store front
+    - $200 reward when spend $500 in first 3 months
+- [Citi Double Cash Card](https://www.citi.com/credit-cards/citi-double-cash-credit-card)
+- US Bank Smartly Card
+- Apple Card (only via Apple Pay)
+- Fidelity Rewards Visa Card
+- SoFi Credit Card
+- TD Double Up Card
+- Amex Blue Business Plus/Cash Card
 
 ## Cards
 
-- [AE - Blue cash card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/?eep=26129)
+NOTE: American Express (AE) cards are not accepted everywhere, so you should have a backup.
+
+- [AE - Blue cash card](https://www.americanexpress.com/us/credit-cards/card/blue-cash-everyday/?)
     - 3% back per year up to $6k on Online/Groceries/Gas (in each category)
     - $200 bonus
 - Best for Groceries
@@ -33,3 +76,10 @@
 
 - Freedom Unlimited: Travel (5%) & Restaurants/Drug Stores (3%)
 - AE Blue Cash: Online/Groceries/Gas (or preferred) (3%)
+
+
+## Sources
+
+- [https://www.nerdwallet.com/](https://www.nerdwallet.com/)
+- [https://www.reddit.com/r/CreditCards/comments/1kq4tt5/best_unlimited_2_cash_back/](https://www.reddit.com/r/CreditCards/comments/1kq4tt5/best_unlimited_2_cash_back/)
+
