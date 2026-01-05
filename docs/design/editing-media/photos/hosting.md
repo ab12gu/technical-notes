@@ -1,4 +1,4 @@
-# Photos
+# File Hosting 
 
 ## Storage/Organization
 
