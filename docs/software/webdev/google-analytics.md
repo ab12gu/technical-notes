@@ -2,6 +2,8 @@
 
 
 
+## Add to Material for Mkdocs
+
 To add to [mkdocs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-site-analytics/), just add these lines to `mkdocs.yaml`
 
 ```bash
