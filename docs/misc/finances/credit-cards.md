@@ -4,6 +4,12 @@ As of Jan 2026, the credit card rewards max out at flat rates of 2%. You can get
 
 A good idea to start with 2% card and increase cards gradually to get better rewards. 
 
+## Late Fees
+
+Current issue with credit cards is the late fees are very high. Therefore, you should always autopay it with your debit/savings/or/checking accounts. 
+
+You can ask to remove a 1 time late fee per year at most banks. 
+
 ## Recommended Credit Cards
 
 Note: Mastercard sometimes is not accepted, so should have a VISA backup
