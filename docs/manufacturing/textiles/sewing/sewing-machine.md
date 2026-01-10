@@ -1,10 +1,16 @@
 # Sewing Machine
 
 - Model: 44S
-- Bought from [Walmart 2022](https://www.walmart.com/ip/SINGER-Heavy-Duty-44S-Mechanical-Sewing-Machine-Powerful-Performance-Great-All-Projects-Fabrics-Four-Accessory-Feet-included-Easy-Use-Professional-Re/26376269?) $209? (Bought $120.00 Refurbished)
+- Bought from [Walmart 2022](https://www.walmart.com/ip/SINGER-Heavy-Duty-44S-Mechanical-Sewing-Machine-Powerful-Performance-Great-All-Projects-Fabrics-Four-Accessory-Feet-included-Easy-Use-Professional-Re/26376269?) $209? (Bought $120.00 Refurbished in 2022)
 - Power; 124v, 60 Hz, 0.7 amps
 - Serial No: ZHV2028709347
 - Made in Vietnam
+
+## Instructional Videos
+
+- [How to thread the machine (4min, ytb)](https://www.youtube.com/watch?v=iAHTXd4z8aU)
+- [How the stitch works (ytb short)](https://www.youtube.com/watch?v=zqRvljnNLFk)
+
 
 ## Specs
 
@@ -68,8 +74,6 @@ Idk, you can get polyester or cotton thread...
 
 ## Videos
 
-- [Singer 44S, Threading & Setup, 4min](https://www.youtube.com/watch?v=iAHTXd4z8aU)
-    - a little too basic tbh
 - [Threading & First stitch, 9min](https://www.youtube.com/watch?v=xI7C9-sqoP8)
 - [Automatic Needle Threader, 1min](https://www.youtube.com/watch?v=sg13QhYAZ7g)
 
