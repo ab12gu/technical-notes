@@ -20,6 +20,7 @@ jobs:
 
       - name: Install dependencies # Install dependencies
         run: pip install mkdocs-material
+             pip install mkdocs-encryptcontent-plugin
 
       - name: Build MkDocs site
         run: mkdocs build
