@@ -13,10 +13,9 @@ But inline html works:
   <source src="../images/kiran-shedding.mp4"/>
    Your browser does not support the video tag.
 </video>
-```
+```:q
 
 ### Inline Styles
-
 
 ```css
 ![alt text](image-location){: style="width: 50% background-color: white;"}
@@ -25,6 +24,7 @@ But inline html works:
 - [https://github.com/mkdocs/catalog](https://github.com/mkdocs/catalog)
 - [Access control thread](https://github.com/squidfunk/mkdocs-material/discussions/6872)
 
+### 
 
 ## Need to add
 
