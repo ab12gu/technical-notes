@@ -5,6 +5,12 @@ site_url: https://blog.abgup.com
 #  - optimize:
 #      optimize_png_strip: false
 
+plugins:
+  - search: {}
+  - encryptcontent:
+        password_inventory:
+            classified: "testpassword"
+
 theme:
   name: material
   palette:
