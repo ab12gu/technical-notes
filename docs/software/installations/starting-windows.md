@@ -14,5 +14,6 @@ Best to use [chocolatey](https://chocolatey.org/):
 $ winget install chocolatey
 $ choco install <package-name>
 $ choco list
+$ choco list > choco-list.txt
 ```
 
