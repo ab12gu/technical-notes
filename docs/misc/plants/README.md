@@ -1,6 +1,6 @@
 # Plants
 
-Plants at home
+## Plants at home
 
 Midnight Owl (cactus like), Cultivar of the Bird's Nest Snake Plant
 
