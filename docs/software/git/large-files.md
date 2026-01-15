@@ -41,7 +41,7 @@ The file `.gitattributes` specifies all files that are tracked in LFS storage.
 ```bash
 # From Attlassian support referenced above
 $ git lfs migrate import --include="*.png,*.jpg" everything # Removes artifacts of files in git history
-$ git push -force
+$ git push --force
 ```
 
 This will change all your historical commits to reference the LFS version of the file :). 
