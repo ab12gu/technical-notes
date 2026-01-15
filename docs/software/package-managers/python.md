@@ -14,8 +14,9 @@ $ uv sync
 $ source .venv/bin/activate
 ```
 
-Slightly different on Windows to activate
+Slightly different on Windows to activate. Need to run terminal in admin mode.
 
 ```bash
+$ Set-ExecutionPolicy Unrestricted -Force
 $ .venv/Scripts/activate.ps1
 ```
