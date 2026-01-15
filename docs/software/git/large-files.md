@@ -86,7 +86,7 @@ $ git prune # removes all unattached files
 
 - [Github repository limits](https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits)
 - [Git LFS size limits](https://docs.github.com/en/billing/concepts/product-billing/git-lfs)
-- [https://github.com/github/git-sizer](https://github.com/github/git-sizer), github size breakdownA
+- [https://github.com/github/git-sizer](https://github.com/github/git-sizer), github size breakdown
 - [Atlassian docs on LFS](https://www.atlassian.com/git/tutorials/git-lfs#what-is-git-lfs)
 - [https://git-lfs.com/](https://git-lfs.com/)
 
