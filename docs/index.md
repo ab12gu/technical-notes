@@ -1,6 +1,6 @@
 # Homepage
 
-![self-image](square-rainbow.jpg){: style="display: block; margin: 0 auto; width:200px;"}
+<!--![self-image](square-rainbow.jpg){: style="display: block; margin: 0 auto; width:200px;"}-->
 
 [blog.abgup.com](https://blog.abgup.com)
 
