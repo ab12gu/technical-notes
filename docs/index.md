@@ -1,7 +1,8 @@
 # Homepage
 
-[blog.abgup.com](https://blog.abgup.com)
+![self-image](square-rainbow.jpg){: style="display: block; margin: 0 auto; width:200px;"}
 
+[blog.abgup.com](https://blog.abgup.com)
 
 Currently, the blog is being ported over from main portfolio webpage. The reason behind it is discussed in the [README](https://github.com/ab12gu/mkdocs-notes). But in essence, the original website didn't support nested folders that is essential for documentation.
 
