@@ -13,12 +13,13 @@ But inline html works:
   <source src="../images/kiran-shedding.mp4"/>
    Your browser does not support the video tag.
 </video>
-```:q
+```
 
 ### Inline Styles
 
 ```css
-![alt text](image-location){: style="width: 50% background-color: white;"}
+![alt text](image-location){: style="width: 50%; background-color: white;"}
+![self-image](images/square-rainbow.jpg){: style="display: block; margin: 0 auto; width:200px;"}
 ```
 
 - [https://github.com/mkdocs/catalog](https://github.com/mkdocs/catalog)
