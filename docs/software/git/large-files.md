@@ -2,6 +2,15 @@
 
 Use [github LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)! Quick instructions on how to use on [Atlassian Support](https://support.atlassian.com/bitbucket-cloud/kb/moving-git-large-files-to-git-lfs-in-bitbucket-cloud/)
 
+## Cloning repo with Git LFS
+
+Check `.gitatrributes` if there is git LFS tracking.
+
+```bash
+$ git lfs ls-files
+$ git lfs pull
+```
+
 ## Repo Size
 
 Check github repo size:  [How to see github size? - stack overflow discussion](https://stackoverflow.com/questions/8646517/how-can-i-see-the-size-of-a-github-repository-before-cloning-it)
@@ -26,10 +35,10 @@ $ git lfs install --system
 # Go to repo
 
 # Make sure you are in root of repo
-$ git lfs track "*.psd"
-> Tracking "*.psd"
+$ git lfs track "*.psd" ## Track file or file types
+> Tracking "*.psd" 
 
-# Remove file from 
+# Remove file from cache
 $ git rm --cached filename.ext
 
 ```
