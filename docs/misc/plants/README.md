@@ -11,9 +11,8 @@ Midnight Owl (cactus like), Cultivar of the Bird's Nest Snake Plant
     - 2/4 weeks in summer (less in winter)
     - let roots dry completely before water to prevent rot
 
-[Philodendron](https://en.wikipedia.org/wiki/Philodendron)
+[Philodendron](https://en.wikipedia.org/wiki/Philodendron) (dangelinng like)
 
-- dangeling plant
 - Sunlight
     - Bright/indirect sunlight (east/north facing window)
 - Watering
