@@ -35,4 +35,3 @@ There is not much research on performance of fins on brake pads. It is really ju
 ## Maintainance
 
 - [STOP Noisy Brakes and Fix Pad Contamination](https://www.youtube.com/watch?v=GrXkWaMdhDA)
-- 
