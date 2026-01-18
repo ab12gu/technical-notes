@@ -4,6 +4,12 @@ These are brake pads on two sides of a steel disc attached to the wheel.
 
 ## My Canyon
 
+### Caliper
+
+Shimano 105, BR-RS505
+
+### Brake Pads
+
 [DISC BRAKE PAD BP-L04C-MF METAL WITH FIN](https://bike.shimano.com/en-NA/products/service-and-upgrade-parts/pdp.P-BP-L04C-MF.html)
 
 - Sintered metal (powdered metal compacted & heated)
