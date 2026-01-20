@@ -18,18 +18,22 @@ But inline html works:
 ### Inline Styles
 
 ```css
-![alt text](image-location){: style="width: 50%; background-color: white;"}
-![self-image](images/square-rainbow.jpg){: style="display: block; margin: 0 auto; width:200px;"}
+![alt text](image-location){: style="width: 50% background-color: white;"}
 ```
 
 - [https://github.com/mkdocs/catalog](https://github.com/mkdocs/catalog)
 - [Access control thread](https://github.com/squidfunk/mkdocs-material/discussions/6872)
 
-### 
+### Encryption
+
+Encryption plugin: [mkdocs-encryptcontent-plugin](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin)
+
+I want to use a more native approach later. But since my repo is public, someone could go into repo and find files. 
+
+Unsure if I need a database or a separate private repo for private files?
 
 ## Need to add
 
 - Subabase backend to restrict hockey page
 - [https://github.com/unverbuggt/mkdocs-encryptcontent-plugin](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin)
 - [https://github.com/samcomi/mkdocs-gitsnippet-plugin](https://github.com/samcomi/mkdocs-gitsnippet-plugin)
-- 
