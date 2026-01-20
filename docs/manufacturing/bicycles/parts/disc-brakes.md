@@ -21,10 +21,28 @@ Shimano 105, BR-RS505
 Worn back pads 26-01-16
 
 - L02A shimano resin SQD04
-- Released 2017, superseded by L03A (+40% longevity) & L05A (+60% longevity)
+- Released 2017, superseded by L03A (+40% longevity) & L05A (+50% longevity)
+- QBP, L05A, $15 [https://www.qbp.com/qbponlinestorefront/p/BR2721](https://www.qbp.com/qbponlinestorefront/p/BR2721)
 - Resin
 - Better in dry conditions
 - Wears faster than sintered metal
+
+## Alternative compatible brands
+
+Jagwire, Taiwan
+
+[SwissStop](https://www.swissstop.ch/insideswissstop/company/)
+
+- Company started in 1950 for brake pad development
+- Disc 34 indicates the pad is designed for modern Shimano flat-mount road/gravel calipers, 
+    - Dura-Ace (BR-R9170)
+    - Ultegra (BR-R8070)
+    - 105 (BR-R7070)
+    - GRX
+    - RS505/RS405/RS305.
+- It is the equivalent of the Shimano "L-Type" or "K-Type" pad (e.g., L03A, L05A, K03S, K05S)
+
+## Cooling fins
 
 [cooling fins blog article, why they don't work](https://www.kogel.cc/blogs/kbba/why-cooling-fins-dont-work-on-disc-brake-pads)
 
