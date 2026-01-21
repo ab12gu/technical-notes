@@ -1,17 +1,35 @@
 # Laptops
 
-- [Acer Aspire 14", 32gb, 1Tb, i7](https://www.costco.com/p/-/acer-aspire-14-ai-copilot-pc-touchscreen-laptop-intel-core-ultra-7-processor-258v-wuxga-1920-x-1200-touchscreen-32gb-ram-1tb-ssd-windows-11-home-steel-gray/4000344684)
-    - Cost: $700, Costco
-    - Review:
-        - shitty microphone
-        - shitty speakers
-    - display somewhat lackluster
-    - plastic casing
-    - Lower end: 15gb, i5 (10-15% slower), $450
-- [Asus 14", 16gb, 512gb](https://www.bestbuy.com/product/asus-vivobook-14-14-fhd-laptop-copilot-pc-snapdragon-x-with-16gb-memory-512gb-ssd-quiet-blue/JJGHGPPJ77/)
-    - Cost: $350 Bestbuy
-    - Review:
-        - Arm / No dedicated CPU
-            - might be worse for coding
-        - Should be faster for small tasks than intel of acer
+## What to look for
 
+- Display: 220 ppi or greater
+    - Macbook states `retina` which trends between 220-250ppi
+        - marketing to mean unable to notice pixels from normal viewing distance
+        - so 4k on a 14in screen is too much
+- Speakers:
+    - Must be placed on top of keyboard side (not underneath)
+    - 84 db or higher to hear throughout bedroom loudly
+- Ram/Memory: 32gb+  (as of 2026)
+- SSD/Storage: 1TB+ (as of 2026)
+- Various ports
+- Aesthtics of keyboard/top
+- Feel of keyboard & Trackpad
+- Graphics card
+- Processor multitasking capability
+
+## 2026 Jan Choices
+
+- HP Omni 14s
+    - Con: Bad res
+- Yoga flip 9i
+    - Con: No ports
+- Yoga 7i
+- Asus Zephryus G14 (what I selected)
+- Dell Plus 2 in 1
+    - Con: speakers underneath
+- Dell Inspiron
+    - Con: Bad aesthetics
+- Asus Proart
+    - Con: Circle dial on touchpad
+- Tested, Acer Aspire 14"
+    - Con: Resolution was too bad (2k, 1920x1080)
