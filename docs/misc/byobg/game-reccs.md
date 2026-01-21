@@ -15,5 +15,7 @@
     - Need to check out: key and peele dnd meeting
 - Buzz, moose
 - Can't say multiples of seven
-
+- Shane (leasing) owns
+    - Archam Horror
+    - Smashup
 
