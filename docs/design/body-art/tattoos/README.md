@@ -1,5 +1,14 @@
 # Tattoos
 
+## Starting
+
+Buy some fake skin from amazon and try on that
+
+## Stick and poke
+
+- Just dip a needle into ink and then into your skin
+- [https://en.wikipedia.org/wiki/Stick_and_poke](https://en.wikipedia.org/wiki/Stick_and_poke)
+
 
 ## Youtube
 
