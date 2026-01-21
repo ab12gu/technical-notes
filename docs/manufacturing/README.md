@@ -5,6 +5,13 @@ Projects/notes mostly consisting of design/manufacturing
 
 ## Local Shops / Workshops
 
+[OnlineMetals](https://www.onlinemetals.com/)
+
+- Worldwide but locally operates in Portland
+    - Local branch in georgetown for distrubtion only
+    - Share facility with pnw scenic, does outdoor art
+    - Varian Design (furniture) owner runs it
+
 [WS Tool Lib](https://www.wstools.org/)
 
  - Tools

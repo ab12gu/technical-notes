@@ -25,7 +25,6 @@ Charging rate
 - Normal charges charge at 14.2-14.4 volts, but automatically drop to 13.6 when charged at 80% charge
     - I'm not doing that so just charge slow...
 
-
 ## Wiring
 
 Only 2 pairs of Black/Red wires needed
