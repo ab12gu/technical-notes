@@ -28,7 +28,7 @@
 - Better + more controllable led bulbs
     - switches for them, or connect to ceiling lights
 
-### Furnature
+### Furniture
 
 - Mattress (ikea ones are $250)
     - mattress cover
