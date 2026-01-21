@@ -1,5 +1,10 @@
 # Articles
 
+## Friends reccs
+
+- Kasi Rec [https://retool.com/blog/salesforce-for-engineers](https://retool.com/blog/salesforce-for-engineers)
+
+
 ## Loneliness Articles
 
 - [https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/](https://www.theatlantic.com/family/archive/2022/04/third-places-meet-new-people-pandemic/629468/)
