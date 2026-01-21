@@ -2,6 +2,9 @@
 
 Use [github LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)! Quick instructions on how to use on [Atlassian Support](https://support.atlassian.com/bitbucket-cloud/kb/moving-git-large-files-to-git-lfs-in-bitbucket-cloud/)
 
+NOTE: Github limits free version to have 10gb bandwidth monthly. No method to escape this without paying extra so ensure not excessive clones for repo needed cause each clone will eat up bandwidth (unsure if builds in CI/CD count)
+
+
 ## Cloning repo with Git LFS
 
 Check `.gitatrributes` if there is git LFS tracking.
@@ -10,6 +13,10 @@ Check `.gitatrributes` if there is git LFS tracking.
 $ git lfs ls-files
 $ git lfs pull
 ```
+
+### Adding Files
+
+Anytime you add a file to repo (after attaching `git lfs`) you will need to run `git lfs push` to push the file to repo.
 
 ## Repo Size
 
