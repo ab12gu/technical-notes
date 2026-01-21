@@ -2,6 +2,14 @@
 
 These are brake pads on two sides of a steel disc attached to the wheel.
 
+## Disc 
+
+Can attach with a centerlock (ridges w/ locknut) or 6+ bolt on
+
+Andrew G from bikery uses `dt swiss` centerlock -> 6 bolt adapter
+
+- this allows him to have both, because the centerlock needs a special tool to remove, it is better to use 6 bolt
+
 ## My Canyon
 
 ### Caliper
