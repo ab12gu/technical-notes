@@ -77,6 +77,8 @@
     - She enjoys chasing rats
 - She doesn't like doors being opened or knocked (neighbors/yours)
     - she just barks
+- She pretends to throw up if she wants something
+    - generally its to go out 
 
 ![](images/kiran-kajal3.webp){width="400"}
 
@@ -270,14 +272,23 @@
 - feel free to leave her at home for extended periods of time
     - once a week i leave her for about 8 hrs
     - this is why i got the kitty, so she has company
-- she also likes the car A LOT!
-    - I dont tie her down in the car, but u can tie her leash to belt or something
-    - I leave her in the car while running errands
-        - i part the windows but if cold enough, idk if necessary
-        - try to leave water in car too but thats for long drives
-    - i let her sit in passenger seat with windows down while driving
-    - she doesn't like being in back of hatchback, prefers seats
 - i take her into grocery stores, cafes, and libraries all the time
+
+## Car
+
+- she also likes the car A LOT!
+- I dont tie her down in the car, but u can tie her leash to belt or something
+- She doesn't like when the car goes in reverse (will start whining)
+    - opening the window will calm her down/make her excited
+        - but wind too cold on freeway in winter
+        - and she whines more if you keep opening window in response, so not a good solution
+- Opening the windows while driving is something kiran loves
+    - she only jumps out when we are at Harper's house, but could happen otherwise
+- I leave her in the car while running errands
+    - i part the windows but if cold enough, idk if necessary
+    - try to leave water in car too but thats for long drives
+- i let her sit in passenger seat with windows down while driving
+- she doesn't like being in back of hatchback, prefers seats
 
 
 ## Skin Picking
