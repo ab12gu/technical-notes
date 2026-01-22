@@ -49,7 +49,8 @@ Hydrogen peroxide (3%) - spray
 
 ### Quaternary ammonium disinfectant
 
-Stronger, prevents regrowth
+- Stronger, prevents regrowth
+- Lysol, Concrobium Mold Control
 
 ### Heat via steam cleaning
 
