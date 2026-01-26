@@ -9,6 +9,12 @@ Shifter snapped in middle of driving, towed back home
     - Can manually pull the shifter back to neutral from bottom of car
 - Neutral shifter (left-right) works just fine!
 
+## Replacement Seal
+
+- [Part: 68136962a, Mopar.com, $3 + $5 shipping](https://store.mopar.com/oem-parts/mopar-shift-lever-seal-68136962aa)
+- [Rockauto, out of stock](https://www.rockauto.com/en/moreinfo.php?pk=17307277&cc=1505378&pt=8192&jsn=571)
+    - FIAT > 2013>500 > 1.4L L4 > Transmission-Manual > Manual Shaft Seal
+
 ## Images
 
 The shifter shaft / selector seal leaking.
