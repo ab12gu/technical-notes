@@ -26,6 +26,23 @@
 
 ## Local 
 
+- Roller skating
+    - Recommended by Ivy
+    - Bowl & Skate Lynnwood, [bowlandskate.com](https://www.bowlandskate.com/hours)
+        - Mon       |  11am-2pm | $15 Admission | $3 Skate Rental
+        - Tues      |  Beg 6pm-8pm, 18+ 8:30pm-11pm | $8 admission
+        - Wed/Thurs |  Beg 6pm-8pm, 18+ 8:30pm-11:00pm | $8 admission
+    - El Centro, Federal Way, [elcentroskaterink.com/](https://www.elcentroskaterink.com/skate-schedule)
+        - Daytime Skating @ on Wed/Thurs
+        - Mon, $7, 8-10:30p
+        - Wed, $12 + $2, 4:30-7p ; $13 + $5 for Adult, 7:30p-10p
+        - Thurs, cheap 8p - 10p, $5 w/ skates
+        - Fri, 5:30-8:30p, $12 + $2
+            - 9-Midnight, $13 + $5
+        - Sat, 1:30->4p, 4:30-7p, 7:30-10p
+        - Sat, 1:30->4p, 4:30-7p, 7:30-11p
+    - Southgate
+        - Mon cheap 
 - Eagle Harbor Books
     - Location: bainbridge island
     - Recommended by: Elizabeth lets her dog eat drugs off ground
