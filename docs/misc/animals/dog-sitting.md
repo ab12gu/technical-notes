@@ -207,6 +207,9 @@
 - [Iams Lamb](https://www.amazon.com/Iams-Proactive-Health-Adult-Food/dp/B07BCRTZ71?)
 - [Kirkland Lamb](https://sameday.costco.com/store/costco/products/33073-kirkland-signature-lamb-rice-and-vegetable-dog-food-40-lb)
 - Unlimited, just leave food out in house
+- She is hesitant to eat food at new places
+    - maybe its a shy thing to show she more femanine ;)
+    - eventually will eat, don't sweat it.
 - Only needs to eat once a day
     - So if I am outside with her I just feed her at home
 - Kiran has a strong stomache, so anydogfood really works
