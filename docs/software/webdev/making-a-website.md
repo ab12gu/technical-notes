@@ -16,6 +16,7 @@
 2. Create an account 
 3. Link to [github ip tokens](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
 4. Creat new repo in github to host your code
+    - Must make repo public (private repo's cant host webpages on free version)
 5. Link github to namecheap site
 6. Clone new repo to desktop
 6. Add an `index.html` file to your repo on desktop
