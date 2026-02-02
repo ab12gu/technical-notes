@@ -2,8 +2,15 @@
 
 Use [github LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)! Quick instructions on how to use on [Atlassian Support](https://support.atlassian.com/bitbucket-cloud/kb/moving-git-large-files-to-git-lfs-in-bitbucket-cloud/)
 
-NOTE: Github limits free version to have 10gb bandwidth monthly. No method to escape this without paying extra so ensure not excessive clones for repo needed cause each clone will eat up bandwidth (unsure if builds in CI/CD count)
+## ISSUES
 
+Github LIMITS free version to have `10gb bandwidth` monthly. No method to escape this without paying extra so ensure not excessive clones for repo needed cause each clone will eat up bandwidth (unsure if builds in CI/CD count)
+
+- Random people were cloning website and using up bandwidth
+- Also the bandwidth was eaten when using github actions to deploy webpage
+    - couldn't deploy with pointer... dumb
+
+Solution: Host on some online server or build your own server
 
 ## Cloning repo with Git LFS
 
