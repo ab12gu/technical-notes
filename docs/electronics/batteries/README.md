@@ -1,16 +1,19 @@
 # Overview
 
-Most batteries used are Lithium...
+Most batteries used are Lithium Polymer (lipo) for electronics...
 
 ## Purchase
 
 - [Aliexpress](https://www.aliexpress.us/)
+    - Really the only place to get them
 - [Alibaba](https://alibaba.com)
 - Amazon, requires strict certifications
     - so cant find many options here :(
 - [https://tinycircuits.com/](https://tinycircuits.com/)
     - $5-$10, 3.7v lipo batteries, $5 shipping
     - modular handheld console company in Akron, OH
+- [https://www.adafruit.com/product/328?](https://www.adafruit.com/product/328?)
+    - NY, NY
 
 ## Safety Standards
 
