@@ -9,6 +9,10 @@ Loupe is a small, portable, high-powered magnifying tool (this case used for ora
     - Replacement cost $500
 - Stone asked for replacement/repair
 
+## Ergonomics
+
+Some complain that the battery/wireless causes glasses to be too heavy.
+
 ## Cost
 
 Costs around $900 (used/older models) to $3,000+ for fully customized systems with lighting
