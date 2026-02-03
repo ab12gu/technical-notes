@@ -13,3 +13,10 @@ For car repair use `Nitrile` gloves
     - Polyvinyl chloride (PVC) + plasticizer
 
 Sometimes double glove for extra protection
+
+Reusable
+
+- Mechanix Wear Original Gloves
+    - Synthetic leather palms (abrasion resistance), breathable back
+- Mechanix Wear SpeedKnit S2EP33 Gloves
+    - Nitrile palm coating...
