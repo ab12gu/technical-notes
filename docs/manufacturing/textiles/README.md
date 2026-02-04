@@ -2,6 +2,12 @@
 
 The umbrella term to describe all fibre-based materials
 
+# Purchase
+
+Amazon is rather expensive and local store [pacific fabrics](https://www.pacificfabrics.com/) down in SODO Seattle is cheaper!
+
+Sarah gets her stuff from [https://www.wawak.com/](https://www.wawak.com/).
+
 ### Cotton
 
 - can be short/long/extra-long staple
