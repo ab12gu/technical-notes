@@ -2,19 +2,21 @@
 
 Elizabeth's mom's car got into a fender bender. 
 
+Costs between $600 - $1000 depending on if you can paint yourself
+
 Quote for how much parts cost:
 
 - Ebay internal bumper + lights: ~$300 (free shipping)
-    - [https://www.ebay.com/itm/286056556933?](https://www.ebay.com/itm/286056556933?)
+    - [ebay.com/bumper link](https://www.ebay.com/itm/286056556933?)
 - External bumper: $241 (free shipping)
-    - [https://www.ebay.com/itm/406498321000?](https://www.ebay.com/itm/406498321000?)
+    - [ebay.com/bumper2 link](https://www.ebay.com/itm/406498321000?)
 - External bumper painted: ~$800 
-    - [https://partifyusa.com/products/nissan-rogue-sport-front-bumper-ni1000332?](https://partifyusa.com/products/nissan-rogue-sport-front-bumper-ni1000332?)
+    - [partifyusa.com/bumper-cover](https://partifyusa.com/products/nissan-rogue-sport-front-bumper-ni1000332?)
         - Bumper: $303
         - Color cost: $204
         - Shipping: $200
 - External bumper painted: ~$600
-    - [https://partifyusa.com/products/nissan-rogue-sport-front-bumper-ni1000332?]
+    - [paintedautoparts.com/bumper-cover](https://paintedautoparts.com/nissan-rogue-sport-2-0l-front-bumper-cover-prm-lwr-txt-oem-620226mr0h-2020-2021-pl-ni1000332.html?)
         - Bumper: $325
         - Paint: $150
         - Shipping: $100
