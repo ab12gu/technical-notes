@@ -6,5 +6,9 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 docs/assets/** -filter -diff -merge
+<<<<<<< Updated upstream
+=======
+docs/assets/** !text !filter !merge !diff
+>>>>>>> Stashed changes
 docs/assets/a5.png !text !filter !merge !diff
 * !text !filter !merge !diff
