@@ -33,7 +33,8 @@ jobs:
           publish_dir: ./site
           cname: notes.abgup.com
           publish_branch: gh-pages
-          force_orphan: true # test to remove cname old
+          #force_orphan: true # test to remove cname old
+
 
 
 
