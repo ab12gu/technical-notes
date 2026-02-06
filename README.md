@@ -1,6 +1,6 @@
 ## Released webpage
 
-[blog.abgup.com](https://blog.abgup.com)
+[notes.abgup.com](https://notes.abgup.com)
 
 ## Local build instructions
 
@@ -58,4 +58,5 @@ site/         # local build files
 
 
 [mkdocs.org](https://mkdocs.com)
+
 
