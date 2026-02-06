@@ -5,9 +5,7 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
-=======
 docs/assets/** -filter -diff -merge
 docs/assets/a5.png !text !filter !merge !diff
->>>>>>> efd3dd7b5c9900ff2bd307d6b17dcf8b978d5299
+docs/assets/a3.png !text !filter !merge !diff
 * !text !filter !merge !diff
