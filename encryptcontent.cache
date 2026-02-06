@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 kdf_iterations: 100000
 obfuscate: {}
 password:
   testpassword: f87006d960b1a8611dd6ea2adae111f9ee155339a000ace1afd418468232651d;8461b1db133871fa9421827182df44b5;9f735e0df9a1ddc702bf0a1a7b83033f9f7153a00c29de82cedadc9957289b05
 userpass: {}
+=======
+kdf_iterations: 100000
+obfuscate: {}
+password:
+  testpassword: f87006d960b1a8611dd6ea2adae111f9ee155339a000ace1afd418468232651d;8461b1db133871fa9421827182df44b5;9f735e0df9a1ddc702bf0a1a7b83033f9f7153a00c29de82cedadc9957289b05
+userpass: {}
+>>>>>>> efd3dd7b5c9900ff2bd307d6b17dcf8b978d5299
