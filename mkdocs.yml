@@ -1,5 +1,5 @@
 site_name: Abhay Gupta
-site_url: https://blog.abgup.com
+site_url: https://notes.abgup.com
 
 # plugins:
 #  - optimize:
@@ -65,4 +65,5 @@ extra_javascript: # table sorting built into mkdocs
 # rendering html in md
 use_directory_urls: true
 strict: false
+
 
