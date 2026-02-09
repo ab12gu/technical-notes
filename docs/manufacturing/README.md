@@ -45,3 +45,10 @@ There is lot of discussions about tools, material properties, methods of manufac
 
 [NE Makerspace](https://nemakers.notion.site/6db85b189d554d19bdb874c85e673516?v=0aba4c20459448108910dc4c1b72f0ed)
 
+[https://www.camseattle.org](https://www.camseattle.org)
+
+- Belltown
+- Odin has membership
+- [2125 2nd Ave, Seattle, WA 98121](https://www.google.com/maps?q=cam+seattle)
+- Print shop, woodshop, studio space, and one of our event space
+- Location for ten years and it is our original location.
