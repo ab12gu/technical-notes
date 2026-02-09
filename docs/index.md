@@ -4,7 +4,7 @@
 
 [blog.abgup.com](https://blog.abgup.com)
 
-Hello! This is my site for technical notes about anything I have learned or work(ed) on! Currently working on methods to render the images better, so they probably won't load :(, but it is in the sourcecode, [Gitub](https://github.com/ab12gu/mkdocs-notes).
+Hello! This is my site for technical notes about anything I have learned or work(ed) on! Currently working on methods to render the images better, so they probably won't load :(, but it is in the sourcecode below.
 
 ## Categories
 
@@ -20,8 +20,5 @@ e.g.
 ```
 
 ## Source Code
-
-I ported this over from my main porfolio webpage, [abgup.com](abgup.com), discuessed in the [README](https://github.com/ab12gu/mkdocs-notes). But in essence, the original website didn't support nested folders that is essential for documentation.
-
 
 Published via [github](https://github.com/ab12gu/technical-notes)
