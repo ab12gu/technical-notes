@@ -1,0 +1,5 @@
+kdf_iterations: 100000
+obfuscate: {}
+password:
+  testpassword: 6fc39fa713158669cc98bf2c72e73f29f378dcdd9f3f8db588b4a3a792befdd1;ff72ab14a325d5fe4d9fabfbcebf885a;9f735e0df9a1ddc702bf0a1a7b83033f9f7153a00c29de82cedadc9957289b05
+userpass: {}
