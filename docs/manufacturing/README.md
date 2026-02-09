@@ -1,9 +1,10 @@
 # Manufacturing
 
-Projects/notes mostly consisting of design/manufacturing
+Mostly consisting of noes on how to create rigit mechanical components. 
 
+There is lot of discussions about tools, material properties, methods of manufacturing as well as many completed projects. 
 
-## Local Shops / Workshops
+## Local Shops
 
 [OnlineMetals](https://www.onlinemetals.com/)
 
@@ -11,10 +12,14 @@ Projects/notes mostly consisting of design/manufacturing
     - Local branch in georgetown for distrubtion only
     - Share facility with pnw scenic, does outdoor art
     - Varian Design (furniture) owner runs it
+- Cheapest place to buy metal
+    - expensive to ship due to weight, so cheaper than amazon/aliexpress generally
 
-[WS Tool Lib](https://www.wstools.org/)
+## Local Workshops
 
- - Tools
+[West Seattle Tool Library](https://www.wstools.org/)
+
+- Tools
 	- Hydraulic Jacks
 	- Assorted specialty wrenches/pullers/install tools
 	- Torque Wrenches
@@ -24,6 +29,13 @@ Projects/notes mostly consisting of design/manufacturing
 - Hours:
 	- TUES, WED, & THURS: 5PM - 8PM  
 	- SAT & SUN: 11AM - 4PM
+
+[Capitol Hill Tool Library](https://sustainablecapitolhill.org/tool-library/)
+
+- Open Mon -> Thurs 6-9p
+- Fri Closed
+- Sat 9-Noon
+- Sun 4-7p
 
 [Ballard Tool Lib](https://www.ballardtoollibrary.org/)
 
