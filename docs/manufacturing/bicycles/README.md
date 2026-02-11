@@ -17,3 +17,9 @@ Wood
     - Son works @ SAAS as machinist; dad is adjuct at UofO
 
 Bamboo
+
+- [https://bamboocycles.com/](https://bamboocycles.com/)
+- Flies out to teach from Mexico
+- Elizabeth took his class
+- Carbon/Resin Joints
+- Metal tabs for wheel connection points
