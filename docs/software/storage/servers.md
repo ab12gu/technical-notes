@@ -6,7 +6,7 @@
 4. DigitalOcean
 5. Linode (Akamai)
 6. Vultr
-7. Supabase
+7. Supabase**
     - free plan
 8. Hetzner
 9. Cloudflare
