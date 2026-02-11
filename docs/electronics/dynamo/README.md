@@ -1,6 +1,10 @@
 # Dynamo
 
-Pitched by Alex Ross
+Dynamo phone chargers/connectors are massively expensive (> $100). 
+
+- Pitched by Alex Ross for bikepacking
+- He has a wheel w/ dynamo to use. 
+- Unable to charge directly due to low rate + charge variability
 
 ## Links
 
@@ -8,10 +12,6 @@ Pitched by Alex Ross
 - [USB Charger](https://www.sinewavecycles.com/collections/chargers/products/sinewave-revolution)
 - [Dynamo charger](https://jefe.bike/products/klite-minimalist-dynamo-to-usb-charging-kit-sp-hub?gad_campaignid=17426299103)
 - [Instructables Build](https://www.instructables.com/DIY-BICYCLE-USB-CHARGER-Fahrradlader-V31/)
+    - way too complicated for DIY
+    - I am designing simpler designs (see tabs)
 
-
-## Notes
-
-- I have a wheel you could use. 
-- The charging capacity is what I really want for bikepacking
-- Its just that they put out such little power that its tough to charge off them directly. They need a cache to build enough voltage
