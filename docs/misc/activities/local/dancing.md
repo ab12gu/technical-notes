@@ -1,12 +1,17 @@
 # Dancing
 
+I think I want to spend more money on dance classes. Some of these class areas are:
+
+- Swing
+   - Friend, Francis, teaches swing at [Century Ballroom](https://centuryballroom.com/)
+- Salsa/Barchata
+- Pole Dancing!
+
 Atiyah wants to try:
 
 - Tango
 - Salsa
 - Line Dancing
-
-- Friend, Francis, teaches swing at [Century Ballroom](https://centuryballroom.com/)
 
 # Bollywood Dance
 
