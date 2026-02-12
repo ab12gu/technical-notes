@@ -1,4 +1,4 @@
-# Parts Purchasing
+# Purchasing
 
 ## Stores
 
@@ -14,25 +14,3 @@
     - "Motor Parts"
     - OEM parts for Chrysler, Dodge, Jeep, Ram, and Fiat
     - Owned and operated by Garden City Jeep Chrysler Dodge Ram of Long Island, NY
-
-## Brands
-
-Brands w/ High Quality Control
-
-- akebono
-- bosch quietcast
-- centric (and stoptech)
-- ebc brakes
-- hawk performance
-
-Mixed
-
-- Raybestos
-- Wagner
-- Powerstop
-
-# Good YTB Instructional Channels
-
-- [ytb - TRQ](https://www.youtube.com/@TRQ)
-
-

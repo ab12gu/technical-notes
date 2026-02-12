@@ -15,6 +15,10 @@ These are some websites that give online quotes, but I don't think they are accu
 
 There are some AI image recognition sites for cars that have been in crashes.
 
+## Instructional Resources
+
+- [ytb - TRQ](https://www.youtube.com/@TRQ)
+
 ## Repair Salaries
 
 Mobile Automotive Technician Job
