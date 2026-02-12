@@ -9,4 +9,4 @@ Mostly in aluminum or steel, where the steel is considered structural
 
 ## Purchaseable
 
-- https://www.acehardware.com/departments/tools/fastening-tools/rivets
+- [https://www.acehardware.com/departments/tools/fastening-tools/rivets](https://www.acehardware.com/departments/tools/fastening-tools/rivets)
