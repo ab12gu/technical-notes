@@ -2,10 +2,15 @@
 
 ## Channels to browse thru
 
-- [https://www.youtube.com/c/timanderic](https://www.youtube.com/c/timanderic)
-- [https://www.youtube.com/@historyofsimplethings/videos](https://www.youtube.com/@historyofsimplethings/videos)
-- [https://www.youtube.com/c/michaelreeves](https://www.youtube.com/c/michaelreeves)
+- [/c/timanderic](https://www.youtube.com/c/timanderic)
+- [/@historyofsimplethings/videos](https://www.youtube.com/@historyofsimplethings/videos)
+- [/c/michaelreeves](https://www.youtube.com/c/michaelreeves)
+- Johnny harris
 
 ### Science
 
-- [https://www.youtube.com/@styropyroshorts/](https://www.youtube.com/@styropyroshorts/)
+- [/@styropyroshorts/](https://www.youtube.com/@styropyroshorts/)
+- Veratassium
+- Stuff made here
+
+
