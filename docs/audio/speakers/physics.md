@@ -1,4 +1,4 @@
-# Speakers
+# Physics
 
 ## Subwoofer
 
