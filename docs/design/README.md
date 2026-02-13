@@ -33,6 +33,6 @@ Figma color
 
 ## FRC
 
-= Made by David from Miso Mechanics
+- Made by David from Miso Mechanics
     - [https://frcdesign.org/](https://frcdesign.org/)
 
