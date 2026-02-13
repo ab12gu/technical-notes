@@ -1,4 +1,4 @@
-# Discounts
+# Healthcare
 
 ## Healthcare
 
@@ -7,7 +7,6 @@
 ## Dental
 
 - [Downtown Seattle Public Health Center](https://kingcounty.gov/en/dept/dph/health-safety/health-centers-programs-services/public-health-centers/downtown-seattle)
-- 
 
 ## Tax Reductions
 
