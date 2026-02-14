@@ -1,5 +1,11 @@
 # Podcasts
 
+## Engineering
+
+- [https://theamphour.com/](https://theamphour.com/)
+
+## Misc
+
 - [reddit - if you can only recommend a single podcast](https://www.reddit.com/r/podcasts/comments/1iijrwb/if_you_could_only_recommend_one_single_podcast/)
 - [https://srslywrong.com/](https://srslywrong.com/)
 - [https://arbortrarypod.com/](https://arbortrarypod.com/)
