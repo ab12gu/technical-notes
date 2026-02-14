@@ -10,3 +10,7 @@ As I get less frugal with my money, here are some areas I would like to invest m
 - Nicer Tools
     - Torches
     - Tool Cases
+
+## Websites to checkout
+
+- Resale government items [govdeals.com/en/kingcountywa](https://www.govdeals.com/en/kingcountywa)
