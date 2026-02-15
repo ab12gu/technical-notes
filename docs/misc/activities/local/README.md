@@ -8,3 +8,7 @@ Queer Crafters @ Seattle Makers
 
 - Wallingford
 - Jazz, 10p-1am on mondays
+
+Guin teaches watercolor (free wed West Seattle)
+
+- Sarah interested
