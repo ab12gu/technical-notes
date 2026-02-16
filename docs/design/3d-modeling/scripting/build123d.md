@@ -27,6 +27,7 @@ $ uv init
 $ mv main.py <project-name>.py
 $ uv venv .venv
 $ uv add ocp-vscode
+$ uv add ocp-vscode==3.0.0 # for some reason 3.0.1 (latest) wasn't working
 $ uv add build123d
 ```
 
