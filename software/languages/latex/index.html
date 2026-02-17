@@ -24651,6 +24651,24 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    LaTeX
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -24667,6 +24685,58 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#editor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Editor
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#compile" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Compile
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tex-distributions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tex Distributions
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -26724,6 +26794,47 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#editor" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Editor
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#compile" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Compile
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tex-distributions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tex Distributions
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -26746,6 +26857,35 @@
 </ul>
 <p><code>Tex</code> is programming language used to well formatted documents (aka: typesetting system)</p>
 <p><code>Latex</code> is a macro langauge on top of <code>tex</code> that allows gives you simpler functions to format text. </p>
+<h2 id="editor">Editor</h2>
+<p><code>Overleaf software</code> was conceived by John Hammersley and John Lees-Miller, who started developing it in 2011.</p>
+<ul>
+<li>Online collaborative latex editor for scientific writing</li>
+<li>Beta released Jan 2014</li>
+<li>Merged with ShareLaTeX in 2017</li>
+<li><a href="https://en.wikipedia.org/wiki/Overleaf">https://en.wikipedia.org/wiki/Overleaf</a></li>
+</ul>
+<h2 id="compile">Compile</h2>
+<p>On Mac, install <a href="https://www.tug.org/mactex/morepackages.html">basictex</a> (smaller distro of MacTeX). Includes TeX, LaTeX, pdfTeX, MetaFont, dvips, MetaPost, and XeTeX.</p>
+<div class="language-text highlight"><pre><span></span><code>$ brew install --cask basictex
+$ pdflatex mydocument.tex
+</code></pre></div>
+<p>Minimum page to be able to compile (won't generate pdf though)</p>
+<p>filename: document.tex
+<div class="language-text highlight"><pre><span></span><code>$ \documentclass{article}
+$ \begin{document}
+$ \end{document}
+</code></pre></div></p>
+<h2 id="tex-distributions">Tex Distributions</h2>
+<p><code>TeX Live</code> is the standard distribution of TeX, LaTeX, and related programs produced by TeX Users Groups across the world</p>
+<ul>
+<li>MiKTeX for Windows</li>
+<li>TeX Live for Linux and other UNIX-like systems</li>
+<li><a href="https://en.wikipedia.org/wiki/MacTeX">MacTeX</a> redistribution of TeX Live for macOS</li>
+<li>teTeX for Linux and other UNIX-like systems; it is no longer actively maintained now</li>
+<li>proTeXt is based on MiKTeX</li>
+</ul>
+<p>Source: <a href="https://www.overleaf.com/learn/latex/Choosing_a_LaTeX_Compiler%23Other_compilers">https://www.overleaf.com/learn/latex/Choosing_a_LaTeX_Compiler%23Other_compilers</a></p>
 
 
 
