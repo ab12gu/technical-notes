@@ -1,6 +1,5 @@
 # Car Bulbs
 
-
 ## Halogen
 
 ![alt](images/hid-halogen-single-beam.jpeg)
@@ -14,7 +13,6 @@ Wire a LED/Halogen bulb into a car w/ HID wiring
 - All you have to do is locate the wiring to the HID ballast and cut it. Then splice in wires and the proper pigtail for the bulbs you have. Halogen bulbs just need power and ground.
 - The HID has 5 wires. Two are grounds. On the power side, One is for the low beam, one for the High beam and one for the DRL. The DRL is the one that's gonna be a problem
 
-
 ### Ballast
 
 A ballast throttles the power going to the bulb.
@@ -25,7 +23,6 @@ A ballast throttles the power going to the bulb.
 - the output voltage is as high as 600 vac. 
 
 A ballast isn't a transformer, just a coil of wire, called an inductor in electronics.
-
 
 Contains both a 
 
@@ -38,7 +35,6 @@ Contains both a
 
 - The old ones had transformers and such in them. Newer ones were solid state.
 - The tar was for cooling I believe. The real old ones contain PCB’s and should be handled carefully and disposed of properly.
-
 
 ## Citations
 
