@@ -12,6 +12,17 @@ Github LIMITS free version to have `10gb bandwidth` monthly. No method to escape
 
 Solution: Host on some online server or build your own server
 
+## Remove files from Git LFS
+
+```bash
+$ git lfs migrate export --everything --include="*"
+$ git rm .gitattributes
+$ git commit -m "Remove Git LFS tracking"
+$ git lfs uninstall
+$ git push --force --all
+$ git push --force --tags
+```
+
 ## Cloning repo with Git LFS
 
 Check `.gitatrributes` if there is git LFS tracking.
