@@ -2,7 +2,7 @@
 
 <!--![self-image](square-rainbow.jpg){: style="display: block; margin: 0 auto; width:200px;"}-->
 
-[blog.abgup.com](https://blog.abgup.com)
+[notes.abgup.com](https://notes.abgup.com)
 
 Hello! This is my site for technical notes about anything I have learned or work(ed) on! Currently working on methods to render the images better, so they probably won't load :(, but it is in the sourcecode below.
 
