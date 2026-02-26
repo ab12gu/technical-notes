@@ -6,8 +6,10 @@ Loupe is a small, portable, high-powered magnifying tool (this case used for ora
     - Orascoptic has 40+ years in dental optics
 - [https://www.orascoptic.com/en-us/spark](https://www.orascoptic.com/en-us/spark)
 - Battery dies every 2ish years
-    - Replacement cost $500
+    - Replacement cost $500 (for set of 2)
 - Stone asked for replacement/repair
+
+![](https://guide-images.cdn.ifixit.com/igi/ffRIlFxMmjkXDbMn.large)
 
 ## Ergonomics
 

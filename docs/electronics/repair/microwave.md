@@ -1,11 +1,14 @@
 # Microwave Repair
 
-Microwave Model: `kitchenaid KMHS120ESS`
+**Microwave Model:** `kitchenaid KMHS120ESS`
 
+**Problem statement:** My uncle slams the microwave too hard and the switches that detect if the microwave is closed were pushed to far back pushing the coil spring out of position. <br>
+**Solution:** Open microwave electronic controls and put the springs in place.
 
-Problem statement: My uncle slams the microwave too hard and the switches that detect if the microwave is closed were pushed to far back pushing the coil spring out of position. 
-
-Solution: Open microwave electronic controls and put the springs in place.
+<video autoplay muted width="320" height="240" controls playsinline loop>
+  <source src="../images/microwave.mp4"/>
+   Your browser does not support the video tag.
+</video>
 
 ## Steps
 
@@ -19,7 +22,7 @@ Solution: Open microwave electronic controls and put the springs in place.
 ![alt](./images/microwave-front.png){width=300}
 ![alt](./images/microwave-spring.png){width=300}
 
-Issue: I didn't turn off microwave so I shorted the fuse because the screwdriver touched tow leads and caused a short, which pulls too much current into the load because there is no/too low of resistance. The high current trips the breaker in the breaker box. 
+**Issue:** I didn't turn off microwave so I shorted the fuse because the screwdriver touched tow leads and caused a short, which pulls too much current into the load because there is no/too low of resistance. The high current trips the breaker in the breaker box. 
 
 Buy replacement fuse. Cars contain standard fuses, so shops that have car maintainence supplies may carry the fuse. We bought at walmart 10 minutes before closing. Check rating of fuse (written on it). The one we had was rated at 220v, 20A. We used a 20A, 35v fuse and hope that it is the same because they design w/ change in amperage in mind :).
 
