@@ -1,4 +1,4 @@
-# Subwoofer
+# Sony SS-WMSP66 (subwoofer)
 
 ## Description
 
@@ -8,8 +8,8 @@
 - Rated Imepdance: 6 ohms
 - Made in Malaysia
 
-![images/speaker-closed.jpeg](images/subwoof.jpeg){width="400}
-![images/speaker-closed.jpeg](images/sub-details.jpeg){width="400}
+![Subwoofer](images/subwoof.jpeg){: style="width: 350px"}
+![Subwoofer details](images/sub-details.jpeg){: style="width: 350px"}
 
 ## Specs
 
