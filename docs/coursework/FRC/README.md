@@ -1,4 +1,6 @@
-# FRC (FIRST Robotics Competition)
+# FRC 
+
+Acryonym for: FIRST Robotics Competition
 
 International high school robotics competition mentored by parents, teachers, and engineers.
 
