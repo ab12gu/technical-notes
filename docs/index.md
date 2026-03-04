@@ -4,7 +4,7 @@
 
 [notes.abgup.com](https://notes.abgup.com)
 
-Hello! This is my site for technical notes about anything I have learned or work(ed) on! Currently working on methods to render the images better, so they probably won't load :(, but it is in the sourcecode below.
+Hello! This is my site for technical notes about anything I have learned or work(ed) on! Currently working on running a server to render images/videos without bloating the source code. 
 
 ## Categories
 
