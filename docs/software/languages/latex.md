@@ -21,6 +21,7 @@ Unofficial Documentation
 - [https://latexref.xyz/dev/latex2e.html single page](https://latexref.xyz/dev/latex2e.html)
 - [https://latexref.xyz/](https://latexref.xyz/)
 - [https://www.overleaf.com/learn/latex](https://www.overleaf.com/learn/latex)
+- [github source code (no docs)](https://github.com/latex3/latex3)
 
 
 ## Compile
