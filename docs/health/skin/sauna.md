@@ -8,6 +8,8 @@ Bryan Johnson Regime
     - Between boxers/shorts
 - 200F Dry (traditional sauna)
 - 20 minutes
+- 7 days a week
+    - BJ goes right after workout (but unnecessary)
 - Anytime in Day
 
 
