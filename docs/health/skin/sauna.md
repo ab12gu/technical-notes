@@ -14,4 +14,15 @@ Bryan Johnson Regime
 
 NOTE: Hurts sleep for first two weeks :(
 
+- Solution: Electrolytes before and after sauna
+- He was losing too much salt/minerals via sauna
+    - Caused cramps at night
+- Some sweaters don't lose as much minerals in sweat (can check)
 
+## Protocol
+
+- Frequency 3-5 per week (linear benefit increase)
+- 15-20 min
+- Temp: 175-200 F
+- Type: Dry Sauna
+- Time: After Excercise (stronger effects)
