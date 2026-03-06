@@ -12,5 +12,6 @@ Bryan Johnson Regime
     - BJ goes right after workout (but unnecessary)
 - Anytime in Day
 
+NOTE: Hurts sleep for first two weeks :(
 
 
