@@ -12,6 +12,18 @@ $ latexmk -lualatex -pvc -view=pdf -outdir=build document.tex
 
 ^ compiles `tex` file into a pdf and continuously reloads
 
+## Documentation
+
+The official documentaiton is in `LaTex` pdfs and is impossible to navigate, [https://www.latex-project.org/help/documentation/](https://www.latex-project.org/help/documentation/)... so use unofficial docs...
+
+Unofficial Documentation
+
+- [https://latexref.xyz/dev/latex2e.html single page](https://latexref.xyz/dev/latex2e.html)
+- [https://latexref.xyz/](https://latexref.xyz/)
+- [https://www.overleaf.com/learn/latex](https://www.overleaf.com/learn/latex)
+- [github source code (no docs)](https://github.com/latex3/latex3)
+
+
 ## Compile
 
 On Mac, install [basictex](https://www.tug.org/mactex/morepackages.html) (smaller distro of MacTeX). Includes TeX, LaTeX, pdfTeX, MetaFont, dvips, MetaPost, and XeTeX. 
