@@ -17,7 +17,8 @@ Standard vision sensor (camera) used in FRC. <br>
 
 ## Limelight 4
 
-- [https://limelightvision.io/products/limelight-4](https://limelightvision.io/products/limelight-4)
+[https://limelightvision.io/products/limelight-4](https://limelightvision.io/products/limelight-4)
+
 - Price: $450
 - Sensor: OV9281 Global Shutter Monochrome 
     - 1280x800 @ 120FPS
@@ -37,7 +38,8 @@ Standard vision sensor (camera) used in FRC. <br>
 
 ## Limelight 3
 
-- [https://limelightvision.io/products/limelight-3](https://limelightvision.io/products/limelight-3) <br>
+[https://limelightvision.io/products/limelight-3](https://limelightvision.io/products/limelight-3) 
+
 - Cost: $400
 - Sensor: OV5647 Color Rolling Shutter
     - 90FPS Capture @ 640x480, 
