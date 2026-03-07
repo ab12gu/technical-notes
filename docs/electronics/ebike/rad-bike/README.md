@@ -42,5 +42,4 @@ The other docs are research into item replacements and fixes.
 
 - https://bikerumor.com/rad-power-limited-edition-tiger-orange-radcity-5-ebike/
 
-
 *With a claimed global user count of over 550,000, Rad Power Bikes say they’re America’s #1 eBike brand.

@@ -7,7 +7,7 @@
 - [wiki/TeX](https://en.wikipedia.org/wiki/TeX)
 
 ```bash
-$ latexmk -lualatex -pvc -view=pdf -outdir=build document.tex
+$ latexmk -lualatex -pvc -view=pdf -f -outdir=build document.tex
 ```
 
 ^ compiles `tex` file into a pdf and continuously reloads
