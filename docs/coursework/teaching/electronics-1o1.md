@@ -1,4 +1,4 @@
-# Eletronics 101
+# Electronics 101
 
 Potential Course taught for Seattle Makers
 
