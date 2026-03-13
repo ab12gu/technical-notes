@@ -1,4 +1,6 @@
-# Homebrew
+# Mac
+
+## Homebrew
 
 Run these commands in your terminal to add Homebrew to your PATH:
 
