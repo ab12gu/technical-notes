@@ -13,7 +13,12 @@ $ python -m pip install -r requirements.txt     # install dependencies from req.
 $ python -m pip freeze > requirements.txt       # port dependencies into req.txt
 ```
 
-## UV
+## uv
+
+Just a tool built on rust to replace default package manager pip (10-100x faster!)
+
+- [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
+- [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/)
 
 Anyways, if you are moving from pip to uv, you just need to import `requirements.txt` <br>
 [docs.astral.sh/uv/guides/migration/pip-to-project/#migrating-to-a-uv-project](https://docs.astral.sh/uv/guides/migration/pip-to-project/#migrating-to-a-uv-project)
@@ -22,11 +27,6 @@ Anyways, if you are moving from pip to uv, you just need to import `requirements
 uv init # Note: creates a main.py file
 uv add -r requirement.txt
 ```
-
-Just a tool built on rust to replace default package manager pip (10-100x faster!)
-
-- [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
-- [https://docs.astral.sh/uv/](https://docs.astral.sh/uv/)
 
 If repository already uses `uv` as it's package manager, or if you want to add it to an existing python repo:
 
