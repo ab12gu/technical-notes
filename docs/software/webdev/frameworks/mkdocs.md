@@ -1,10 +1,23 @@
 # MkDocs
 
+You should first start a local environment. And since it is python based, you can use [UV](../../../package-managers/python) <br>
+[https://www.mkdocs.org/getting-started/](https://www.mkdocs.org/getting-started/)
+
+```bash
+pip install mkdocs
+```
+
+## Localhost
+
+```bash
+mkdocs serve
+```
+
 ## Material for MKDocs
 
 ### Video
 
-Seems there is no support [https://github.com/squidfunk/mkdocs-material/discussions/3984](https://github.com/squidfunk/mkdocs-material/discussions/3984)... And since the developers for material are working on a new SSG, probably won't be implemented.
+Seems there is [no future dev support](https://github.com/squidfunk/mkdocs-material/discussions/3984)... And since the developers for material are working on a new SSG, probably won't be implemented.
 
 But inline html works:
 

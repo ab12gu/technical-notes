@@ -1,6 +1,10 @@
 # Neovim
 
+Terminal text editor forked from Vim (that is forked from Vi). <br>
+It allows more extensibility thru [Lua](https://en.wikipedia.org/wiki/Lua) support :) (only uses Lua 5.1). Started in 2014.
+
 - [https://neovim.io/](https://neovim.io/)
+- [https://en.wikipedia.org/wiki/Neovim](https://en.wikipedia.org/wiki/Neovim)
 
 ## Common Commands
 
@@ -14,16 +18,33 @@
 
 ## Getting Started
 
-- Create our `init.lua` file
-    - [https://neovim.io/doc/user/lua-guide.html#lua-guide-config](https://neovim.io/doc/user/lua-guide.html#lua-guide-config)
-    - Check if one is already exists
-        - Run `:echo stdpath('config')`
-- Install `lazy.vim` our package manager
+Create a configuration file (different locations for windows/unix) <br>
+[https://neovim.io/doc/user/starting/#init.lua](https://neovim.io/doc/user/starting/#init.lua) <br>
+```nvim $VIMRUNTIME/example_init.lua```
+
+Create our `init.lua` file [https://neovim.io/doc/user/lua-guide.html#lua-guide-config](https://neovim.io/doc/user/lua-guide.html#lua-guide-config)
+
+1. Check if one is already exists
+```bash
+$ :echo stdpath('config')
+```
+2. Install [lazy.vim](https://www.lazyvim.org/) our package manager
     - custom theme settings for `nvim`
-- Add colorscheme to init file: `colorscheme (catppuccin)`
-- Add plugins
-    - `Treesitter # fancier syntax highlighting (cause some files aren't supported in nvim by default)`
-    - `telescope.nvim`
+3. Add  to init file: [github.com/ab12gu/dotfiles/tree/master/vim](https://github.com/ab12gu/dotfiles/tree/master/vim) <br>
+Commands Docs: [neovim.io/doc/user/lua-guide/#lua-guide-vim-commands](https://neovim.io/doc/user/lua-guide/#lua-guide-vim-commands)
+```bash
+# vim script
+$ :colorscheme (torte)
+
+# Lua Script
+$ vim.cmd("colorscheme torte") 
+$ vim.o.number = true
+```
+4. Add plugins
+```bash
+Treesitter # fancier syntax highlighting (cause some files aren't supported in nvim by default)
+telescope.nvim
+```
 
 ## How to port .vimrc to init.lua
 
@@ -65,5 +86,4 @@ vim.cmd.colorscheme(elflord) -- same as above
 - [https://www.vim.org/](https://www.vim.org/)
 - [https://www.vim.org/web.php](https://www.vim.org/web.php)
 - [https://www.iopb.res.in/vimbook-OPL.pdf](https://www.iopb.res.in/vimbook-OPL.pdf)
-- [file:///Users/abhaygupta/Downloads/VimLikeAPro-sample.pdf](file:///Users/abhaygupta/Downloads/VimLikeAPro-sample.pdf)
 - [https://learnvimscriptthehardway.stevelosh.com/](https://learnvimscriptthehardway.stevelosh.com/)
