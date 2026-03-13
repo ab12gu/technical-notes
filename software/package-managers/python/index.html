@@ -26148,6 +26148,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#pip" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        pip
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#uv" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -27545,6 +27556,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#pip" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        pip
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#uv" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -27573,12 +27595,26 @@
 
 
 <h1 id="python-package-managers">Python Package Managers</h1>
+<h2 id="pip">pip</h2>
+<p>The default package manager is <code>pip</code> <a href="https://pypi.org/project/pip/">pypi.org/project/pip/</a> but not the greatest? not as fast? unsure...</p>
+<p><a href="https://pip.pypa.io/en/stable/getting-started/">https://pip.pypa.io/en/stable/getting-started/</a> <br>
+Sync <code>requirements.txt</code></p>
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span><span class="nv">SomePackage</span><span class="o">==</span><span class="m">1</span>.0.4<span class="w">      </span><span class="c1"># install specific package</span>
+$<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt<span class="w">     </span><span class="c1"># install dependencies from req.txt</span>
+$<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>freeze<span class="w"> </span>&gt;<span class="w"> </span>requirements.txt<span class="w">       </span><span class="c1"># port dependencies into req.txt</span>
+</code></pre></div>
 <h2 id="uv">UV</h2>
-<p>Just a tool built on rust to </p>
+<p>Anyways, if you are moving from pip to uv, you just need to import <code>requirements.txt</code> <br>
+<a href="https://docs.astral.sh/uv/guides/migration/pip-to-project/#migrating-to-a-uv-project">docs.astral.sh/uv/guides/migration/pip-to-project/#migrating-to-a-uv-project</a></p>
+<div class="language-bash highlight"><pre><span></span><code>uv<span class="w"> </span>init<span class="w"> </span><span class="c1"># Note: creates a main.py file</span>
+uv<span class="w"> </span>add<span class="w"> </span>-r<span class="w"> </span>requirement.txt
+</code></pre></div>
+<p>Just a tool built on rust to replace default package manager pip (10-100x faster!)</p>
 <ul>
 <li><a href="https://github.com/astral-sh/uv">https://github.com/astral-sh/uv</a></li>
+<li><a href="https://docs.astral.sh/uv/">https://docs.astral.sh/uv/</a></li>
 </ul>
-<p>If repository already uses UV as it's package manager, or if you want to add it to an existing python repo:</p>
+<p>If repository already uses <code>uv</code> as it's package manager, or if you want to add it to an existing python repo:</p>
 <div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>uv<span class="w"> </span>venv<span class="w"> </span>.venv
 $<span class="w"> </span>uv<span class="w"> </span>sync
 $<span class="w"> </span><span class="nb">source</span><span class="w"> </span>.venv/bin/activate
