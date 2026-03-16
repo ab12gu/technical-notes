@@ -1,5 +1,7 @@
 # Python Package Managers
 
+[https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
+
 ## pip
 
 The default package manager is `pip` [pypi.org/project/pip/](https://pypi.org/project/pip/) but not the greatest? not as fast? unsure...
