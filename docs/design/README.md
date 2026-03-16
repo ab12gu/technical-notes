@@ -2,6 +2,7 @@
 
 Design notes for blog
 
+![](images/paint-stand.png){: style="width:300px"}
 
 ## CAD
 
