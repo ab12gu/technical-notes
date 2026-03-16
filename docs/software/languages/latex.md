@@ -3,6 +3,7 @@
 `Tex` is programming language used to well formatted documents (aka: typesetting system) <br>
 `Latex` is a macro langauge on top of `tex` that allows gives you simpler functions to format text. 
 
+- [tug.org, official site](https://www.tug.org/)
 - [wiki/LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 - [wiki/TeX](https://en.wikipedia.org/wiki/TeX)
 
@@ -70,7 +71,8 @@ $ sudo tlmgr update --self
 Useful packages
 
 ```
-$ latexmk
+$ latexmk # Runs latex compiler
+$ sudo tlmgr install tinos # install fonts
 ```
 
 ## Example File
