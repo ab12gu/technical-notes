@@ -1,13 +1,11 @@
 # Coursework
 
+My computer got whiped and all the data was deleted, so there isn't much data for the coursework fo undergrad/grad school. But I may spend some time reproducing some of it for fun at some point.
+
 ## Universities Attended
 
 [Santa Clara University](https://www.scu.edu/), Undergrad + Graduate<br>
 [University of Washington](https://www.washington.edu/), Graduate
-
-## General Coursework
-
-My computer got whiped and all the data was deleted, so there isn't much data for the coursework fo undergrad/grad school. But I may spend some time reproducing some of it for fun at some point.
 
 ### Courses in Undergrad
 

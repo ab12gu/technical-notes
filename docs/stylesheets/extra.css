@@ -11,10 +11,11 @@
 }
 
 .md-typeset ul {
-    margin-top: 0.5em;
+    margin-top: 0em;
 }
 .md-typeset li {
   margin-top: -0.5em;
+  font-size: 0.9em;
 }
 
 
@@ -45,28 +46,42 @@
     font-size: 1.4em;
     color: #cc6699;
     border-bottom: 2px solid #cc6699;
-    padding-bottom: 0.2em;
-    margin-top: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
   }
   
-  /* H3 - third level heading */
-  .md-typeset h3 {
+/* H3 - third level heading */
+.md-typeset h3 {
     /*font-size: 1.2em;*/
     color: #cc6699;
     border-bottom: 1px solid #cc6699;
     padding-bottom: 0.2em;
-    margin-top: 1em;
-  }
- 
-    :root {
-        /* PRIMARY color definitions */
-        --md-primary-fg-color: #520194;         /* main primary color */
-        --md-primary-fg-color--light: #520194;  /* lighter version */
-        --md-primary-fg-color--dark: #520194;   /* darker version */
-    
-        /* ACCENT color definitions */
-        --md-accent-fg-color: #cc6699;          /* accent color */
-    }
+    margin-top: 0.5em;
+}
+
+.md-typeset div {
+    padding-top: 0em;
+    margin-top: 0em;
+}
+
+
+.md-typeset p {
+    padding-top: 0em;
+    padding-bottom: 0.5em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+
+:root {
+    /* PRIMARY color definitions */
+    --md-primary-fg-color: #520194;         /* main primary color */
+    --md-primary-fg-color--light: #520194;  /* lighter version */
+    --md-primary-fg-color--dark: #520194;   /* darker version */
+
+    /* ACCENT color definitions */
+    --md-accent-fg-color: #cc6699;          /* accent color */
+}
 
 /* Reduce space between logo and site title */
 .md-header__button.md-logo img {
@@ -111,4 +126,3 @@
 }
 
  
-}

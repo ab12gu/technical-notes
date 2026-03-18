@@ -27,7 +27,7 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
   font:
-    text: Tino
+    text: Helvetica
     code: Roboto Mono
   features:
     - navigation.tabs
