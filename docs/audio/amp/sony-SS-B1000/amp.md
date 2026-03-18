@@ -1,24 +1,18 @@
 # Amp
 
-The amplifier is the one I use daily on my desk and at events. I did not design the board but did make enclosure and wiring as well as unsured all specifications matched. 
+I use this amplifier daily on my desk at the bi-weekly gamenight events. I did not design the board but did make enclosure and wiring as well as ensured all power/input/output amp specs matched the speaker specs.
 
-![alt text](../images/amp-mine.png){width="400"}
+![Amp image](../../images/amp-mine.png){width="400"}
 
-## Speaker System Amplifier for Game Night
+## Background
 
-I found 2 desktop speakers outside my apartment while walking the dog and wanted to get them to work. 
+I found 2 desktop speakers outside my apartment while walking the dog and wanted to get them to work. So, I decided to look up how speakers work, getting deep into passive vs. active speakers, amplifiers, recifievers, digital vs. analog audio, etc, etc. 
 
-So, I decided to look up how speakers work, getting deep into passive vs. active speakers, amplifiers, recifievers, digital vs. analog audio, etc, etc. 
+For simplicity sake, I could have just bought a integrated amplifier, but those were more than my budget rolling around $30 for the cheapest models on Amazon. So I found a $2 amp from [aliexpress](https://www.aliexpress.us/item/3256804913221986.html?gatewayAdapt=glo2usa). I am not as cheap now as when I did this project, but often I do things to simply learn, because the time to research/build =/= cost.
 
-For simplicity sake, I could have just bought a integrated amplifier, but those were more than my budget rolling around $30 for the cheapest models on Amazon. So I found a $2 amp from [aliexpress](https://www.aliexpress.us/item/3256804913221986.html?gatewayAdapt=glo2usa). 
+I went to the [Capitol hill tool library](https://sustainablecapitolhill.org/tool-library/) and sorted through their bins of old laptop chargers and found one that works for the speaker model I found outside. I also got some cables to splice and solder to connect to power supply to plug into the purchased amplifier. The solder came from Pat, who gave it to me for burning wood at the wood carving crafts night I hosted. Later, I wanted to amplify the input power so I found a wide varied at [RE-PC](https://www.repc.com/) in sodo, South Seattle.
 
-I went to the Capitol hill tool library and sorted through their bins of old laptop chargers and found one that works for the speaker model I found outside. I also got some cables to splice and solder to connect to power supply to plug into the purchased amplifier.
-
-The solder came from Pat, who gave it to me for burning wood at the wood carving crafts night I hosted. 
-
-Currently using twist on cable connectors to connect wires. 
-
-The left audio cable from the 3.5 jack that i plug into the computer doesn't work anymore (probably bent it too much). So I have both the left/right audio coming from the right audio output of the computer. I use accessibility settings to set the output to be mono instead of stereo so you hear all acoustics still.
+I started with [twist terminal cable connectors](https://www.aliexpress.us/item/3256805589637978.html?) to connect wires. Later I upgraded to these clamp on connectors that have male/female plugs [aliexpress, ](https://www.aliexpress.us/item/3256806583282247.html?) At one point, I bent the audio jack cable too much so I had the left/right speakers output the same audio. I use accessibility settings to set the output to be mono instead of stereo so you hear all acoustics still).
 
 ## Current Progress
 
