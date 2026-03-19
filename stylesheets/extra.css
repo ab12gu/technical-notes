@@ -5,18 +5,35 @@
 }
 
 /* Reduce space between bullet points */
+.md-typeset pre {
+  margin-top: -1em;
+  padding-top: 0em;
+  margin-bottom: 1em;
+  padding-bottom: 0em;
+}
+
+/* Reduce space between bullet points */
 .md-typeset ol {
-  margin-top: 0;
+  margin-top: 0em;
   margin-bottom: 0;
 }
 
 .md-typeset ul {
-    margin-top: 0em;
+    margin-top: -0.75em;
 }
 .md-typeset li {
-  margin-top: -0.5em;
-  font-size: 0.9em;
+  margin-top: -0.75em;
+  /*font-size: 0.9em;*/
 }
+
+.md-typeset h1 + ul, 
+.md-typeset h2 + ul, 
+.md-typeset h3 + ul {
+    margin-top: 1em;
+}
+
+
+
 
 
 /* H1 - top level heading */
@@ -67,7 +84,7 @@
 
 .md-typeset p {
     padding-top: 0em;
-    padding-bottom: 0.5em;
+    padding-bottom: 1.5em;
     margin-top: 0em;
     margin-bottom: 0em;
 }
