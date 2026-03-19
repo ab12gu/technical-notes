@@ -21,19 +21,20 @@
 .md-typeset ul {
     margin-top: -0.75em;
 }
+
 .md-typeset li {
   margin-top: -0.75em;
   /*font-size: 0.9em;*/
 }
 
-.md-typeset h1 + ul, 
-.md-typeset h2 + ul, 
-.md-typeset h3 + ul {
-    margin-top: 1em;
+.md-typeset h1 + ul {
+    margin-top: 2em;
 }
 
-
-
+.md-typeset h2 + ul, 
+.md-typeset h3 + ul {
+    margin-top: 1.5em;
+}
 
 
 /* H1 - top level heading */
