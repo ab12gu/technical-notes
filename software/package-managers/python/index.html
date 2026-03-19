@@ -25,7 +25,7 @@
     
     
       
-        <title>Python Package Managers - Abhay Gupta</title>
+        <title>Python - Abhay Gupta</title>
       
     
     
@@ -88,7 +88,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#python-package-managers" class="md-skip">
+        <a href="#python" class="md-skip">
           Skip to content
         </a>
       
@@ -121,7 +121,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Python Package Managers
+              Python
             
           </span>
         </div>
@@ -25954,7 +25954,7 @@
   <span class="md-ellipsis">
     
   
-    Python Package Managers
+    Python
   
 
     
@@ -25972,7 +25972,7 @@
   <span class="md-ellipsis">
     
   
-    Python Package Managers
+    Python
   
 
     
@@ -27416,7 +27416,7 @@
 
 
 
-<h1 id="python-package-managers">Python Package Managers</h1>
+<h1 id="python">Python</h1>
 <p><a href="https://docs.python.org/3/library/venv.html">https://docs.python.org/3/library/venv.html</a></p>
 <h2 id="pip">pip</h2>
 <p>The default package manager is <code>pip</code> <a href="https://pypi.org/project/pip/">pypi.org/project/pip/</a> but not the greatest? not as fast? unsure...</p>
@@ -27426,6 +27426,7 @@ Sync <code>requirements.txt</code></p>
 $<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>-r<span class="w"> </span>requirements.txt<span class="w">     </span><span class="c1"># install dependencies from req.txt</span>
 $<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span>pip<span class="w"> </span>freeze<span class="w"> </span>&gt;<span class="w"> </span>requirements.txt<span class="w">       </span><span class="c1"># port dependencies into req.txt</span>
 </code></pre></div>
+<p><a href="https://docs.astral.sh/uv/reference/cli/">CLI Commands</a></p>
 <h2 id="uv">uv</h2>
 <p>Just a tool built on rust to replace default package manager pip (10-100x faster!)</p>
 <ul>
@@ -27436,6 +27437,7 @@ $<span class="w"> </span>python<span class="w"> </span>-m<span class="w"> </span
 <a href="https://docs.astral.sh/uv/guides/migration/pip-to-project/#migrating-to-a-uv-project">docs.astral.sh/uv/guides/migration/pip-to-project/#migrating-to-a-uv-project</a></p>
 <div class="language-bash highlight"><pre><span></span><code>uv<span class="w"> </span>init<span class="w"> </span><span class="c1"># Note: creates a main.py file</span>
 uv<span class="w"> </span>add<span class="w"> </span>-r<span class="w"> </span>requirement.txt
+uv<span class="w"> </span>add<span class="w"> </span>--upgrade-package<span class="w"> </span>&lt;package-name&gt;
 </code></pre></div>
 <p>If repository already uses <code>uv</code> as it's package manager, or if you want to add it to an existing python repo:</p>
 <div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>uv<span class="w"> </span>venv<span class="w"> </span>.venv
