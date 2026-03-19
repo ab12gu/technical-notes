@@ -1,4 +1,4 @@
-# Python Package Managers
+# Python
 
 [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
 
@@ -15,6 +15,8 @@ $ python -m pip install -r requirements.txt     # install dependencies from req.
 $ python -m pip freeze > requirements.txt       # port dependencies into req.txt
 ```
 
+[CLI Commands](https://docs.astral.sh/uv/reference/cli/)
+
 ## uv
 
 Just a tool built on rust to replace default package manager pip (10-100x faster!)
@@ -28,6 +30,7 @@ Anyways, if you are moving from pip to uv, you just need to import `requirements
 ```bash
 uv init # Note: creates a main.py file
 uv add -r requirement.txt
+uv add --upgrade-package <package-name>
 ```
 
 If repository already uses `uv` as it's package manager, or if you want to add it to an existing python repo:
