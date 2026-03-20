@@ -155,18 +155,27 @@
 
     .md-nav__title[for="__drawer"] {
         padding-top: 31.5px;
-        padding-left: 75px;
+        #padding-top: 75px;
+        #padding-left: 75px;
+        padding-left: 100px;
         padding-right: 0px;
+        #font-size: 1.1rem;
     }
 
     .md-nav__title[for="__drawer"] .md-logo {
-        padding-top: 20px;
+        #padding-left: 75px;
+        padding-top: 5px;
+        #padding-top: 20px;
+    }
+
+    /* Adjust logo size in the mobile menu */
+    .md-nav__title[for="__drawer"] .md-logo img {
+        height: 75px !important; /* Increase/decrease this value */
+        width: auto !important;
     }
 
     .md-nav__button[for="__drawer"] {
     }
-
-
 } 
 
 
