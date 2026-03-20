@@ -33,6 +33,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - content.code.copy
+    #- navigation.footer
   locale: en
   color_mode: auto
   user_color_mode_toggle: auto
