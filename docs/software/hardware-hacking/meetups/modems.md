@@ -24,6 +24,7 @@ Step 5: Find output signal for processor
 
 - Use either pusleview (installed via homebrew on mac) or logic software by saleae
 - Also used picocom
+
 ```
   $ brew install picocom
   $ picocom -b 115200 /dev/tty.usbserial-FTUNYCTO
