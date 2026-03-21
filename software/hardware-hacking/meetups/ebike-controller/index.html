@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://notes.abgup.com/software/hardware-hacking/meetups/250619-radio-signals/">
+        <link rel="canonical" href="https://notes.abgup.com/software/hardware-hacking/meetups/ebike-controller/">
       
       
-        <link rel="prev" href="../2503-crosswalk/">
+        <link rel="prev" href="../crosswalk-signals/">
       
       
-        <link rel="next" href="../260320-orca/">
+        <link rel="next" href="../interfacing-with-hardware/">
       
       
         
@@ -25,7 +25,7 @@
     
     
       
-        <title>250619 Radio Signals - Abhay Gupta</title>
+        <title>Ebike controller - Abhay Gupta</title>
       
     
     
@@ -88,7 +88,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#250619-radio-signals" class="md-skip">
+        <a href="#ebike-controller" class="md-skip">
           Skip to content
         </a>
       
@@ -121,7 +121,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              250619 Radio Signals
+              Ebike controller
             
           </span>
         </div>
@@ -24661,118 +24661,6 @@
                 
   
   
-  
-  
-    <li class="md-nav__item">
-      <a href="../../cross-walk-signal/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Cross walk signal hacking
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../modem-hacking-software/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Modem Hacking software
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../modem-hacking/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Modem hacking
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../motor/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Motor Hacking for RadCity 5
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
     
   
   
@@ -24789,10 +24677,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_5_6" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_5_2" checked>
         
           
-          <label class="md-nav__link" for="__nav_10_5_6" id="__nav_10_5_6_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_10_5_2" id="__nav_10_5_2_label" tabindex="0">
             
   
   
@@ -24810,8 +24698,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_5_6_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_10_5_6">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_5_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_10_5_2">
             <span class="md-nav__icon md-icon"></span>
             
   
@@ -24828,14 +24716,14 @@
   
   
     <li class="md-nav__item">
-      <a href="../2503-crosswalk/" class="md-nav__link">
+      <a href="../crosswalk-signals/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    2503 crosswalk
+    Cross walk signal hacking
   
 
     
@@ -24872,7 +24760,7 @@
   <span class="md-ellipsis">
     
   
-    250619 Radio Signals
+    Ebike controller
   
 
     
@@ -24890,7 +24778,7 @@
   <span class="md-ellipsis">
     
   
-    250619 Radio Signals
+    Ebike controller
   
 
     
@@ -24916,10 +24804,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#software-used" class="md-nav__link">
+  <a href="#background" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Software Used
+        Background
       
     </span>
   </a>
@@ -24927,10 +24815,43 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#hardware-used" class="md-nav__link">
+  <a href="#software" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Hardware Used
+        Software
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hardware" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardware
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Steps
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#communication" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communication:
       
     </span>
   </a>
@@ -24953,7 +24874,63 @@
   
   
     <li class="md-nav__item">
-      <a href="../260320-orca/" class="md-nav__link">
+      <a href="../interfacing-with-hardware/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Interfacing with Hardware
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../modems/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Modems
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../orca-readers/" class="md-nav__link">
         
   
   
@@ -24961,6 +24938,34 @@
     
   
     Orca Readers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../radio-signals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Radio Signals
   
 
     
@@ -27378,10 +27383,10 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#software-used" class="md-nav__link">
+  <a href="#background" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Software Used
+        Background
       
     </span>
   </a>
@@ -27389,10 +27394,43 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#hardware-used" class="md-nav__link">
+  <a href="#software" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Hardware Used
+        Software
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hardware" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hardware
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Steps
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#communication" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communication:
       
     </span>
   </a>
@@ -27416,64 +27454,28 @@
 
 
 
-<h1 id="250619-radio-signals">250619 Radio Signals</h1>
-<ol>
-<li>Get to FM radio waves and catch signal</li>
-<li>Get to corresponding signal for RF remote controlled car (RC car) (ran at 2.4 Ghz)</li>
-</ol>
-<h2 id="software-used">Software Used</h2>
-<p><a href="https://www.gqrx.dk/">Gqrx SDR</a></p>
+<h1 id="ebike-controller">Ebike controller</h1>
+<h2 id="background">Background</h2>
+<p>I recovered a RadCity 5 ebike and the controller the controller was fried. So I brought in the controller to see if there was a way to interface with it. </p>
+<h2 id="software">Software</h2>
+<p>CAN Hack for Motor</p>
 <ul>
-<li>open source software defined radio receiver (SDR)</li>
-<li>powered by GNU Radio</li>
+<li>wireshark</li>
+<li>canutils</li>
 </ul>
-<p>Attempted: [Trunked Radio System](https://en.wikipedia.org/wiki/Trunked_radio_system_</p>
-<h2 id="hardware-used">Hardware Used</h2>
+<h2 id="hardware">Hardware</h2>
 <ul>
-<li><a href="https://greatscottgadgets.com/hackrf/one/">Hack RF</a><ul>
-<li>Could get to range, but couldn't detect signal</li>
+<li>CAN adapter</li>
+<li>2232 boards</li>
 </ul>
-</li>
-<li><a href="https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0BMKB3L47">RTL2832U amazon</a><ul>
-<li>Caped at 1.7 GHz, so couldn't detect signal</li>
-<li><a href="https://www.rtl-sdr.com/">https://www.rtl-sdr.com/</a></li>
-</ul>
-</li>
-</ul>
-<p>NOTES:</p>
+<h2 id="steps">Steps</h2>
+<p>you send a message
+reciever replies with i got the message</p>
+<h2 id="communication">Communication:</h2>
 <ul>
-<li>gnu radio</li>
-<li>ex: run a pager network on an island with radio in a box on an island</li>
-<li>posx encoding and runs a bunch of beakers</li>
+<li>ttl - rx/tx</li>
+<li>serial bridge</li>
 </ul>
-<p>CHIPS USED:</p>
-<ul>
-<li>realtec chips - rtlsdr</li>
-<li>realtex rt3828 option</li>
-</ul>
-<p>Amazon</p>
-<ul>
-<li>RTL-XTR</li>
-<li>DVV - salder an entenna</li>
-</ul>
-<p>RTL2838UHIDIR</p>
-<ul>
-<li>https://www.rtl-sdr.com/</li>
-<li>DVB-T+DAB+FM+SDR</li>
-</ul>
-<p>RTL2832U R820T2 TCX0+BIAS T+HF</p>
-<ul>
-<li>https://www.amazon.com/RTL-SDR-Blog-RTL2832U-Software-Defined/dp/B0BMKB3L47</li>
-</ul>
-<p>hackerRF One
-Great Scott Gadgets</p>
-<p>directional antenna</p>
-<ul>
-<li>sma or rp sma</li>
-<li>bigger - bnc tnc etc</li>
-<li>cv connector so-123</li>
-</ul>
-<p>alpha - high power dongle - power limited</p>
 
 
 
