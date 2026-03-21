@@ -11,10 +11,10 @@
         <link rel="canonical" href="https://notes.abgup.com/software/data-storage/servers/cloud/">
       
       
-        <link rel="prev" href="../../google-scripts/">
+        <link rel="prev" href="../">
       
       
-        <link rel="next" href="../online/">
+        <link rel="next" href="../render/">
       
       
         
@@ -24315,6 +24315,34 @@
                 
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Servers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -24326,24 +24354,6 @@
       
         
       
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Cloud
-  
-
-    
-  </span>
-  
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -24362,36 +24372,6 @@
 
       </a>
       
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#render" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Render
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -24404,14 +24384,14 @@
   
   
     <li class="md-nav__item">
-      <a href="../online/" class="md-nav__link">
+      <a href="../render/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    Online Servers
+    Render
   
 
     
@@ -27332,25 +27312,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#render" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Render
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -27367,18 +27328,23 @@
 
 
 <h1 id="cloud">Cloud</h1>
-<p>I did some research a few times comparing free available servers on the cloud. There are either dedicated server or serverless server options. The serverless server will allocated space on available parts of a database (rather than a singular dedicated server).</p>
+<p>These are common cloud databases:</p>
 <ol>
-<li>The issue is that a lot of cloud servers will shut down when not in use. You could potentially avoid that by creating a cronjob to ping the website after certain intervals to keep it running. </li>
-<li>Another issue is that there is very little resources allocated and will charge after a certain amount of pings/data usage. <ul>
-<li>if you don't put in your credit card info.. they can't really charge... </li>
+<li>AWS</li>
+<li>Google Cloud (GCP)</li>
+<li>Microsoft Azure</li>
+<li>DigitalOcean</li>
+<li>Linode (Akamai)</li>
+<li>Vultr</li>
+<li>Supabase**<ul>
+<li>free plan</li>
 </ul>
 </li>
+<li>Hetzner</li>
+<li>Cloudflare</li>
+<li>Render</li>
+<li>Heroku</li>
 </ol>
-<h2 id="render">Render</h2>
-<p>The one that keeps showing up on top is <a href="render.com">render</a>. <br>
-I thought I recalled it didn't freeze the servers after a certain amount of time... but seems it does?...</p>
-<p>Essentially, it (as with most alternative mainstream server systems) use AWS server system and create a different interface to interact with including a different business/charging plan. They give better free allocations, but "probably" have higher charges for paying customers. </p>
 
 
 
