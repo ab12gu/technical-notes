@@ -1,4 +1,6 @@
-# 250619 Radio Signals
+#  Radio Signals
+
+Date: 2506
 
 1. Get to FM radio waves and catch signal
 2. Get to corresponding signal for RF remote controlled car (RC car) (ran at 2.4 Ghz)

@@ -1,8 +1,12 @@
-# Motor Hacking for RadCity 5
+# Ebike controller
 
-CAN Hack for Motor
+## Background
+
+I recovered a RadCity 5 ebike and the controller the controller was fried. So I brought in the controller to see if there was a way to interface with it. 
 
 ## Software
+
+CAN Hack for Motor
 
 - wireshark
 - canutils

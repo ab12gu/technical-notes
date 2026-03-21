@@ -1,8 +1,13 @@
 # Hardware Hacking
 
-We are passionate about raising awareness on security and privacy issues, and we believe the best way to do that is by training as many proper hackers as possible, who can then go out and find new issues on their own.
+This is a monthly meetup run by Ben for decades? where he covers methods of hacking into hardware and general hardware. Hardware bing mostly electrical devices, such as modems, phones, computers, smart watches, etc. 
 
-At our workshops, we will focus on a specific topic in the field of security and offer practical hands-on training combined with a digestible quantity of foundational background information. We will adjust the discussion on any given day to the skill level of the participants. 
+## Meetings
+
+- Date: Every 3rd Thurs
+- Time: 6p - 8p
+- Location: Seattle Makers, Interbay, Seattle, WA
+    - [3012 16th Ave W, Seattle, WA 98119](maps.google.com/maps?q=seattle+makers)
 
 ## Hyperlinks
 
@@ -10,6 +15,3 @@ At our workshops, we will focus on a specific topic in the field of security and
 - [Meetup.com page fo Hardware Hacking Meetup](https://www.meetup.com/symbol-crash-proper-hacker-training/)
 
 
-2501
-
-- read about fault injection electromagnetic fault injection  array 
