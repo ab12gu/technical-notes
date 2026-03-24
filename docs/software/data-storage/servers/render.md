@@ -10,4 +10,8 @@ Free Version
 - CPU 0.1 (10 % of a "CPU")
 - Storage: 1 GB
 
+Additional
 
+- Bandwidth: 100 Gb / month
+- Build pipeline: 500 min / month
+- 2 custom domains
