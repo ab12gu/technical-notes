@@ -27330,6 +27330,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Getting Started
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#links" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -27567,6 +27578,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Getting Started
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#links" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -27600,10 +27622,43 @@
 <li><a href="https://github.com/django/django">github.com/django/django</a></li>
 <li><a href="https://docs.djangoproject.com/en/6.0/intro/tutorial01/">docs.djangoproject.com/en/6.0/intro/tutorial01/</a></li>
 </ul>
+<h2 id="getting-started">Getting Started</h2>
+<p><br></p>
+<ol>
+<li>
+<p>Start a virtual environment (currently using <code>uv</code>)
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>uv<span class="w"> </span>init
+$<span class="w"> </span>uv<span class="w"> </span>venv<span class="w"> </span>.venv
+$<span class="w"> </span><span class="nb">source</span><span class="w"> </span>.venv/bin/activate
+</code></pre></div></p>
+</li>
+<li>
+<p>Install Django
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>uv<span class="w"> </span>add<span class="w"> </span>django
+</code></pre></div></p>
+</li>
+<li>
+<p>Initilize repo
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>django-admin<span class="w"> </span>&lt;command&gt;<span class="w"> </span><span class="o">[</span>options<span class="o">]</span>
+$<span class="w"> </span>django-admin<span class="w"> </span>startproject<span class="w"> </span>&lt;project-name&gt;
+</code></pre></div></p>
+</li>
+<li>
+<p>Add pages
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>python<span class="w"> </span>manage.py<span class="w"> </span>startapp<span class="w"> </span>&lt;app-name&gt;
+</code></pre></div></p>
+</li>
+<li>
+<p>Run development server
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>python<span class="w"> </span>manage.py<span class="w"> </span>runserver
+</code></pre></div></p>
+</li>
+</ol>
 <h2 id="links">Links</h2>
 <ul>
 <li><a href="https://medium.com/django-unleashed/django-project-structure-a-comprehensive-guide-4b2ddbf2b6b8">Django Project Structure</a></li>
 <li><a href="https://render.com/docs/deploy-django">Depoly Django on Render</a></li>
+<li><a href="https://farshadabdulazeez.medium.com/django-commands-cheat-sheet-bdc0f6b088ab">medium - django commands cheat sheet</a></li>
 </ul>
 
 
