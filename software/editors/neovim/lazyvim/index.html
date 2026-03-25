@@ -27734,18 +27734,16 @@
 <p>Currently using <a href="https://github.com/LazyVim/LazyVim">Lazy Vim</a>, because it is faster than default packer manager...</p>
 <p>You can also install plugins manually, but isn't worth it tbh...</p>
 <h2 id="install">Install</h2>
-<p>Add the lines to <code>init.lua</code></p>
+<p>I didn't use the standard <a href="https://www.lazyvim.org/installation">LazyVim.starter</a> repo to install <code>LazyVim</code>...</p>
+<p>To be honest, I did something clever that I can't find the source... But I think I just somehow cloned lazyvim into local (unsure how) and linked in <code>.config/nvim/init.lua</code>.</p>
+<p>Default Unix file config/data folders are defined: <a href="https://specifications.freedesktop.org/basedir/latest/#index">https://specifications.freedesktop.org/basedir/latest/#index</a></p>
+<ol>
+<li>Clone <code>LazyVim</code> into <code>.local</code> shown below</li>
+<li>Add the lines to <code>init.lua</code>.
 <div class="language-lua highlight"><pre><span></span><code><span class="c1">-- add lazy.nvim to runtimepath</span>
 <span class="nv">vim</span><span class="p">.</span><span class="py">opt</span><span class="p">.</span><span class="py">rtp</span><span class="p">:</span><span class="nf">prepend</span><span class="p">(</span><span class="s2">&quot;~/.local/share/nvim/lazy/lazy.nvim&quot;</span><span class="p">)</span>
-</code></pre></div>
-<div class="language-lua highlight"><pre><span></span><code><span class="c1">-- now you can call require(&quot;lazy&quot;)</span>
-<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;lazy&quot;</span><span class="p">).</span><span class="nf">setup</span><span class="p">({</span>
-<span class="w">  </span><span class="c1">-- list your plugins here, e.g., nvim-treesitter</span>
-<span class="w">  </span><span class="c1">--</span>
-<span class="w">  </span><span class="p">{</span><span class="s2">&quot;nvim-treesitter/nvim-treesitter&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;master&#39;</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="nv">build</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;:TSUpdate&quot;</span><span class="p">},</span>
-<span class="w">  </span><span class="p">{</span><span class="s2">&quot;nvim-tree/nvim-tree.lua&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;master&#39;</span><span class="p">,</span><span class="w"> </span><span class="nv">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;*&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="p">},</span>
-<span class="p">})</span>
-</code></pre></div>
+</code></pre></div></li>
+</ol>
 <h2 id="update">Update</h2>
 <p>Recommended to keep autoupdate in vimrc, but makes vimrc too long...</p>
 <p>Update via terminal:

@@ -24918,6 +24918,39 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#treesitter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Treesitter
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tree" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tree
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#netrw" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Netrw
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#nerdtree" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -24925,6 +24958,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="NerdTree">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Installation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -27681,6 +27731,39 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#treesitter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Treesitter
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tree" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tree
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#netrw" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Netrw
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#nerdtree" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -27688,6 +27771,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="NerdTree">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#installation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Installation
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -27710,13 +27810,38 @@
 
 <h1 id="plugins">Plugins</h1>
 <p><a href="https://dotfyle.com/neovim/plugins/top">https://dotfyle.com/neovim/plugins/top</a></p>
+<h2 id="treesitter">Treesitter</h2>
+<p>More comprehensive syntax highlighting for files.</p>
+<h2 id="tree">Tree</h2>
+<p>Overrides Netrw</p>
+<div class="language-text highlight"><pre><span></span><code>:NvimTreeToggle
+</code></pre></div>
+<h2 id="netrw">Netrw</h2>
+<p>Build into vim by default, <a href="https://www.vim.org/scripts/script.php?script_id=1075">Netrw</a> - <a href="https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/">description</a></p>
+<p>Just type this into terminal (opens Netrw if nerdtree not installed/configured)</p>
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>nvim<span class="w"> </span>.
+$<span class="w"> </span>vim<span class="w"> </span>.<span class="w"> </span>
+</code></pre></div>
+<div class="language-text highlight"><pre><span></span><code>:Ex
+:Explorer
+</code></pre></div>
 <h2 id="nerdtree">NerdTree</h2>
-<div class="language-bash highlight"><pre><span></span><code>require<span class="o">(</span><span class="s2">&quot;nvim-treesitter.configs&quot;</span><span class="o">)</span>.setup<span class="w"> </span><span class="o">{</span>
-<span class="w">    </span><span class="nv">ensure_installed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">{</span><span class="s2">&quot;tsx&quot;</span><span class="o">}</span>,
-<span class="w">    </span><span class="nv">highlight</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="o">{</span><span class="nb">enable</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">true</span><span class="w"> </span><span class="o">}</span>,
-<span class="o">}</span><span class="w">    </span>
+<h3 id="installation">Installation</h3>
+<p>Add lines in <code>init.lua</code>:</p>
+<div class="language-lua highlight"><pre><span></span><code><span class="c1">-- now you can call require(&quot;lazy&quot;)</span>
+<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;lazy&quot;</span><span class="p">).</span><span class="nf">setup</span><span class="p">({</span>
+<span class="w">  </span><span class="c1">-- list your plugins here, e.g., nvim-treesitter</span>
+<span class="w">  </span><span class="c1">--</span>
+<span class="w">  </span><span class="p">{</span><span class="s2">&quot;nvim-treesitter/nvim-treesitter&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;master&#39;</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="nv">build</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;:TSUpdate&quot;</span><span class="p">},</span>
+<span class="w">  </span><span class="p">{</span><span class="s2">&quot;nvim-tree/nvim-tree.lua&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;master&#39;</span><span class="p">,</span><span class="w"> </span><span class="nv">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;*&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="p">},</span>
+<span class="p">})</span>
 
-require<span class="o">(</span><span class="s2">&quot;nvim-tree&quot;</span><span class="o">)</span>.setup<span class="w"> </span><span class="o">{}</span>
+<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;nvim-treesitter.configs&quot;</span><span class="p">).</span><span class="nv">setup</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nv">ensure_installed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="s2">&quot;tsx&quot;</span><span class="p">},</span>
+<span class="w">    </span><span class="nv">highlight</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="nv">enable</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">true</span><span class="w"> </span><span class="p">},</span>
+<span class="p">}</span><span class="w">    </span>
+
+<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;nvim-tree&quot;</span><span class="p">).</span><span class="nv">setup</span><span class="w"> </span><span class="p">{}</span>
 </code></pre></div>
 
 
