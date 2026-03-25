@@ -1769,7 +1769,7 @@
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/application-software/blog-sites/</loc>
+         <loc>https://notes.abgup.com/software/blog-sites/blog-sites/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
@@ -1794,6 +1794,30 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/software/data-storage/servers/render/</loc>
+         <lastmod>2026-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/editors/</loc>
+         <lastmod>2026-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/editors/scheduling-apps/</loc>
+         <lastmod>2026-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/editors/neovim/</loc>
+         <lastmod>2026-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/editors/neovim/getting-startd/</loc>
+         <lastmod>2026-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/editors/neovim/lazyvim/</loc>
+         <lastmod>2026-03-25</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/editors/neovim/plugins/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
@@ -1842,22 +1866,6 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/software/hardware-hacking/meetups/radio-signals/</loc>
-         <lastmod>2026-03-25</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/software/hotkeys/mac/</loc>
-         <lastmod>2026-03-25</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/software/installations/links/</loc>
-         <lastmod>2026-03-25</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/software/installations/software/</loc>
-         <lastmod>2026-03-25</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/software/installations/starting-windows/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
@@ -1977,31 +1985,31 @@
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/</loc>
+         <loc>https://notes.abgup.com/software/terminals/tmux/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/docker/</loc>
+         <loc>https://notes.abgup.com/software/tools/hotkeys/mac/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/editors/</loc>
+         <loc>https://notes.abgup.com/software/tools/installations/links/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/editors/scheduling-apps/</loc>
+         <loc>https://notes.abgup.com/software/tools/installations/software/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/editors/neovim/</loc>
+         <loc>https://notes.abgup.com/software/tools/installations/starting-windows/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/editors/neovim/plugins/</loc>
+         <loc>https://notes.abgup.com/software/virtual-environments/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/tools/terminals/tmux/</loc>
+         <loc>https://notes.abgup.com/software/virtual-environments/docker/</loc>
          <lastmod>2026-03-25</lastmod>
     </url>
     <url>
