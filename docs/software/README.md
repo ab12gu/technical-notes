@@ -15,7 +15,6 @@ Or you can right click file `get info` and change default application to open fi
 
 ## Webdev
 
-
 Kill a localhost that I forgot to close in prior session
 
 ```bash
