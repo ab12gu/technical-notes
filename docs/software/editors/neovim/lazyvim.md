@@ -6,23 +6,19 @@ You can also install plugins manually, but isn't worth it tbh...
 
 ## Install
 
-Add the lines to `init.lua`
+I didn't use the standard [LazyVim.starter](https://www.lazyvim.org/installation) repo to install `LazyVim`...
 
+To be honest, I did something clever that I can't find the source... But I think I just somehow cloned lazyvim into local (unsure how) and linked in `.config/nvim/init.lua`.
+
+Default Unix file config/data folders are defined: [https://specifications.freedesktop.org/basedir/latest/#index](https://specifications.freedesktop.org/basedir/latest/#index)
+
+1. Clone `LazyVim` into `.local` shown below
+2. Add the lines to `init.lua`.
 ```lua
 -- add lazy.nvim to runtimepath
 vim.opt.rtp:prepend("~/.local/share/nvim/lazy/lazy.nvim")
 ```
 
-
-```lua
--- now you can call require("lazy")
-require("lazy").setup({
-  -- list your plugins here, e.g., nvim-treesitter
-  --
-  {"nvim-treesitter/nvim-treesitter", branch = 'master', lazy = false, build = ":TSUpdate"},
-  {"nvim-tree/nvim-tree.lua", branch = 'master', version = "*", lazy = false, },
-})
-```
 
 ## Update
 
