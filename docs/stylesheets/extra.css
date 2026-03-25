@@ -5,7 +5,7 @@
 
 /* Reduce space between bullet points */
 .md-typeset pre {
-  margin-top: -1em;
+  margin-top: -0.5em;
   padding-top: 0em;
   margin-bottom: 1em;
   padding-bottom: 0em;
@@ -17,6 +17,14 @@
     margin-top: 1em;
 }
 
+.md-typeset pre + h2,
+.md-typeset pre + h2,
+.md-typeset p + h2,
+.md-typeset p + h3 {
+    margin-top: 0em;
+    padding-top: 0em;
+}
+
 .md-typeset li pre {
     margin-top: 0.5em;
     margin-bottom: 1.5em;
@@ -24,16 +32,16 @@
 
 /* Reduce space between bullet points */
 .md-typeset ol {
-  margin-top: 0em;
+  margin-top: -0.25em;
   margin-bottom: 0;
 }
 
 .md-typeset ul {
-    margin-top: -0.75em;
+    margin-top: -0.25em;
 }
 
 .md-typeset li {
-  margin-top: -0.75em;
+  margin-top: -0.5em;
   /*font-size: 0.9em;*/
 }
 
@@ -89,7 +97,7 @@
 
 .md-typeset p {
     padding-top: 0em;
-    padding-bottom: 1.5em;
+    padding-bottom: 1em;
     margin-top: 0em;
     margin-bottom: 0em;
 }
