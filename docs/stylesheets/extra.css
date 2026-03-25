@@ -11,6 +11,17 @@
   padding-bottom: 0em;
 }
 
+.md-typeset h1 + * pre,
+.md-typeset h2 + * pre,
+.md-typeset h3 + * pre {
+    margin-top: 1em;
+}
+
+.md-typeset li pre {
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
+}
+
 /* Reduce space between bullet points */
 .md-typeset ol {
   margin-top: 0em;

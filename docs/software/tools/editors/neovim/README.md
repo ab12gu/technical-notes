@@ -29,7 +29,7 @@ Create our `init.lua` file [https://neovim.io/doc/user/lua-guide.html#lua-guide-
 $ :echo stdpath('config')
 ```
 2. Install [lazy.vim](https://www.lazyvim.org/) our package manager
-    - custom theme settings for `nvim`
+    -  custom theme settings for `nvim`
 3. Add  to init file: [github.com/ab12gu/dotfiles/tree/master/vim](https://github.com/ab12gu/dotfiles/tree/master/vim) <br>
 Commands Docs: [neovim.io/doc/user/lua-guide/#lua-guide-vim-commands](https://neovim.io/doc/user/lua-guide/#lua-guide-vim-commands)
 ```bash
@@ -62,7 +62,6 @@ To use other vim functions in lua
 ```lua
 vim.api.nvim_set_hl(0, "LineNr", { ctermfg = "LightBlue", })
 ```
-
 
 The vim.cmd runs vimscript rather than lua in-built functions, so its slower
 
