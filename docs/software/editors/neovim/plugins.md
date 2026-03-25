@@ -8,7 +8,10 @@ More comprehensive syntax highlighting for files.
 
 ## Tree
 
-Overrides Netrw
+[https://github.com/nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)
+
+- Overrides Netrw and older standard was NERDTree
+- [https://dotfyle.com/plugins/nvim-tree/nvim-tree.lua](https://dotfyle.com/plugins/nvim-tree/nvim-tree.lua)
 
 ```nvim
 :NvimTreeToggle
@@ -17,7 +20,6 @@ Overrides Netrw
 ## Netrw
 
 Build into vim by default, [Netrw](https://www.vim.org/scripts/script.php?script_id=1075) - [description](https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/)
-
 
 Just type this into terminal (opens Netrw if nerdtree not installed/configured)
 
@@ -30,8 +32,6 @@ $ vim .
 :Ex
 :Explorer
 ```
-
-## NerdTree
 
 ### Installation
 
