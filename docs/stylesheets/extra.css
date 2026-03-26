@@ -45,10 +45,13 @@
   /*font-size: 0.9em;*/
 }
 
+.md-typeset h1 + ul,
 .md-typeset h1 + ul {
     margin-top: 2em;
 }
 
+.md-typeset h2 + ol,
+.md-typeset h3 + ol,
 .md-typeset h2 + ul, 
 .md-typeset h3 + ul {
     margin-top: 1.5em;
