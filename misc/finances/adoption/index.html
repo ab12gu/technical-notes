@@ -27803,6 +27803,40 @@
 </tr>
 </tbody>
 </table>
+<p><label for="Age">Age of kid for adoption:</label></p>
+<form>
+    <input
+      type="text"
+      id="age"
+      name="age"
+      required
+      minlength="0"
+      maxlength="2"
+      size="10" /> 
+    <input class="styled" type="button" value="Calculate" />
+</form>
+
+<p></p>
+
+<p>Your maximum age to adopt a kid to not die before they are 40:</p>
+<p>CURRENTLY NOT WORKING - JS MKDOCS INTEGRATION ISSUES</p>
+<script>
+
+const button = document.querySelector("input");
+const paragraph = document.querySelector("p");
+
+button.addEventListener("click", updateButton);
+
+function updateButton() {
+  if (button.value === "Calculate") {
+    button.value = "Recalculate";
+    paragraph.textContent = "Calculated!";
+  } else {
+    button.value = "Recalculate";
+    paragraph.textContent = "Recalculated!";
+  }
+}
+</script>
 
 
 
