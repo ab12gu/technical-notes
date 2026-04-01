@@ -1,6 +1,8 @@
 # Adoption
 
-The costs are mostly from adoption agencies totalling to $30 per child
+The costs are mostly from adoption agencies totalling to $30k per child
+
+NOTE: Adoption US agencies eat up most costs, so foreign babies cost the same
 
 ## Cost Reduction Methods
 
