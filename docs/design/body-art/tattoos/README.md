@@ -1,5 +1,7 @@
 # Tattoos
 
+Currently watching: [https://www.youtube.com/watch?v=iBcvwJmywMw](https://www.youtube.com/watch?v=iBcvwJmywMw)
+
 ## Starting
 
 Margot recommended: 
@@ -11,6 +13,9 @@ Margot recommended:
 - Just dip a needle into ink and then into your skin
 - [https://en.wikipedia.org/wiki/Stick_and_poke](https://en.wikipedia.org/wiki/Stick_and_poke)
 
+## Links
+
+- [https://en.wikipedia.org/wiki/Tattoo](https://en.wikipedia.org/wiki/Tattoo)
 
 ## Youtube
 
