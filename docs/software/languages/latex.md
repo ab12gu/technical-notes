@@ -1,17 +1,19 @@
 # LaTeX
 
-`Tex` is programming language used to well formatted documents (aka: typesetting system) <br>
-`Latex` is a macro langauge on top of `tex` that allows gives you simpler functions to format text. 
+`Tex` is programming language used to format documents (aka: typesetting system) <br>
+`Latex` is a markup langauge on top of `tex` that allows gives you simpler functions to format text. (developed in 1980s)
 
 - [tug.org, official site](https://www.tug.org/)
 - [wiki/LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 - [wiki/TeX](https://en.wikipedia.org/wiki/TeX)
+- [texdoc/search](https://texdoc.org/index.html)
 
 ```bash
 $ latexmk -lualatex -pvc -view=pdf -f -outdir=build document.tex
 ```
 
-^ compiles `tex` file into a pdf and continuously reloads
+- ^ compiles `tex` file into a pdf and continuously reloads
+- by default `latexmk` runs `-pdflatex` compiler
 
 ## Documentation
 
@@ -24,8 +26,21 @@ Unofficial Documentation
 - [https://www.overleaf.com/learn/latex](https://www.overleaf.com/learn/latex)
 - [github source code (no docs)](https://github.com/latex3/latex3)
 
-
 ## Compile
+
+### Neovim
+
+No Plugins
+
+### VS Code
+
+Plugin - [https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+
+My default, it uses latexmk (pdflatex compiler). You need to change the `settings.json` default recipe...
+
+It is annoying because you keep default as use `first` recipe, and change which recipe is first. No ability to change default recipe/compiler directly.
+
+### Terminal
 
 On Mac, install [basictex](https://www.tug.org/mactex/morepackages.html) (smaller distro of MacTeX). Includes TeX, LaTeX, pdfTeX, MetaFont, dvips, MetaPost, and XeTeX. 
 
