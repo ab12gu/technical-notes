@@ -25679,6 +25679,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Compile">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#neovim" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Neovim
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vs-code" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VS Code
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#terminal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Terminal
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -27893,6 +27932,45 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Compile">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#neovim" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Neovim
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vs-code" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VS Code
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#terminal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Terminal
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
@@ -27957,16 +28035,20 @@
 
 
 <h1 id="latex">LaTeX</h1>
-<p><code>Tex</code> is programming language used to well formatted documents (aka: typesetting system) <br>
-<code>Latex</code> is a macro langauge on top of <code>tex</code> that allows gives you simpler functions to format text. </p>
+<p><code>Tex</code> is programming language used to format documents (aka: typesetting system) <br>
+<code>Latex</code> is a markup langauge on top of <code>tex</code> that allows gives you simpler functions to format text. (developed in 1980s)</p>
 <ul>
 <li><a href="https://www.tug.org/">tug.org, official site</a></li>
 <li><a href="https://en.wikipedia.org/wiki/LaTeX">wiki/LaTeX</a></li>
 <li><a href="https://en.wikipedia.org/wiki/TeX">wiki/TeX</a></li>
+<li><a href="https://texdoc.org/index.html">texdoc/search</a></li>
 </ul>
 <div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>latexmk<span class="w"> </span>-lualatex<span class="w"> </span>-pvc<span class="w"> </span>-view<span class="o">=</span>pdf<span class="w"> </span>-f<span class="w"> </span>-outdir<span class="o">=</span>build<span class="w"> </span>document.tex
 </code></pre></div>
-<p>^ compiles <code>tex</code> file into a pdf and continuously reloads</p>
+<ul>
+<li>^ compiles <code>tex</code> file into a pdf and continuously reloads</li>
+<li>by default <code>latexmk</code> runs <code>-pdflatex</code> compiler</li>
+</ul>
 <h2 id="documentation">Documentation</h2>
 <p>The official documentaiton is in <code>LaTex</code> pdfs and is impossible to navigate, <a href="https://www.latex-project.org/help/documentation/">https://www.latex-project.org/help/documentation/</a>... so use unofficial docs...</p>
 <p>Unofficial Documentation</p>
@@ -27977,6 +28059,13 @@
 <li><a href="https://github.com/latex3/latex3">github source code (no docs)</a></li>
 </ul>
 <h2 id="compile">Compile</h2>
+<h3 id="neovim">Neovim</h3>
+<p>No Plugins</p>
+<h3 id="vs-code">VS Code</h3>
+<p>Plugin - <a href="https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop">https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop</a></p>
+<p>My default, it uses latexmk (pdflatex compiler). You need to change the <code>settings.json</code> default recipe...</p>
+<p>It is annoying because you keep default as use <code>first</code> recipe, and change which recipe is first. No ability to change default recipe/compiler directly.</p>
+<h3 id="terminal">Terminal</h3>
 <p>On Mac, install <a href="https://www.tug.org/mactex/morepackages.html">basictex</a> (smaller distro of MacTeX). Includes TeX, LaTeX, pdfTeX, MetaFont, dvips, MetaPost, and XeTeX. </p>
 <p>Also, install <a href="https://en.wikipedia.org/wiki/Skim_(software)">skim pdf viewer</a> for ability to autoreload pdf when changed. </p>
 <div class="language-bash highlight"><pre><span></span><code><span class="c1">### Install Dependencies</span>
