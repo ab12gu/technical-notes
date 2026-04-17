@@ -38,8 +38,6 @@ Plugin - [https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-wor
 
 My default, it uses latexmk (pdflatex compiler). You need to change the `settings.json` default recipe...
 
-It is annoying because you keep default as use `first` recipe, and change which recipe is first. No ability to change default recipe/compiler directly.
-
 ### Terminal
 
 On Mac, install [basictex](https://www.tug.org/mactex/morepackages.html) (smaller distro of MacTeX). Includes TeX, LaTeX, pdfTeX, MetaFont, dvips, MetaPost, and XeTeX. 
