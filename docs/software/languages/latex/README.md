@@ -32,3 +32,4 @@ Unofficial Documentation
 ## Future Reading
 
 - [latexmkrc, overleaf](https://docs.overleaf.com/managing-projects-and-files/the-latexmkrc-file)
+- [Latex vim editor plugins](https://tex.stackexchange.com/questions/339/latex-editors-ides)
