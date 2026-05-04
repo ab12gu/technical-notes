@@ -6,7 +6,8 @@ As of 2026, probably the most used/growing programming language.
 - [https://en.wikipedia.org/wiki/Pip_(package_manager)](https://en.wikipedia.org/wiki/Pip_(package_manager))
     - recommended package manager for python
     - `uv` (see below) works w/ `pip` for package installations
-
+- [https://docs.python.org/3/tutorial/index.html](https://docs.python.org/3/tutorial/index.html)
+    - Tutorial supported by Python
 
 ## Package Managers
 
