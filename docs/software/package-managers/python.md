@@ -1,6 +1,7 @@
 # Python
 
-[https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
+- [https://docs.python.org/3/library/venv.html](https://docs.python.org/3/library/venv.html)
+- [https://docs.python.org/3.15/tutorial/venv.html](https://docs.python.org/3.15/tutorial/venv.html)
 
 ## pip
 
