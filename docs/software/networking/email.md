@@ -15,8 +15,9 @@
 
 ```bash
 $ import smtplib
-$ smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
-$ smtpObj.ehlo()
+$ smtp = smtplib.SMTP('smtp.gmail.com', 587)
+$ smtp.ehlo()
+$ smtp.ttls() # create secure connection
 ```
 
 ```bash
