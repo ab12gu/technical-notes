@@ -28536,8 +28536,9 @@
 <li>So module <code>EZGmail</code> surcumvents it? LIES!! It works via SMTP!</li>
 </ul>
 <div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>import<span class="w"> </span>smtplib
-$<span class="w"> </span><span class="nv">smtpObj</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>smtplib.SMTP<span class="o">(</span><span class="s1">&#39;smtp.gmail.com&#39;</span>,<span class="w"> </span><span class="m">587</span><span class="o">)</span>
-$<span class="w"> </span>smtpObj.ehlo<span class="o">()</span>
+$<span class="w"> </span><span class="nv">smtp</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>smtplib.SMTP<span class="o">(</span><span class="s1">&#39;smtp.gmail.com&#39;</span>,<span class="w"> </span><span class="m">587</span><span class="o">)</span>
+$<span class="w"> </span>smtp.ehlo<span class="o">()</span>
+$<span class="w"> </span>smtp.ttls<span class="o">()</span><span class="w"> </span><span class="c1"># create secure connection</span>
 </code></pre></div>
 <div class="language-bash highlight"><pre><span></span><code><span class="c1"># CREDENTIALS</span>
 <span class="c1"># Create app password (same username)</span>
