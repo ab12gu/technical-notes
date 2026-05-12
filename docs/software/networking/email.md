@@ -1,5 +1,9 @@
 # Email
 
+## MIME
+
+[https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types)
+
 ## SMTP 
 
 [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) (Simple mail transfer protocol) is used instead of HTTP to send emails... dumb
