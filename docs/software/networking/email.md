@@ -2,7 +2,8 @@
 
 ## MIME
 
-[https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types)
+- [https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types)
+- [https://www.iana.org/assignments/media-types/media-types.xhtml#application](https://www.iana.org/assignments/media-types/media-types.xhtml#application)
 
 ## SMTP 
 
@@ -10,12 +11,6 @@
 
 - generally uses port 465 or 587
 - dictates how email messages should be formatted/encripted/relayed between mail servers
-- for gmail: [https://developers.google.com/workspace/gmail/imap/imap-smtp](https://developers.google.com/workspace/gmail/imap/imap-smtp)
-    - outgoing SMTP server, smtp.gmail.com, supports TLS, `port 587`
-
-(UNSURE) Some popular email services like Gmail don’t allow you to use the standard SMTP and IMAP protocols to access their services
-
-- So module `EZGmail` surcumvents it? LIES!! It works via SMTP!
 
 ```bash
 $ import smtplib
@@ -35,6 +30,14 @@ $ smtpObj.login('ab18gu@gmail.com', '<app-password>')
 $ smtpObj.sendmail('ab18gu@gmail.com', 'you@gmail.com', 'Subject: This is automated\nweird...')
 $ smtpObj.quit()
 ```
+
+### GMAIL
+
+- for gmail: [https://developers.google.com/workspace/gmail/imap/imap-smtp](https://developers.google.com/workspace/gmail/imap/imap-smtp)
+    - outgoing SMTP server, smtp.gmail.com, supports TLS, `port 587`
+- [https://support.google.com/mail/answer/22839?hl=en#zippy=%2Cyou-have-reached-a-limit-for-sending-mail](https://support.google.com/mail/answer/22839?hl=en#zippy=%2Cyou-have-reached-a-limit-for-sending-mail)
+    - 
+
 
 ## IMAP
 [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) (Internet Message Access Protocol) used to recieve emails... dumb

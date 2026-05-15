@@ -3,7 +3,11 @@
 ## Stores
 
 - Autozone
-- O' Reilly
+- [O' Reilly](https://www.oreillyauto.com/)
+    - [O'Reilly Pro](https://www.oreillypro.com/FirstCallOnline/accountrequest/request.html)
+        - Businesses get parts discount from 10-50%
+        - Need: resale permit (tax-exempt parts?) and shop address
+            - Washington Reseller Permit or Resale/exception cert tied to business license
 - Ebay
 - Amazon
 - [rockauto.com](http://rockauto.com/)**
