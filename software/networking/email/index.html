@@ -26368,6 +26368,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#mime" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MIME
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#smtp" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -26375,6 +26386,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="SMTP">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gmail" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GMAIL
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -28482,6 +28510,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#mime" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MIME
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#smtp" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -28489,6 +28528,23 @@
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="SMTP">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gmail" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GMAIL
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -28521,23 +28577,21 @@
 
 
 <h1 id="email">Email</h1>
+<h2 id="mime">MIME</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types">https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types</a></li>
+<li><a href="https://www.iana.org/assignments/media-types/media-types.xhtml#application">https://www.iana.org/assignments/media-types/media-types.xhtml#application</a></li>
+</ul>
 <h2 id="smtp">SMTP</h2>
 <p><a href="https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol">SMTP</a> (Simple mail transfer protocol) is used instead of HTTP to send emails... dumb</p>
 <ul>
 <li>generally uses port 465 or 587</li>
 <li>dictates how email messages should be formatted/encripted/relayed between mail servers</li>
-<li>for gmail: <a href="https://developers.google.com/workspace/gmail/imap/imap-smtp">https://developers.google.com/workspace/gmail/imap/imap-smtp</a><ul>
-<li>outgoing SMTP server, smtp.gmail.com, supports TLS, <code>port 587</code></li>
-</ul>
-</li>
-</ul>
-<p>(UNSURE) Some popular email services like Gmail don’t allow you to use the standard SMTP and IMAP protocols to access their services</p>
-<ul>
-<li>So module <code>EZGmail</code> surcumvents it? LIES!! It works via SMTP!</li>
 </ul>
 <div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>import<span class="w"> </span>smtplib
-$<span class="w"> </span><span class="nv">smtpObj</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>smtplib.SMTP<span class="o">(</span><span class="s1">&#39;smtp.gmail.com&#39;</span>,<span class="w"> </span><span class="m">587</span><span class="o">)</span>
-$<span class="w"> </span>smtpObj.ehlo<span class="o">()</span>
+$<span class="w"> </span><span class="nv">smtp</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>smtplib.SMTP<span class="o">(</span><span class="s1">&#39;smtp.gmail.com&#39;</span>,<span class="w"> </span><span class="m">587</span><span class="o">)</span>
+$<span class="w"> </span>smtp.ehlo<span class="o">()</span>
+$<span class="w"> </span>smtp.ttls<span class="o">()</span><span class="w"> </span><span class="c1"># create secure connection</span>
 </code></pre></div>
 <div class="language-bash highlight"><pre><span></span><code><span class="c1"># CREDENTIALS</span>
 <span class="c1"># Create app password (same username)</span>
@@ -28547,6 +28601,17 @@ $<span class="w"> </span>smtpObj.ehlo<span class="o">()</span>
 $<span class="w"> </span>smtpObj.sendmail<span class="o">(</span><span class="s1">&#39;ab18gu@gmail.com&#39;</span>,<span class="w"> </span><span class="s1">&#39;you@gmail.com&#39;</span>,<span class="w"> </span><span class="s1">&#39;Subject: This is automated\nweird...&#39;</span><span class="o">)</span>
 $<span class="w"> </span>smtpObj.quit<span class="o">()</span>
 </code></pre></div>
+<h3 id="gmail">GMAIL</h3>
+<ul>
+<li>for gmail: <a href="https://developers.google.com/workspace/gmail/imap/imap-smtp">https://developers.google.com/workspace/gmail/imap/imap-smtp</a><ul>
+<li>outgoing SMTP server, smtp.gmail.com, supports TLS, <code>port 587</code></li>
+</ul>
+</li>
+<li><a href="https://support.google.com/mail/answer/22839?hl=en#zippy=%2Cyou-have-reached-a-limit-for-sending-mail">https://support.google.com/mail/answer/22839?hl=en#zippy=%2Cyou-have-reached-a-limit-for-sending-mail</a><ul>
+<li></li>
+</ul>
+</li>
+</ul>
 <h2 id="imap">IMAP</h2>
 <p><a href="https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol">IMAP</a> (Internet Message Access Protocol) used to recieve emails... dumb</p>
 <ul>
