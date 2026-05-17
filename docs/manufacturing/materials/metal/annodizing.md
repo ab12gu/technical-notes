@@ -5,6 +5,8 @@ Electrolytic passivation process used to increase the thickness of the natural o
 - [How to annodize parts at home, ytb](https://www.youtube.com/watch?v=Eu4zXgeeq_M)
 - [https://en.wikipedia.org/wiki/Anodizing](https://en.wikipedia.org/wiki/Anodizing)
 
+## Steps
+
 1. Clean the aluminum
     - Use soap and water,
     - or a degreaser (if oil remains)
