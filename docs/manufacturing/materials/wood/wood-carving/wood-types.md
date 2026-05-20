@@ -8,8 +8,7 @@
 - walnut
 - cedar
 
-
-## Softwoods (Ideal for Beginners):
+## Softwoods
 
 Even Basswood is really not as soft as you think... takes hours/days to carve a handheld object
 
@@ -27,7 +26,7 @@ Even Basswood is really not as soft as you think... takes hours/days to carve a 
     - Soft and fragrant, with a distinct grain.  
     - Can be brittle, so it's better for simple projects.
 
-## Hardwoods (Good for Slightly Advanced Beginners):
+## Hardwoods 
 
 1. Tupelo
     - Commonly used for carving ducks and other detailed projects.  
@@ -42,13 +41,13 @@ Even Basswood is really not as soft as you think... takes hours/days to carve a 
     - Medium softness with a fine, consistent grain.  
     - Affordable and widely available at hardware stores.
 
-## Key Factors to Consider:
+## Key Factors to Consider
 
 - **Softness:** Softer woods like basswood are less likely to damage your tools or cause fatigue.
 - **Grain:** Look for woods with straight, tight grain to avoid splitting or uneven carving.
 - **Availability:** Choose woods that are easy to source locally or online.
 
-## For Intermediate Carvers:
+## Intermediate
 
 3. Cherry
     - Dense and smooth, great for fine details.
@@ -57,7 +56,7 @@ Even Basswood is really not as soft as you think... takes hours/days to carve a 
     - Medium hardness, with a rich color and grain.
     - Suitable for relief carving and sculptures.
 
-## For Advanced Carvers:
+## Advanced
 
 5. Oak  
     - Hard and durable with a strong grain.
@@ -66,18 +65,18 @@ Even Basswood is really not as soft as you think... takes hours/days to carve a 
     - Dense but carvable, with a consistent texture.
     - Great for intricate, high-end work.
 
-## For Specialized Carving:
+## Specialized
 
 7. Limewood (Linden)
     - Similar to basswood but slightly harder.
     - Popular in Europe for fine sculptures and reliefs.
 
-## Tips for Choosing Wood:
+## Tips for Choosing
 
 - **Dryness:** Use seasoned (dry) wood to prevent cracking.
 - **Grain:** Look for straight-grained pieces to make carving easier.
 - **Tools:** Match wood hardness to your tools’ sharpness and strength.
 
-## Citations: 
+## Citations
 
 - [https://beavercrafttools.com/blogs/wood-for-carving/best-wood-for-wood-carving](https://beavercrafttools.com/blogs/wood-for-carving/best-wood-for-wood-carving)
