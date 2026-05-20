@@ -11,3 +11,9 @@
 - Sleep in tent
 - Normal ferry food for purchase
 - Consider flying back (cheaper/faster)
+- Extra
+    - Double price to bring car each way
+    - $100 for bike
+    - $40 for pet :)
+    - Double for cabin
+
