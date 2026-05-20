@@ -46,7 +46,7 @@ As you advance, you can add more specialized tools for greater control and effic
 7. **Burnishing Tool**  
     - Smooths the wood surface without sanding for a polished finish.
 
-## **Essential Tips:
+## Essential Tips:
 
 - **Tool Size:** For a project the size of half a hand, prioritize small to medium-sized tools. Avoid bulky chisels or gouges.  
 - **Safety:** Always carve away from yourself and wear a glove on the hand holding the wood.  
