@@ -1,5 +1,9 @@
 # Email
 
+Email - Electronic Mail
+
+Started in 1965 at MIT and then expanded through the DoD in 1971.
+
 ## MIME
 
 - [https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types)
@@ -12,34 +16,8 @@
 - generally uses port 465 or 587
 - dictates how email messages should be formatted/encripted/relayed between mail servers
 
-```bash
-$ import smtplib
-$ smtp = smtplib.SMTP('smtp.gmail.com', 587)
-$ smtp.ehlo()
-$ smtp.ttls() # create secure connection
-```
-
-```bash
-# CREDENTIALS
-# Create app password (same username)
-# https://support.google.com/mail/?p=InvalidSecondFactor
-```
-
-```bash
-$ smtpObj.login('ab18gu@gmail.com', '<app-password>')
-$ smtpObj.sendmail('ab18gu@gmail.com', 'you@gmail.com', 'Subject: This is automated\nweird...')
-$ smtpObj.quit()
-```
-
-### GMAIL
-
-- for gmail: [https://developers.google.com/workspace/gmail/imap/imap-smtp](https://developers.google.com/workspace/gmail/imap/imap-smtp)
-    - outgoing SMTP server, smtp.gmail.com, supports TLS, `port 587`
-- [https://support.google.com/mail/answer/22839?hl=en#zippy=%2Cyou-have-reached-a-limit-for-sending-mail](https://support.google.com/mail/answer/22839?hl=en#zippy=%2Cyou-have-reached-a-limit-for-sending-mail)
-    - 
-
-
 ## IMAP
+
 [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol) (Internet Message Access Protocol) used to recieve emails... dumb
 
 - generally listens on port 143
