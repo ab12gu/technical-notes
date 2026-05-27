@@ -17,3 +17,6 @@
     - $40 for pet :)
     - Double for cabin
 
+[Weatherspark (Anchrage, Ketchikan, Seattle)](https://weatherspark.com/compare/y/295~252~913/Comparison-of-the-Average-Weather-in-Ketchikan-Anchorage-and-Seattle)
+
+- Best months June -> August (July/August better)
