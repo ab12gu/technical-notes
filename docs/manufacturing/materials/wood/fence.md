@@ -26,5 +26,7 @@ Alex's fence was held by screws into a concrete slab and ripped out.
             - doesn't need to be stainless, overkill, but most corrosion resistant. 
                 - Galvanized is cheaper and fine
     - bend with vice (bikery or tool library)
-
+4. Wooden/Metal brace
+    - I want to just create a double U bracket on both sides of fence post
+    - And use metal L brackets to attach them together and to the fence
 
