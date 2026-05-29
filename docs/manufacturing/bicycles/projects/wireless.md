@@ -1,6 +1,6 @@
-# bicycle-projects
+# Wireless
 
-Wireless parts:
+## Wireless Projects Links
 
 - [https://www.youtube.com/watch?v=_4LeOIDWOzk](https://www.youtube.com/watch?v=_4LeOIDWOzk)
 - [https://www.youtube.com/watch?v=r-Zyp6jX0HM](https://www.youtube.com/watch?v=r-Zyp6jX0HM)
