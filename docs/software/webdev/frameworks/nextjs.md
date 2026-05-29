@@ -1,12 +1,12 @@
 # Next.js
 
+[Next.js](https://en.wikipedia.org/wiki/Next.js) open-source full-stack web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static rendering.
+
 **Next.js** is built on top of **Node.js**, which is a js runtime environment.
 
 - Node.js runs the Next.js dev server
 - Where Next.js transpiles your modern language code into older ES5+ (javascript 5)
     - Transpile - transforming code from one version/language into another
-
-
 
 ## Runtime Environment
 
@@ -43,8 +43,6 @@ And through npm, you can install Next.js as a package.
 npm install next
 ```
 
-
-
 ## Citations
 
-- https://en.wikipedia.org/wiki/Runtime_system
+- [https://en.wikipedia.org/wiki/Runtime_system](https://en.wikipedia.org/wiki/Runtime_system)
