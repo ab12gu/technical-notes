@@ -1,19 +1,17 @@
-
 # Freewheels
+
 List of freewheels on the market
 
-| Brand             | Name | Cost | Points of Engagement | 1/8th in. Comp. | 3/32nd in. Comp. | Date Last Updated to Table |
-| --------          | ------- | ------- | ------- | ------- | ------- | ------- |
-| White Industries  | 
-| Sunlite           |
-| Origin8           | 
+Characteristics:
 
+- Brand
+- Cost
+- Points of Engagement / Degrees move to engage
+- Compatible with chain thickensses: 1/8th or 3/32nd
 
-
-
-White Industries
 [White Industries](https://www.whiteind.com/)
 
+- Industry leader
 - [Single Freewheels](https://www.whiteind.com/product/single-freewheels/) ($120, 24-07-01):
   - Heat treated 4130 steel that houses 3 heat treated S7 tool steel pawls
   - 8620 steel case-hardened and electroless nickel-plated outer gear turning on an Enduro chromium steel bearing
@@ -58,10 +56,3 @@ More Options:
 
 - Alter Pista, Sugino, Miche, Profile Design, and Andel
 
-# License
-
-No license specified
-
-- Discussion of what it means here: https://law.stackexchange.com/questions/84720/which-license-can-protect-a-projects-owner-and-give-him-ownership-over-voluntee
-- Also github specifies no license policy here as well: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#choosing-the-right-license
-- TL;DR: contributions are open and encouraged, but just check in with me before using it on other platforms
