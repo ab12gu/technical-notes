@@ -22,3 +22,17 @@ e.g.
 ## Source Code
 
 Published via [github](https://github.com/ab12gu/technical-notes)
+
+## Websites I Maintain
+
+- [notes.abgup.com](https://notes.abgup.com)
+- [abgup.com](https://abgup.com)
+- [byobg.com](https://byobg.com)
+- [scoutingfrc.com](https://scoutingfrc.com)
+- [findapaint.com](https://findapaint.com)
+- [lawregional.com](https://lawregional.com)
+    - Need to port from [https://rolo-connect.com/](https://rolo-connect.com/)
+- [masalablend.com](https://masalblend.com)
+- [sheldonbrown.com](https://sheldonbrown.com)
+- [pebbleproducts.com](https://pebbleproducts.com)
+- [206bikepolo.com](https://206bikepolo.com)
