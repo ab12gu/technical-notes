@@ -1,6 +1,6 @@
 # lawregional
 
-Cofounded with [Mehrzad Pastutanizadeh](https://www.linkedin.com/in/mehrzad-pashutanizadeh/)
+Cofounded with Mehrzad Pashutanizadeh
 
 Summary: 
 
