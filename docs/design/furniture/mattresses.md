@@ -1,8 +1,7 @@
-# Mattresses 
+# Mattresses
 
-<<<<<<< HEAD
 Things to look for:
-=======
+
 ## Layers
 
 - Top: Pillow (optional)
@@ -44,17 +43,13 @@ Longevity
 [reddit comment for 3 layers, wool,latex,coils](https://www.reddit.com/r/BuyItForLife/comments/1l3wpcf/comment/mwga7ck/?)
 
 ### Things to look for
->>>>>>> efd3dd7b5c9900ff2bd307d6b17dcf8b978d5299
 
 - Cooling
 - Type of foam
     - Open-cell foam (better for cooling)
     - Memory foam (retains head :( ) 
 - Edge Support
-<<<<<<< HEAD
-=======
 - Coils
->>>>>>> efd3dd7b5c9900ff2bd307d6b17dcf8b978d5299
 
 ## Cheap Mattresses
 
@@ -69,12 +64,8 @@ Emron's Recommnedation
 
 Mattress I've been using since 2015: [Tuft and Needle](https://www.tuftandneedle.com/)
 
-<<<<<<< HEAD
-=======
 - Now owned by Serta Simmons
 
->>>>>>> efd3dd7b5c9900ff2bd307d6b17dcf8b978d5299
 Shikha's Guest bedroom mattress
 
 - [Amazon Zinus 10", $224](https://a.co/d/6PkiOAN)
-
