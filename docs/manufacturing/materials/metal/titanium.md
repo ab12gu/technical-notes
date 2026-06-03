@@ -8,6 +8,6 @@
 - Amazon
 - [onlinemetals.com](https://onlinemetals.com)
 - Titanium Industries, Inc, titanium.com
-- Mischief Bikes:vsp
+- Mischief Bikes
 
 
