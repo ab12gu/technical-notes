@@ -4,6 +4,7 @@
 
 [OnlineMetals](https://www.onlinemetals.com/)
 
+- Cuts in Portland -> Free shipping to Georgetown, Seattle
 - Worldwide but locally operates in Portland
     - Local branch in georgetown for distrubtion only
     - Share facility with pnw scenic, does outdoor art
@@ -11,4 +12,15 @@
 - Cheapest place to buy metal
     - expensive to ship due to weight, so cheaper than amazon/aliexpress generally
 
+[https://www.metalshorts.com/about.html](https://www.metalshorts.com/about.html)
 
+- 9134 E. Marginal Way South, Tukwila, WA 98108-1270 
+- Steel, Aluminum, Stainless Steel Distributor
+
+[https://www.metalsupermarkets.com/](https://www.metalsupermarkets.com/)
+
+- Everitt \& Kent
+
+[https://titanium.com/](https://titanium.com/)
+
+- Woodenville
