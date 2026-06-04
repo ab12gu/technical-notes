@@ -21,3 +21,5 @@ uv sync --upgrade-package package-name
 
 Check [build123d](./../../../design/3d-modeling/scripting/build123d) notes on how to use.
 
+design/3d-modeling/scripting/build123d/
+

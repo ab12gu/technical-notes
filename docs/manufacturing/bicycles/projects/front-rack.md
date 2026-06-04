@@ -46,7 +46,7 @@
 - Max load weight: 22lbs / 10kg
 - [New link](https://builtbyswift.com/products/carridice-bagman-support)
 
-![alt text](../../images/saddle-rack.png){width="300"}
+![alt text](../images/saddle-rack.png){width="300"}
 
 [Saddle bag front rack dimensions](https://carradice.co.uk/products/bagman-sport-saddlebag-support-rack)
 
@@ -56,7 +56,7 @@
 - $120 quick release
 - Size: 13x16x18 cm
 
-![alt text](../../images/saddle-rack-dimensions.png){width="300"}
+![alt text](../images/saddle-rack-dimensions.png){width="300"}
 
 Alternative Rack
 
@@ -86,4 +86,4 @@ Alternative Rack
 
 ## Saddle Rack Diagram
 
-![alt text](../../images/saddle-rack-diagram.png)
+![alt text](../images/saddle-rack-diagram.png)

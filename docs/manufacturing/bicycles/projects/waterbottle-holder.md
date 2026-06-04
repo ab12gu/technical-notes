@@ -8,7 +8,7 @@
 
 Ways to cut it:
 
-- [manufacturing/materials/metal/sheet-metal/](../../../materials/metal/sheet-metal/)
+- [manufacturing/materials/metal/sheet-metal/](../../materials/metal/sheet-metal.md)
 
 Bend through vice. 
 

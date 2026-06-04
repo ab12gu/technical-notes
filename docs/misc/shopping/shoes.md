@@ -11,7 +11,7 @@ Btw, I think all the trail runners look better, but I think they have less breat
 
 All run about $150 -> $200 :(...
 
-Can buy locally at REI or [Ascent Outdoors](maps.google.com/maps?q=ascent+outdoors+seattle)
+Can buy locally at REI or [Ascent Outdoors](https://maps.google.com/maps?q=ascent+outdoors+seattle)
 
 ## Rant
 

@@ -9,7 +9,11 @@ Shifter snapped in middle of driving, towed back home
     - Can manually pull the shifter back to neutral from bottom of car
 - Neutral shifter (left-right) works just fine!
 
+Solution/Problem: Shifter snapped, replaced
+
 ## Replacement Seal
+
+Seal was already broken before 
 
 - [Part: 68136962a, Mopar.com, $3 + $5 shipping](https://store.mopar.com/oem-parts/mopar-shift-lever-seal-68136962aa)
 - [Rockauto, out of stock](https://www.rockauto.com/en/moreinfo.php?pk=17307277&cc=1505378&pt=8192&jsn=571)
@@ -38,18 +42,15 @@ Bottom View:
 ## Sealant Spray
 
 1. Spray outside (will wear off)
-
-- Brake cleaner the area until bone-dry
-- Apply RTV (Room-Temperature Vulcanizing silicone)
-    - Permatex Ultra Grey, rigid
-    - Permatex Ultra Black, more oil resistant
-    - Loctite 598 Black RTV
-
+    - Brake cleaner the area until bone-dry
+    - Apply RTV (Room-Temperature Vulcanizing silicone)
+        - Permatex Ultra Grey, rigid
+        - Permatex Ultra Black, more oil resistant
+        - Loctite 598 Black RTV
 2. Internal stop-leak additive (only if leak is mild)
-
-- This can help only if the seal is hardened, not torn:
-    - Lubegard Seal Fixx
-    - BlueDevil Transmission Sealer
+    - This can help only if the seal is hardened, not torn:
+        - Lubegard Seal Fixx
+        - BlueDevil Transmission Sealer
 
 ## Helpful Links
 

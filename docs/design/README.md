@@ -32,6 +32,11 @@ Figma color
 - recommended by bob
 - [https://m3.material.io/get-started](https://m3.material.io/get-started)
 
+## Free Images
+
+- [https://www.pexels.com/](https://www.pexels.com/)
+    - used by wordpress for free
+
 ## FRC
 
 - Made by David from Miso Mechanics

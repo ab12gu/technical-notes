@@ -1,6 +1,6 @@
 # 3D Modelling
 
-See [CAD Projects](../CAD-projects) for my projects!
+See [CAD Projects](../CAD-projects/README.md) for my projects!
 
 ## Software
 

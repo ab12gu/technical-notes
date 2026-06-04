@@ -7,7 +7,7 @@ This is a monthly meetup run by Ben for decades? where he covers methods of hack
 - Date: Every 3rd Thurs
 - Time: 6p - 8p
 - Location: Seattle Makers, Interbay, Seattle, WA
-    - [3012 16th Ave W, Seattle, WA 98119](maps.google.com/maps?q=seattle+makers)
+    - [3012 16th Ave W, Seattle, WA 98119](https://maps.google.com/maps?q=seattle+makers)
 
 ## Hyperlinks
 

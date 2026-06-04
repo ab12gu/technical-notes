@@ -1,6 +1,6 @@
 # Fonts
 
-Instructions on adding fonts/custom fonts are in - [texdoc.org](texdoc.org)
+Instructions on adding fonts/custom fonts are in - [texdoc.org](https://texdoc.org)
 
 ```bash
 texdoc fontspec

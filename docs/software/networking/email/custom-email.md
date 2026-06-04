@@ -21,7 +21,7 @@ There are low cost options:
 - [brevo.com](https://brevo.com)
     - actually got this one to work for free
     - but they add a signature at the bottom :(
-- [fastmail.com](https;//fastmail.com)
+- [fastmail.com](https://fastmail.com)
     - Nagee uses this!!! and pays!!!
 - [Amazon SES](https://aws.amazon.com/ses)
 

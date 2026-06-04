@@ -1,6 +1,6 @@
 # MkDocs
 
-You should first start a local environment. And since it is python based, you can use [UV](../../../package-managers/python) <br>
+You should first start a local environment. And since it is python based, you can use [UV](../../package-managers/python.md) <br>
 [https://www.mkdocs.org/getting-started/](https://www.mkdocs.org/getting-started/)
 
 ```bash
