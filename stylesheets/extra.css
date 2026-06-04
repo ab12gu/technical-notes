@@ -45,7 +45,7 @@
   /*font-size: 0.9em;*/
 }
 
-.md-typeset h1 + ul,
+.md-typeset h1 + ol,
 .md-typeset h1 + ul {
     margin-top: 2em;
 }
