@@ -1117,6 +1117,18 @@
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
+         <loc>https://notes.abgup.com/manufacturing/cars/maintenance/prius08/</loc>
+         <lastmod>2026-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/manufacturing/cars/maintenance/prius08/battery/</loc>
+         <lastmod>2026-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/manufacturing/cars/maintenance/prius08/reset-obd/</loc>
+         <lastmod>2026-06-04</lastmod>
+    </url>
+    <url>
          <loc>https://notes.abgup.com/manufacturing/cars/parts/brands/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
@@ -1161,7 +1173,7 @@
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/</loc>
+         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/abs%20copy/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
@@ -1169,31 +1181,19 @@
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/maintenance/battery/</loc>
+         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/bearing-wheel-hub/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/maintenance/reset-obd/</loc>
+         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/broken-glass/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/repairs/abs/</loc>
+         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/fuse/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/repairs/bearing-wheel-hub/</loc>
-         <lastmod>2026-06-04</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/repairs/broken-glass/</loc>
-         <lastmod>2026-06-04</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/repairs/fuse/</loc>
-         <lastmod>2026-06-04</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/repairs/inverter-pump/</loc>
+         <loc>https://notes.abgup.com/manufacturing/cars/repairs/cars/prius08/inverter-pump/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
@@ -2173,10 +2173,6 @@
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/webdev/wordpress/</loc>
-         <lastmod>2026-06-04</lastmod>
-    </url>
-    <url>
          <loc>https://notes.abgup.com/software/webdev/frameworks/django/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
@@ -2202,6 +2198,14 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/software/webdev/frameworks/vite/</loc>
+         <lastmod>2026-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/webdev/wordpress/</loc>
+         <lastmod>2026-06-04</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/webdev/wordpress/usage/</loc>
          <lastmod>2026-06-04</lastmod>
     </url>
     <url>
