@@ -17,11 +17,11 @@ Actually [mailgun](https://www.mailgun.com/) works for free!
 
 There are low cost options:
 
-- [zoho.com](zoho.com)
-- [brevo.com](brevo.com)
+- [zoho.com](https://zoho.com)
+- [brevo.com](https://brevo.com)
     - actually got this one to work for free
     - but they add a signature at the bottom :(
-- [fastmail.com](fastmail.com)
+- [fastmail.com](https;//fastmail.com)
     - Nagee uses this!!! and pays!!!
 - [Amazon SES](https://aws.amazon.com/ses)
 
