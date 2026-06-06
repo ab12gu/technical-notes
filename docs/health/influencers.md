@@ -11,7 +11,7 @@
 
 - Kasi followed him first
 - I follow him too much
-
+- [https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol](https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol)
 
 
 
