@@ -1,10 +1,10 @@
 # Wordpress
 
-A quarter of the top websites use wordpress! (and half of total websites)
+A quarter of the top websites use Wordpress! (and half of total websites)
 
 It website builder with easy-to-use templates, allowing users to simply add normal text and render it on a webpage. Forked from a `b2/cafelog` as it became less active by Matt Mullenweg to implment new features in 2003.
 
-
+## Options
 
 There is `wordpress.com` and `wordpress.org`. 
 

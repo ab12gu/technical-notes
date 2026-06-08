@@ -1,5 +1,15 @@
 # Usage
 
+## Connection
+
+To separate domain, need to add: 
+
+| Type | Name | Value |
+| --- | --- | --- | 
+| A | @ | 192.0.78.24 |
+| A | @ | 192.0.78.25 |
+| CNAME | wwww | lawregional.com |
+
 ## Free plan
 
 - Has an annoying header saying `design a site like this on wordpress`
