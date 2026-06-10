@@ -1,5 +1,21 @@
 # Front Rack
 
+<video autoplay width="320" height="240" controls playsinline loop>
+  <source src="../images/bend-metal1.mp4"/>
+   Your browser does not support the video tag.
+</video>
+
+<video autoplay width="320" height="240" controls playsinline loop>
+  <source src="../images/bend-metal2.mp4"/>
+   Your browser does not support the video tag.
+</video>
+
+![](images/angle.jpg){: style="width: 300px"}
+![](images/design.jpg){: style="width: 300px"}
+
+![](images/complete1.jpg){: style="width: 300px"}
+![](images/complete2.jpg){: style="width: 300px"}
+
 # Front Rack
 
 - [ytb front rack custom - aluminum sheet metal strips](https://www.youtube.com/watch?v=Oq0UFyDqM-M)
