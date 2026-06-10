@@ -12,6 +12,8 @@ It seems most retail space in seattle varies from $30 SF/YR+
 3. A car service shop oir community service shop
     1. full service shop
     2. similar to [Ants](https://www.antscommunitygarage.com/) for renting time/space
+        - [Stews in kirkland](https://stewsgarage.com/)
+            - closed as bought out for rivian repairs
     3. community run? may have too much liability
         - lots of overhead costs
 4. A manufacturing facility
