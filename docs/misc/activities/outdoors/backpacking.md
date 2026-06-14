@@ -4,6 +4,10 @@
 
 [Hedonist's List](https://docs.google.com/document/d/1vj1FGXP25tjLdPcFWT3gQRXOHXz59SVZOzY8I2lRIak/edit?usp=sharing)
 
+## What to bring Odin
+
+Odin's list, [pdf](backpacking-checklist.pdf)
+
 ## Notes by Matthew Gunnarson
 
 Camps usually have a max party size of either 6 or 12
