@@ -2,6 +2,12 @@
 
 **TL;DR** Just go in the sun in morning/evening
 
+## Current Lotion
+
+[https://www.saltandstone.com/products/body-cream?variant=47637116485882](https://www.saltandstone.com/products/body-cream?variant=47637116485882)
+
+- Santal \& Vetiver
+
 ## Showers
 
 - Limit hot showers 5-10 minutes
