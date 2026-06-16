@@ -1,5 +1,13 @@
 # Finish
 
+## Painting
+
+Generally cheaper/better to just buy a bike frame with the paint you want. 
+
+- [https://watermanmade.com/lab/](https://watermanmade.com/lab/)
+- Local bike painting shop on vashon island
+- Used to work at GoodWeather
+
 ## Wood Veneer
 
 Veneer refers to thin slices of wood and sometimes bark that typically are glued onto surface.
