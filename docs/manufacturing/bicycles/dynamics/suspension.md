@@ -1,6 +1,12 @@
 # Suspension
 
-[wiki/Shock_absorber](https://en.wikipedia.org/wiki/Shock_absorber)
+- [wiki/Shock_absorber](https://en.wikipedia.org/wiki/Shock_absorber)
+
+## Popular Brands
+
+- [wiki/Fox_Factory](https://en.wikipedia.org/wiki/Fox_Factory)
+    - located in Scotts Valley, CA next to santa cruz :)
+- [wiki/RockShox](https://en.wikipedia.org/wiki/RockShox)
 
 ## Videos
 
