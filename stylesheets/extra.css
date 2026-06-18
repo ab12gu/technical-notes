@@ -3,6 +3,12 @@
     background-color: white;
 }
 
+.md-typeset ul.checklist {
+  list-style: none;
+  margin-left: -10px;
+  padding-left: 0px;
+}
+
 /* Reduce space between bullet points */
 .md-typeset pre {
   margin-top: -0.5em;
@@ -199,5 +205,4 @@
     .md-nav__button[for="__drawer"] {
     }
 } 
-
 
