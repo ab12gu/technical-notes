@@ -2,9 +2,12 @@
 
 Software Engineering Interview Prep
 
+- [https://www.google.com/about/careers/applications/candidate-prep/swe?](https://www.google.com/about/careers/applications/candidate-prep/swe?)
+- [https://leetcode.com/](https://leetcode.com/)
+
 Basic Data Structures
 
-<ul>
+<ul class="checklist">
   <li><input type="checkbox"> Arrays</li>
   <li><input type="checkbox"> Matrices</li>
   <li><input type="checkbox"> Hash Tables (Dictionaries)</li>
@@ -18,7 +21,7 @@ Basic Data Structures
 
 Algorithms
 
-<ul>
+<ul class="checklist">
   <li><input type="checkbox"> Dijkstra</li>
   <li><input type="checkbox"> A*</li>
   <li><input type="checkbox"> Computational Complexity</li>
@@ -26,14 +29,14 @@ Algorithms
 
 NP Complete ALgorithms
 
-<ul>
+<ul class="checklist">
   <li><input type="checkbox"> Travelling Salesman</li>
   <li><input type="checkbox"> Knapsack</li>
 </ul>
 
 Complex Data Structures
 
-<ul>
+<ul class="checklist">
   <li><input type="checkbox"> Singly Linked List</li>
   <li><input type="checkbox"> Doubly Linked List</li>
   <li><input type="checkbox"> Graphs in Memory</li>
@@ -47,7 +50,7 @@ Complex Data Structures
 
 Mathematics
 
-<ul>
+<ul class="checklist">
   <li><input type="checkbox"> Elementary Probability Theory</li>
   <li><input type="checkbox"> Combinatorics</li>
   <li><input type="checkbox"> N Choose K</li>
@@ -57,7 +60,7 @@ Mathematics
 
 Advanced
 
-<ul>
+<ul class="checklist">
   <li><input type="checkbox"> System Design</li>
   <li><input type="checkbox"> Operating Systems</li>
   <li><input type="checkbox"> Deadlock & Livelock</li>
