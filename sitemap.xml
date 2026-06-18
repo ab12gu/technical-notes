@@ -1893,14 +1893,6 @@
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/env-variables/</loc>
-         <lastmod>2026-06-18</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/software/learn/</loc>
-         <lastmod>2026-06-18</lastmod>
-    </url>
-    <url>
          <loc>https://notes.abgup.com/software/appdev/</loc>
          <lastmod>2026-06-18</lastmod>
     </url>
@@ -1957,11 +1949,11 @@
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/fundamentals/classes/</loc>
+         <loc>https://notes.abgup.com/software/fundamentals/learn/</loc>
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/fundamentals/learn/</loc>
+         <loc>https://notes.abgup.com/software/fundamentals/object-oriented/</loc>
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
@@ -2038,10 +2030,6 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/software/languages/markdown/</loc>
-         <lastmod>2026-06-18</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/software/languages/python/</loc>
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
@@ -2193,7 +2181,11 @@
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/software/terminals/tmux/</loc>
+         <loc>https://notes.abgup.com/software/terminal/env-variables/</loc>
+         <lastmod>2026-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/software/terminal/tmux/</loc>
          <lastmod>2026-06-18</lastmod>
     </url>
     <url>
