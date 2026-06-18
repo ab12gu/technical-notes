@@ -2,8 +2,8 @@
 
 Software Engineering Interview Prep
 
-- [https://www.google.com/about/careers/applications/candidate-prep/swe?](https://www.google.com/about/careers/applications/candidate-prep/swe?)
-- [https://leetcode.com/](https://leetcode.com/)
+- [google.com/candidate-prep/swe?](https://www.google.com/about/careers/applications/candidate-prep/swe?)
+- [leetcode.com/](https://leetcode.com/)
 
 Basic Data Structures
 
