@@ -14,7 +14,6 @@ Basic Data Structures
   <li><input type="checkbox"> Hash Sets (Sets)</li>
   <li><input type="checkbox"> Objects</li>
   <li><input type="checkbox"> Pointers</li>
-  <li><input type="checkbox"> Adjacency List</li>
   <li><input type="checkbox"> Trees</li>
   <li><input type="checkbox"> Stacks</li>
 </ul>
@@ -37,18 +36,30 @@ NP Complete ALgorithms
 Complex Data Structures
 
 <ul class="checklist">
-  <li><input type="checkbox"> Singly Linked List</li>
-  <li><input type="checkbox"> Doubly Linked List</li>
-  <li><input type="checkbox"> Graphs in Memory</li>
-  <li><input type="checkbox"> Graphs (traversal algorithms)</li>
-  <li><input type="checkbox"> Breadth-First Search</li>
-  <li><input type="checkbox"> Depth-First Search</li>
-  <li><input type="checkbox"> Trees</li>
-  <li><input type="checkbox"> Stacks</li>
-  <li><input type="checkbox"> Priority Queues</li>
+    <li><input type="checkbox"> Singly Linked List</li>
+    <li><input type="checkbox"> Doubly Linked List</li>
+    <li><input type="checkbox"> Trees</li>
+    <li><input type="checkbox"> Stacks</li>
+    <li><input type="checkbox"> Priority Queues</li>
 </ul>
 
+Graphs
+
+<ul class="checklist">
+    <li><input type="checkbox"> Graphs in Memory</li>
+    <li><input type="checkbox"> Adjacency List</li>
+    <li>Graph Transversal Algorithms</li>
+    <ul class="checklist">
+        <ul class="checklist" style="margin-top: 5px">
+            <li><input type="checkbox"> Breadth-First Search</li>
+            <li><input type="checkbox"> Depth-First Search</li>
+        </ul>
+    </ul>
+</ul>
+
+<p style="margin-top: -25px">
 Mathematics
+</p>
 
 <ul class="checklist">
   <li><input type="checkbox"> Elementary Probability Theory</li>
