@@ -39,8 +39,8 @@ Algorithms
 Concepts
 
 <ul class="checklist">
-    <li>Object Oriented Design</li>
-    <li>Object Oriented Programming</li>
+  <li><input type="checkbox"> Object Oriented Design</li>
+  <li><input type="checkbox"> Object Oriente Programming</li>
 </ul>
 
 NP Complete ALgorithms
