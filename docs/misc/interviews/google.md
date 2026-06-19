@@ -30,7 +30,6 @@ Algorithms
   <li><input type="checkbox"> Dynamic Programming/Memorization</li>
   <li><input type="checkbox"> Greedy</li>
   <li><input type="checkbox"> Recursion</li>
-  <li><input type="checkbox"> Recursion</li>
   <li><input type="checkbox"> Dijkstra</li>
   <li><input type="checkbox"> A*</li>
   <li><input type="checkbox"> Computational Complexity/Big O</li>
