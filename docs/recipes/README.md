@@ -10,6 +10,38 @@ Just a list of recipes I make, will try to make, have made at one point, or will
 4. Bitter
 5. Umami (glutamate unessential amino acid)
 
+Onion/Garlic create a sulfur tastes similar to meat
+
+## Chemesthesis (chemical irritation sense)
+
+Hot spices actually activate the heat/pain receptors by binding to the `TRPV1` receptors.
+
+- Chili heat (capsaicin)
+    - green -> red just means riper, more capsaicin, but more sweet
+    - very small w/ ginger
+- Methanol, [wiki/Menthol](https://en.wikipedia.org/wiki/Menthol)
+    - activates TRPM8 receptors
+    - Mint
+        - corn mint
+        - peppermint
+- Carbonation bite (CO₂)
+    - stimulates TRPA1 and pain-related nerve
+- mustard/wasabi heat (`TRPA1` receptors (irritation/“sharp pain” pathway)
+- tingling (Szechuan pepper)
+    - contians hydroxy-alpha-sanshool
+    - causes nerve “firing noise” / signal confusion
+
+## Smell
+
+garlic, herbs, smoke, spices, fruit aroma
+
+- Cumin/Jeera
+    - earthy/nutty
+- Cardamon
+    - sweet-floral-cooling
+- Coriander
+    - citrus/nutty
+
 ## Apps/Websites
 
 - [BeChef](https://apps.apple.com/us/app/bechef-recipe-manager/id6743420060)
