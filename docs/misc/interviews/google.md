@@ -16,14 +16,31 @@ Basic Data Structures
   <li><input type="checkbox"> Pointers</li>
   <li><input type="checkbox"> Trees</li>
   <li><input type="checkbox"> Stacks</li>
+  <li><input type="checkbox"> Heaps</li>
+  <li><input type="checkbox"> Queues</li>
 </ul>
 
 Algorithms
 
 <ul class="checklist">
+  <li><input type="checkbox"> Sorting</li>
+  <li><input type="checkbox"> Related Search</li>
+  <li><input type="checkbox"> Binary Search</li>
+  <li><input type="checkbox"> Divide and Conquer</li>
+  <li><input type="checkbox"> Dynamic Programming/Memorization</li>
+  <li><input type="checkbox"> Greedy</li>
+  <li><input type="checkbox"> Recursion</li>
+  <li><input type="checkbox"> Recursion</li>
   <li><input type="checkbox"> Dijkstra</li>
   <li><input type="checkbox"> A*</li>
-  <li><input type="checkbox"> Computational Complexity</li>
+  <li><input type="checkbox"> Computational Complexity/Big O</li>
+</ul>
+
+Concepts
+
+<ul class="checklist">
+    <li>Object Oriented Design</li>
+    <li>Object Oriented Programming</li>
 </ul>
 
 NP Complete ALgorithms
@@ -38,7 +55,7 @@ Complex Data Structures
 <ul class="checklist">
     <li><input type="checkbox"> Singly Linked List</li>
     <li><input type="checkbox"> Doubly Linked List</li>
-    <li><input type="checkbox"> Trees</li>
+    <li><input type="checkbox"> Binary Trees</li>
     <li><input type="checkbox"> Stacks</li>
     <li><input type="checkbox"> Priority Queues</li>
 </ul>
@@ -47,6 +64,7 @@ Graphs
 
 <ul class="checklist">
     <li><input type="checkbox"> Graphs in Memory</li>
+    <li><input type="checkbox"> Runtime Complexity</li>
     <li><input type="checkbox"> Adjacency List</li>
     <li>> Graph Transversal Algorithms</li>
     <ul class="checklist">
@@ -66,7 +84,6 @@ Mathematics
   <li><input type="checkbox"> Combinatorics</li>
   <li><input type="checkbox"> N Choose K</li>
   <li><input type="checkbox"> Discrete Mathematics</li>
-  <li><input type="checkbox"> Recursion</li>
 </ul>
 
 Advanced
