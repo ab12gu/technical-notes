@@ -1,5 +1,10 @@
 # Pasta
 
+[Fresh pasta YTB](https://www.youtube.com/watch?v=EnXb1u9UoBU)
+
+- Basically same as making any atta
+- Mix flour (semolina) + water or flour + eggs
+
 ## Ingredients
 
 <div class="grid" markdown>
