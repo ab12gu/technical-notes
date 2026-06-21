@@ -25,8 +25,7 @@ Algorithms
 <ul class="checklist">
   <li><input type="checkbox"> Sorting</li>
   <li><input type="checkbox"> Related Search</li>
-  <li><input type="checkbox"> Binary Search</li>
-  <li><input type="checkbox"> Divide and Conquer</li>
+  <li><input type="checkbox"> Divide and Conquer (Binary Search)</li>
   <li><input type="checkbox"> Dynamic Programming/Memorization</li>
   <li><input type="checkbox"> Greedy</li>
   <li><input type="checkbox"> Recursion</li>
@@ -55,8 +54,6 @@ Complex Data Structures
     <li><input type="checkbox"> Singly Linked List</li>
     <li><input type="checkbox"> Doubly Linked List</li>
     <li><input type="checkbox"> Binary Trees</li>
-    <li><input type="checkbox"> Stacks</li>
-    <li><input type="checkbox"> Priority Queues</li>
 </ul>
 
 Graphs
