@@ -23,10 +23,12 @@ Basic Data Structures
 Algorithms
 
 <ul class="checklist">
-  <li><input type="checkbox"> Sorting</li>
+  <li><input type="checkbox"> Basic Sorting</li>
+  <li><input type="checkbox"> Fast Sorting (merge/quick)</li>
   <li><input type="checkbox"> Related Search</li>
   <li><input type="checkbox"> Divide and Conquer (Binary Search)</li>
-  <li><input type="checkbox"> Dynamic Programming/Memorization</li>
+  <li><input type="checkbox"> Dynamic Programming 1D</li>
+  <li><input type="checkbox"> Dynamic Programming 2D</li>
   <li><input type="checkbox"> Greedy</li>
   <li><input type="checkbox"> Recursion</li>
   <li><input type="checkbox"> Dijkstra</li>
@@ -38,7 +40,7 @@ Concepts
 
 <ul class="checklist">
   <li><input type="checkbox"> Object Oriented Design</li>
-  <li><input type="checkbox"> Object Oriente Programming</li>
+  <li><input type="checkbox"> Object Oriented Programming</li>
 </ul>
 
 NP Complete ALgorithms
