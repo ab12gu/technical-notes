@@ -13,6 +13,7 @@ To fix this issue, you would have to measure the angle offset through a string (
     - Need angle measurment (on phone)
     - Measuring tape x2
     - Could make your own alignment tool lol
+- [Alignment tool, without removing wheels, YTB](https://www.youtube.com/watch?v=1_z5T1VaCpE)
 
 ## Local Shops
 
