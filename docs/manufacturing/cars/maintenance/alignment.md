@@ -6,7 +6,13 @@ You can tell this generally by having the steering wheel drift in either the lof
 
 To fix this issue, you would have to measure the angle offset through a string (diy) or lasers. 
 
-[DIY Wheel Alignment, string method YTB](https://www.youtube.com/watch?v=awOMTYDptfk)
+## DIY
+
+- [DIY Wheel Alignment, string method YTB](https://www.youtube.com/watch?v=awOMTYDptfk)
+- [Alignment tool purchase, YTB](https://www.youtube.com/shorts/HiPkorpkWHI)
+    - Need angle measurment (on phone)
+    - Measuring tape x2
+    - Could make your own alignment tool lol
 
 ## Local Shops
 
