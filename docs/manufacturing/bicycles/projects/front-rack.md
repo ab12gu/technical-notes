@@ -20,6 +20,8 @@
 
 - [ytb front rack custom - aluminum sheet metal strips](https://www.youtube.com/watch?v=Oq0UFyDqM-M)
 - [ytb welded/bent steel rod front rack](https://www.youtube.com/watch?v=5DjidZtS0tc)
+- [ig - 3d printed wire bender](https://www.instagram.com/p/DZ-5r-gv0vb/)
+    - [https://www.thingiverse.com/thing:7374617](https://www.thingiverse.com/thing:7374617)
 
 ## Build 
 
