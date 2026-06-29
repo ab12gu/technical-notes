@@ -23,3 +23,8 @@ Bamboo
 - Elizabeth took his class
 - Carbon/Resin Joints
 - Metal tabs for wheel connection points
+
+## Cool bike frame designs
+
+- [Oversized center triangle, reddit](https://www.reddit.com/r/FixedGearBicycle/comments/1uhy1kp/new_looks/?share_id=u5_BNIITVdjlG2qRXzj92&)
+
