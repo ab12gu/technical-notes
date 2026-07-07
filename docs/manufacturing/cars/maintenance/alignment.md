@@ -6,6 +6,8 @@ You can tell this generally by having the steering wheel drift in either the lof
 
 To fix this issue, you would have to measure the angle offset through a string (diy) or lasers. 
 
+![](https://service.secureoffersites.com/images/GetLibraryImage?fileNameOrId=69053)
+
 ## DIY
 
 - [DIY Wheel Alignment, string method YTB](https://www.youtube.com/watch?v=awOMTYDptfk)
@@ -15,6 +17,8 @@ To fix this issue, you would have to measure the angle offset through a string (
     - Could make your own alignment tool lol
 - [Alignment tool, without removing wheels, YTB](https://www.youtube.com/watch?v=1_z5T1VaCpE)
 - [DIY Alignment, YTB short](www.youtube.com/shorts/crvvOa56F4U)
+
+![](https://quicktrickalignment.com/wp-content/uploads/2014/07/alignment-3-1.jpg)
 
 ## Local Shops
 
@@ -27,4 +31,6 @@ To fix this issue, you would have to measure the angle offset through a string (
     - closed weekends
     - too expensive, $350
     - they said there is a steering sensor?
-
+4. Firestone
+    - $120 single alignment
+    - $230 lifetime alignment
