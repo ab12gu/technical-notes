@@ -1,5 +1,10 @@
 # Metal
 
+List of vendors that want scraps
+
+- [https://procurement.opengov.com/portal/seattle/projects/213193/followers](https://procurement.opengov.com/portal/seattle/projects/213193/followers)
+- csv exported, will link later
+
 ## Where to buy?
 
 [OnlineMetals](https://www.onlinemetals.com/)
