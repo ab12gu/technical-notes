@@ -1,0 +1,24 @@
+---
+level: classified
+---
+
+# Employment
+
+## Government Contracts
+
+City of Seattle Project Procurements
+
+- Ability to bid on them
+- You can also register as a specific consultant so they reach out when needed
+    - [https://procurement.opengov.com/portal/seattle/projects/191831/document?section=1783385](https://procurement.opengov.com/portal/seattle/projects/191831/document?section=1783385)
+        - this is IT consultant for the city
+        - Need to get a free EIN number from [IRS](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)
+- [https://procurement.opengov.com/portal/seattle/?](https://procurement.opengov.com/portal/seattle/?)
+- [https://www.seattle.gov/purchasing-and-contracting/](https://www.seattle.gov/purchasing-and-contracting/)
+- [https://www.seattle.gov/purchasing-and-contracting/purchasing](https://www.seattle.gov/purchasing-and-contracting/purchasing)
+
+Federal Contracts?
+
+- [https://sam.gov/opportunities](https://sam.gov/opportunities)
+- Haven't checked how these work...
+
