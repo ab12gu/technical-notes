@@ -14,14 +14,15 @@ To fix this issue, you would have to measure the angle offset through a string (
     - Measuring tape x2
     - Could make your own alignment tool lol
 - [Alignment tool, without removing wheels, YTB](https://www.youtube.com/watch?v=1_z5T1VaCpE)
+- [DIY Alignment, YTB short](www.youtube.com/shorts/crvvOa56F4U)
 
 ## Local Shops
 
-The cost for front is $90 at bothell or redmond Discount Tires (don't offer in nearby stores). 
-
 1. [Discount Tire, Redmond](https://maps.app.goo.gl/jN5nw86xpYbtxyE67)
     - closed Sundays
+    - $90, only front alignment
 2. [Discount Tire, Bothell](https://maps.app.goo.gl/iEacqjjbZFvFkup59)
+    - $100, front & back alignment
 3. [Truline, Seattle (recommended by discount tire guy)](https://trulineseattle.com/contact.html)
     - closed weekends
     - too expensive, $350
