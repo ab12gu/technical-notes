@@ -11,6 +11,7 @@
     - Varian Design (furniture) owner runs it
 - Cheapest place to buy metal
     - expensive to ship due to weight, so cheaper than amazon/aliexpress generally
+- Some scrap based on weight in shop
 
 [https://www.metalshorts.com/about.html](https://www.metalshorts.com/about.html)
 
@@ -24,3 +25,8 @@
 [https://titanium.com/](https://titanium.com/)
 
 - Woodenville
+
+[https://www.seairon.com/](https://www.seairon.com/)
+
+- scap metal
+- unsure costs, down in sodo
