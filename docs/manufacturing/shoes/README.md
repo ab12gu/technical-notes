@@ -16,3 +16,9 @@ Xero build your own sandals
 
 - [https://xeroshoes.com/cdn/shop/videos/](https://xeroshoes.com/cdn/shop/videos/c/vp/0788a5a3a6e449a4960726076b55ffb5/0788a5a3a6e449a4960726076b55ffb5.HD-1080p-2.5Mbps-80076431.mp4?v=0)
 - [https://xeroshoes.com/products/diy-feeltrue](https://xeroshoes.com/products/diy-feeltrue)
+
+Rivet in sandals:
+
+- [https://www.urbanoutfitters.com/shop/suicoke-john-elliott-edition-kipa-sandals](https://www.urbanoutfitters.com/shop/suicoke-john-elliott-edition-kipa-sandals)
+
+![](https://editorialist.com/web/2021/4/014/126/812/14126812~black_0.jpg)
