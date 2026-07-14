@@ -1,26 +1,36 @@
 # Hummus
 
+[https://www.youtube.com/shorts/cmGCbphasXo](https://www.youtube.com/shorts/cmGCbphasXo)
+
+Need a bigger food processor!
+
 ## Ingredients
 
-1. BASE: Blend for 1 minute:
-    - NOTE: Only thing done separately, makes smoother vs grainier
-    - 1/4 cup lemon juice (aka 1 large lemon)
-    - 1/4 cup tahini (sesame paste)
-        - Just blend 1/2 cup seeds... same thing homie
-2. FLAVORS: Blend for 30 more seconds:
-    - 1+ clove garlic minced
-    - 2 tablespoons extra virign olive oil
-    - 1/2+ teaspoon salt
-3. CHICKPEAS: Blend for 1 more minute:
-    - 1 can (15 oz) chickpeas (garbanzo beans), drained and rinsed
-        - or ~1.5 cups cooked chickpeas
-4. TEXTURE: Add slowly while blending:
-    - 2-4 cups water
+1. 1/4 cup lemon juice (1 large lemon)
+2. 1/4 cup tahini or 1/2 sesame seeds
+3. 1 can (15oz) or 1.5 cooked cups chickpeas
+4. 2 tablespoons extra vergin olive oil
+5. 2-4 cups water
+    - slowly add while blending
+6. 1/2+ teaspoon salt
+
+## Extra Flavors
+
+1. 1+ clove garlic 
+2. 1/2 teaspoon ground cumin
+
+## Garnish
+
+- Paprika
+- Parsley
+- Olive Oil
+
+Note: add backing soda to boiling chickpeas to make softer/cook faster
+
+- people remove skin for smoother texture
 
 ## Optional Ingredients
 
-- 1/2 teaspoon ground cumin
-    - Add during step 2
 - Roasted Veggies
     - red peppers
     - carrots
