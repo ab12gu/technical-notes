@@ -55,6 +55,13 @@ Optional fry an drizzle on top:
     - optional soak 1-2 teabags in it
 - use cooked liquid as broth
 
+To flavor beans when boiling:
+
+- 1-2 bay leaves
+- cinnamon stick
+- black cardamon
+- salt
+
 Beans contain sugars called `raffinose-family oligosaccharides` (raffinose, stachyose, verbascose)
 
 - humans cant digest these sugars, so produces gas
