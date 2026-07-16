@@ -1,5 +1,7 @@
 # Socks
 
+It seems it is very hard to get pure cotton socks or at least just with a little spandex. The issue (from what I understand) isn't the cost savings from using polyester/nylon, is that it will last longer! Nylon will help it stay stronger and polyester wicks moisture faster/dries faster.
+
 Been mostly wearing: [Gold Toe Socks](https://en.wikipedia.org/wiki/Gold_Toe_Brands)
 
 - Been around since 1919
@@ -7,10 +9,14 @@ Been mostly wearing: [Gold Toe Socks](https://en.wikipedia.org/wiki/Gold_Toe_Bra
 - $20 for 5 pairs, $4 a pair
 - Material: 74% Combed Cotton, 17% Polyester, 6% Nylon, 3% Spandex
 
-
 Also have some Fruit n Loom & Uniqulo socks. 
 
 ## Want to try
+
+- [Uniqulo](https://www.uniqlo.com/us/en/products/E471947-000/00?colorDisplayCode=69&sizeDisplayCode=027)
+- 
+
+
 
 Bombas
 
