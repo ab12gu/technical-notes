@@ -2,14 +2,14 @@
 
 ## Spices to buy:
 
-- Paprika
 - Sumac
 
 ## Recipes to add:
 
 - Cauliflower
 - Cabbage
-- buddist chef - satan pucks (rec from Charcol eastvan polo)
+- Seitan, [https://thebuddhistchef.com/recipe/seitan/](https://thebuddhistchef.com/recipe/seitan/)
+    - recommended from Charcol in eastvan polo
 
 ## TOADD
 
