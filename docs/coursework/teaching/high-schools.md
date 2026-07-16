@@ -1,4 +1,4 @@
-# Schools
+# High Schools
 
 For UW-ACT, you need to teach at public, charter, or independent schools. 
 
@@ -41,23 +41,10 @@ There are summer math teachers for $8,000 for 1/2 day for 5 weeks. Robotics and 
 
 - [Rainier Valley Leadership](https://www.myrvla.org/careers.html)
     - needs cert
-- [Summit](
+- [Summit](https://summitps.org/)
     - sub, will support to get cert [link](https://summitps.org/join-our-team/apply-now/?jobId=F7FEEC21-3953-25C3-4BC7-50BAFEC556D3)
         - sub cert req
         - $25 per hour
     - teaching cred req for real subjects
-
-## College
-
-- [Bellevue College](https://hcprd.ctclink.us/psc/tam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=80&JobOpeningId=10856&PostingSeq=1)
-    - $7k , 1 course math
-    - [Physics](https://hcprd.ctclink.us/psc/tam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=80&JobOpeningId=15369&PostingSeq=1)
-- CC part time pool, math
-    - [Part-Time Faculty Pool - Mathematics Instructor](https://hcprd.ctclink.us/psc/tam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=60&JobOpeningId=14945&PostingSeq=1)
-    - $8k per course
-- [Seattle Community Colleges](https://hcprd.ctclink.us/psc/tam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB_FL&Action=U)
-    - Pays roughly $100,000+ 
-
-
 
 
