@@ -1,0 +1,58 @@
+# Community College Classes
+
+- [Seattle Central Course Schedule](https://csprd.ctclink.us/psp/csprd/EMPLOYEE/PSFT_CS/s/WEBLIB_HCX_CM.H_CLASS_SEARCH.FieldFormula.IScript_Main?institution=WA062)
+    - Apparel Classes
+        - Apparel Manufacturing | APPRL 130
+            - Once a week + lab
+        - Computer Applications for Apparel Design 1 | APPRL 151
+            - Once a week
+        - Ready-To-Wear Construction | APPRL 201
+            - Once a week - 6 hrs?! + lab
+        - Pattern Design for Ready-To-Wear | APPRL 211
+            - once a week - 6hrs + lab
+        - Pattern Grading | APPRL 221
+            - once a week - 6hrs + lab
+    - Design Courses
+        - Design | ART 101
+            - once a week + lab
+        - Drawing | ART 111
+            - once a week + lab
+        - Introduction to Digital Photography I | ART 114
+            - 2ce a week + lab
+        - Painting | ART 201
+            - once a week + lab
+        - Art Appreciation | ART& 100
+        - Graphic Design I | DES 131
+            - requires department permission
+    - Cooking
+        - Baking Theory I: Introductory Principles | BAK 101
+        - Introduction to Lacto Fermentation | BAK 117 
+    - Biology
+        - Survey of Human Anatomy & Physiology W/ Lab | BIOL 128
+    - Business
+        - Introduction to Communication | CMST& 101
+            - 2ce a week
+        - Public Speaking | CMST& 220
+            - 2ce a week
+        - Acting | DRMA 121
+    - Cooking
+        - Introduction to Culinary Arts: Practicum | CUL 116
+            - Rotate into a different kitchen each day and prepare a variety of dishes in each area
+    - Machines
+        - QMED: Diesel Engines | MTS 263
+            - once a week + lab, dep permission
+    - Music
+        - Computer Music and Recording | MUSC 185
+            - once a week, online
+        - Digital Music Production and Song Writing | MUSC 186
+            - once a week, online
+        - Music Theory I | MUSC& 141
+            - once a week, online
+    - Excercise
+        - Yoga | PEC 136
+            - online, once a week
+    - Camera
+        - Lighting Techniques I | VME 120
+        - Audio Production I | VME 245
+            
+

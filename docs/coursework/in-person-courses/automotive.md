@@ -1,6 +1,19 @@
-# In-person Courses
+# Automotive Colleges
 
-## Automotive Colleges
+[South Seattle College](https://southseattle.edu/areas-study/skilled-trades-technical-training)
+
+- West Seattle; bikeable!
+- Programs:
+    - Apprenticeship Training Programs
+    - Automotive Technology
+    - Aviation Maintenance Technology
+    - Diesel and Heavy Equipment Technology
+    - Landscape Horticulture
+    - Manufacturing Academy
+    - Maritime Shipyard Welding
+    - Multi-Occupational Trades (MOT)
+    - Multi-Occupational Trades Engineering and Technology (MOET)
+    - Welding Fabrication Technology
 
 [Lake Washington Tech](https://www.lwtech.edu/index.aspx)
 
