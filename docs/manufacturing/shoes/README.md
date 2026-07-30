@@ -22,3 +22,7 @@ Rivet in sandals:
 - [https://www.urbanoutfitters.com/shop/suicoke-john-elliott-edition-kipa-sandals](https://www.urbanoutfitters.com/shop/suicoke-john-elliott-edition-kipa-sandals)
 
 ![](https://editorialist.com/web/2021/4/014/126/812/14126812~black_0.jpg)
+
+Birk, strapped clogs
+
+[https://www.birkenstock.com/us/tokio-suede-leather/tokio-265588-suedeleather-0-eva-u_27.html](https://www.birkenstock.com/us/tokio-suede-leather/tokio-265588-suedeleather-0-eva-u_27.html)
