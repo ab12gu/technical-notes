@@ -26,12 +26,15 @@
 
 ## Local 
 
+- Dancing
+    - Beginner Salsa for Couples $300, 4 weeks
+    - [https://www.salsacontodo.com/4-week-series-classes](https://www.salsacontodo.com/4-week-series-classes)
 - Roller skating
     - Recommended by Ivy
     - Bowl & Skate Lynnwood, [bowlandskate.com](https://www.bowlandskate.com/hours)
         - Mon       |  11am-2pm | $15 Admission | $3 Skate Rental
-        - Tues      |  Beg 6pm-8pm, 18+ 8:30pm-11pm | $8 admission
-        - Wed/Thurs |  Beg 6pm-8pm, 18+ 8:30pm-11:00pm | $8 admission
+        - Tues      |  Beg 6pm-8pm, 18+ 8:30pm-11pm 
+        - Wed/Thurs |  Beg 6pm-8pm, 18+ 8:30pm-11:00pm 
     - El Centro, Federal Way, [elcentroskaterink.com/](https://www.elcentroskaterink.com/skate-schedule)
         - Daytime Skating @ on Wed/Thurs
         - Mon, $7, 8-10:30p
