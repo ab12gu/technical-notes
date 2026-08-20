@@ -31001,7 +31001,7 @@
 <p>Create our <code>init.lua</code> file <a href="https://neovim.io/doc/user/lua-guide.html#lua-guide-config">https://neovim.io/doc/user/lua-guide.html#lua-guide-config</a></p>
 <ol>
 <li>Check if one is already exists
-<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>:echo<span class="w"> </span>stdpath<span class="o">(</span><span class="s1">&#39;config&#39;</span><span class="o">)</span>
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>:echo<span class="w"> </span>stdpath<span class="o">(</span><span class="s1">'config'</span><span class="o">)</span>
 </code></pre></div></li>
 <li>Install <a href="https://www.lazyvim.org/">lazy.vim</a> our package manager<ul>
 <li>custom theme settings for <code>nvim</code></li>
@@ -31013,11 +31013,11 @@ Commands Docs: <a href="https://neovim.io/doc/user/lua-guide/#lua-guide-vim-comm
 $<span class="w"> </span>:colorscheme<span class="w"> </span><span class="o">(</span>torte<span class="o">)</span>
 
 <span class="c1"># Lua Script</span>
-$<span class="w"> </span>vim.cmd<span class="o">(</span><span class="s2">&quot;colorscheme torte&quot;</span><span class="o">)</span><span class="w"> </span>
+$<span class="w"> </span>vim.cmd<span class="o">(</span><span class="s2">"colorscheme torte"</span><span class="o">)</span><span class="w"> </span>
 $<span class="w"> </span>vim.o.number<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nb">true</span>
 </code></pre></div></li>
 <li>Add plugins
-<div class="language-bash highlight"><pre><span></span><code>Treesitter<span class="w"> </span><span class="c1"># fancier syntax highlighting (cause some files aren&#39;t supported in nvim by default)</span>
+<div class="language-bash highlight"><pre><span></span><code>Treesitter<span class="w"> </span><span class="c1"># fancier syntax highlighting (cause some files aren't supported in nvim by default)</span>
 telescope.nvim
 </code></pre></div></li>
 </ol>
@@ -31028,10 +31028,10 @@ telescope.nvim
 <span class="p">:</span><span class="nv">vim</span><span class="p">.</span><span class="py">o</span><span class="p">.</span><span class="py">number</span><span class="w"> </span><span class="c1">-- directly in nvim</span>
 </code></pre></div>
 <p>To use other vim functions in lua</p>
-<div class="language-lua highlight"><pre><span></span><code><span class="nv">vim</span><span class="p">.</span><span class="py">api</span><span class="p">.</span><span class="nf">nvim_set_hl</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="s2">&quot;LineNr&quot;</span><span class="p">,</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">ctermfg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;LightBlue&quot;</span><span class="p">,</span><span class="w"> </span><span class="p">})</span>
+<div class="language-lua highlight"><pre><span></span><code><span class="nv">vim</span><span class="p">.</span><span class="py">api</span><span class="p">.</span><span class="nf">nvim_set_hl</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="s2">"LineNr"</span><span class="p">,</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nv">ctermfg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"LightBlue"</span><span class="p">,</span><span class="w"> </span><span class="p">})</span>
 </code></pre></div>
 <p>The vim.cmd runs vimscript rather than lua in-built functions, so its slower</p>
-<div class="language-lua highlight"><pre><span></span><code><span class="nv">vim</span><span class="p">.</span><span class="nf">cmd</span><span class="p">(</span><span class="s2">&quot;colorscheme elflord&quot;</span><span class="p">)</span>
+<div class="language-lua highlight"><pre><span></span><code><span class="nv">vim</span><span class="p">.</span><span class="nf">cmd</span><span class="p">(</span><span class="s2">"colorscheme elflord"</span><span class="p">)</span>
 <span class="nv">vim</span><span class="p">.</span><span class="py">cmd</span><span class="p">.</span><span class="nf">colorscheme</span><span class="p">(</span><span class="nv">elflord</span><span class="p">)</span><span class="w"> </span><span class="c1">-- same as above</span>
 </code></pre></div>
 

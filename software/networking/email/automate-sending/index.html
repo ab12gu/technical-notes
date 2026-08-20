@@ -30996,7 +30996,7 @@
 
 <h1 id="automate-sending">Automate Sending</h1>
 <div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>import<span class="w"> </span>smtplib
-$<span class="w"> </span><span class="nv">smtp</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>smtplib.SMTP<span class="o">(</span><span class="s1">&#39;smtp.gmail.com&#39;</span>,<span class="w"> </span><span class="m">587</span><span class="o">)</span>
+$<span class="w"> </span><span class="nv">smtp</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>smtplib.SMTP<span class="o">(</span><span class="s1">'smtp.gmail.com'</span>,<span class="w"> </span><span class="m">587</span><span class="o">)</span>
 $<span class="w"> </span>smtp.ehlo<span class="o">()</span>
 $<span class="w"> </span>smtp.ttls<span class="o">()</span><span class="w"> </span><span class="c1"># create secure connection</span>
 </code></pre></div>
@@ -31004,8 +31004,8 @@ $<span class="w"> </span>smtp.ttls<span class="o">()</span><span class="w"> </sp
 <span class="c1"># Create app password (same username)</span>
 <span class="c1"># https://support.google.com/mail/?p=InvalidSecondFactor</span>
 </code></pre></div>
-<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>smtpObj.login<span class="o">(</span><span class="s1">&#39;ab18gu@gmail.com&#39;</span>,<span class="w"> </span><span class="s1">&#39;&lt;app-password&gt;&#39;</span><span class="o">)</span>
-$<span class="w"> </span>smtpObj.sendmail<span class="o">(</span><span class="s1">&#39;ab18gu@gmail.com&#39;</span>,<span class="w"> </span><span class="s1">&#39;you@gmail.com&#39;</span>,<span class="w"> </span><span class="s1">&#39;Subject: This is automated\nweird...&#39;</span><span class="o">)</span>
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>smtpObj.login<span class="o">(</span><span class="s1">'ab18gu@gmail.com'</span>,<span class="w"> </span><span class="s1">'&lt;app-password&gt;'</span><span class="o">)</span>
+$<span class="w"> </span>smtpObj.sendmail<span class="o">(</span><span class="s1">'ab18gu@gmail.com'</span>,<span class="w"> </span><span class="s1">'you@gmail.com'</span>,<span class="w"> </span><span class="s1">'Subject: This is automated\nweird...'</span><span class="o">)</span>
 $<span class="w"> </span>smtpObj.quit<span class="o">()</span>
 </code></pre></div>
 <h2 id="gmail">GMAIL</h2>

@@ -31165,7 +31165,7 @@ $<span class="w"> </span>uv<span class="w"> </span>init
 $<span class="w"> </span>mv<span class="w"> </span>main.py<span class="w"> </span>&lt;project-name&gt;.py
 $<span class="w"> </span>uv<span class="w"> </span>venv<span class="w"> </span>.venv
 $<span class="w"> </span>uv<span class="w"> </span>add<span class="w"> </span>ocp-vscode
-$<span class="w"> </span>uv<span class="w"> </span>add<span class="w"> </span>ocp-vscode<span class="o">==</span><span class="m">3</span>.0.0<span class="w"> </span><span class="c1"># for some reason 3.0.1 (latest) wasn&#39;t working</span>
+$<span class="w"> </span>uv<span class="w"> </span>add<span class="w"> </span>ocp-vscode<span class="o">==</span><span class="m">3</span>.0.0<span class="w"> </span><span class="c1"># for some reason 3.0.1 (latest) wasn't working</span>
 $<span class="w"> </span>uv<span class="w"> </span>add<span class="w"> </span>build123d
 </code></pre></div>
 <p>Activate existing project</p>
@@ -31213,7 +31213,7 @@ When exporting to external formats like STL or STEP the units are assumed to be 
 <span class="n">animation</span> <span class="o">=</span> <span class="n">Animation</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">part</span><span class="p">)</span>
 <span class="n">times</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">11</span><span class="p">)</span> <span class="c1"># 2 seconds split in 0.2 intervals</span>
 <span class="n">values</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">360</span><span class="p">,</span> <span class="mi">11</span><span class="p">)</span> <span class="c1"># as many positions as times</span>
-<span class="n">animation</span><span class="o">.</span><span class="n">add_track</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;/Group&quot;</span><span class="p">,</span> <span class="s2">&quot;rz&quot;</span><span class="p">,</span> <span class="n">times</span><span class="p">,</span> <span class="n">values</span><span class="p">)</span> <span class="c1"># animate the group </span>
+<span class="n">animation</span><span class="o">.</span><span class="n">add_track</span><span class="p">(</span><span class="sa">f</span><span class="s2">"/Group"</span><span class="p">,</span> <span class="s2">"rz"</span><span class="p">,</span> <span class="n">times</span><span class="p">,</span> <span class="n">values</span><span class="p">)</span> <span class="c1"># animate the group </span>
 
 <span class="n">show</span><span class="p">(</span><span class="n">p</span><span class="p">)</span>
 <span class="n">animation</span><span class="o">.</span><span class="n">animate</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>

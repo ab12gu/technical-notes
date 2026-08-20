@@ -31215,9 +31215,9 @@
 </ul>
 <p>Solution: Host on some online server or build your own server</p>
 <h2 id="remove-files-from-git-lfs">Remove files from Git LFS</h2>
-<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>migrate<span class="w"> </span><span class="nb">export</span><span class="w"> </span>--everything<span class="w"> </span>--include<span class="o">=</span><span class="s2">&quot;*&quot;</span>
+<div class="language-bash highlight"><pre><span></span><code>$<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>migrate<span class="w"> </span><span class="nb">export</span><span class="w"> </span>--everything<span class="w"> </span>--include<span class="o">=</span><span class="s2">"*"</span>
 $<span class="w"> </span>git<span class="w"> </span>rm<span class="w"> </span>.gitattributes
-$<span class="w"> </span>git<span class="w"> </span>commit<span class="w"> </span>-m<span class="w"> </span><span class="s2">&quot;Remove Git LFS tracking&quot;</span>
+$<span class="w"> </span>git<span class="w"> </span>commit<span class="w"> </span>-m<span class="w"> </span><span class="s2">"Remove Git LFS tracking"</span>
 $<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>uninstall
 $<span class="w"> </span>git<span class="w"> </span>push<span class="w"> </span>--force<span class="w"> </span>--all
 $<span class="w"> </span>git<span class="w"> </span>push<span class="w"> </span>--force<span class="w"> </span>--tags
@@ -31248,8 +31248,8 @@ $<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>i
 <span class="c1"># Go to repo</span>
 
 <span class="c1"># Make sure you are in root of repo</span>
-$<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>track<span class="w"> </span><span class="s2">&quot;*.psd&quot;</span><span class="w"> </span><span class="c1">## Track file or file types</span>
-&gt;<span class="w"> </span>Tracking<span class="w"> </span><span class="s2">&quot;*.psd&quot;</span><span class="w"> </span>
+$<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>track<span class="w"> </span><span class="s2">"*.psd"</span><span class="w"> </span><span class="c1">## Track file or file types</span>
+&gt;<span class="w"> </span>Tracking<span class="w"> </span><span class="s2">"*.psd"</span><span class="w"> </span>
 
 <span class="c1"># Remove file from cache</span>
 $<span class="w"> </span>git<span class="w"> </span>rm<span class="w"> </span>--cached<span class="w"> </span>filename.ext
@@ -31257,7 +31257,7 @@ $<span class="w"> </span>git<span class="w"> </span>rm<span class="w"> </span>--
 <p>The file <code>.gitattributes</code> specifies all files that are tracked in LFS storage.</p>
 <h2 id="remove-tracked-files-from-commit-history">Remove tracked files from commit history</h2>
 <div class="language-bash highlight"><pre><span></span><code><span class="c1"># From Attlassian support referenced above</span>
-$<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>migrate<span class="w"> </span>import<span class="w"> </span>--include<span class="o">=</span><span class="s2">&quot;*.png,*.jpg&quot;</span><span class="w"> </span>everything<span class="w"> </span><span class="c1"># Removes artifacts of files in git history</span>
+$<span class="w"> </span>git<span class="w"> </span>lfs<span class="w"> </span>migrate<span class="w"> </span>import<span class="w"> </span>--include<span class="o">=</span><span class="s2">"*.png,*.jpg"</span><span class="w"> </span>everything<span class="w"> </span><span class="c1"># Removes artifacts of files in git history</span>
 $<span class="w"> </span>git<span class="w"> </span>push<span class="w"> </span>--force
 </code></pre></div>
 <p>This will change all your historical commits to reference the LFS version of the file :). </p>

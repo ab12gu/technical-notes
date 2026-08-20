@@ -31095,20 +31095,20 @@ $<span class="w"> </span>vim<span class="w"> </span>.<span class="w"> </span>
 </code></pre></div>
 <h3 id="installation">Installation</h3>
 <p>Add lines in <code>init.lua</code>:</p>
-<div class="language-lua highlight"><pre><span></span><code><span class="c1">-- now you can call require(&quot;lazy&quot;)</span>
-<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;lazy&quot;</span><span class="p">).</span><span class="nf">setup</span><span class="p">({</span>
+<div class="language-lua highlight"><pre><span></span><code><span class="c1">-- now you can call require("lazy")</span>
+<span class="nb">require</span><span class="p">(</span><span class="s2">"lazy"</span><span class="p">).</span><span class="nf">setup</span><span class="p">({</span>
 <span class="w">  </span><span class="c1">-- list your plugins here, e.g., nvim-treesitter</span>
 <span class="w">  </span><span class="c1">--</span>
-<span class="w">  </span><span class="p">{</span><span class="s2">&quot;nvim-treesitter/nvim-treesitter&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;master&#39;</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="nv">build</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;:TSUpdate&quot;</span><span class="p">},</span>
-<span class="w">  </span><span class="p">{</span><span class="s2">&quot;nvim-tree/nvim-tree.lua&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">&#39;master&#39;</span><span class="p">,</span><span class="w"> </span><span class="nv">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;*&quot;</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="p">},</span>
+<span class="w">  </span><span class="p">{</span><span class="s2">"nvim-treesitter/nvim-treesitter"</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'master'</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="nv">build</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">":TSUpdate"</span><span class="p">},</span>
+<span class="w">  </span><span class="p">{</span><span class="s2">"nvim-tree/nvim-tree.lua"</span><span class="p">,</span><span class="w"> </span><span class="nv">branch</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s1">'master'</span><span class="p">,</span><span class="w"> </span><span class="nv">version</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"*"</span><span class="p">,</span><span class="w"> </span><span class="nv">lazy</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w"> </span><span class="p">},</span>
 <span class="p">})</span>
 
-<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;nvim-treesitter.configs&quot;</span><span class="p">).</span><span class="nv">setup</span><span class="w"> </span><span class="p">{</span>
-<span class="w">    </span><span class="nv">ensure_installed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="s2">&quot;tsx&quot;</span><span class="p">},</span>
+<span class="nb">require</span><span class="p">(</span><span class="s2">"nvim-treesitter.configs"</span><span class="p">).</span><span class="nv">setup</span><span class="w"> </span><span class="p">{</span>
+<span class="w">    </span><span class="nv">ensure_installed</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="s2">"tsx"</span><span class="p">},</span>
 <span class="w">    </span><span class="nv">highlight</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="nv">enable</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="kc">true</span><span class="w"> </span><span class="p">},</span>
 <span class="p">}</span><span class="w">    </span>
 
-<span class="nb">require</span><span class="p">(</span><span class="s2">&quot;nvim-tree&quot;</span><span class="p">).</span><span class="nv">setup</span><span class="w"> </span><span class="p">{}</span>
+<span class="nb">require</span><span class="p">(</span><span class="s2">"nvim-tree"</span><span class="p">).</span><span class="nv">setup</span><span class="w"> </span><span class="p">{}</span>
 </code></pre></div>
 
 
