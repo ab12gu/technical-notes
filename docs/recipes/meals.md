@@ -16,6 +16,7 @@
     - berries
 5. Black Beans 
     - switch beans up
+    - bean/cheese burritos
 6. Salads
     - Tuna
 7. Edamame Pasta
@@ -43,3 +44,8 @@
     - Cook like ground goat
         - leave in salt for a 30 min
         - fry with cumin powder, garlic, onion
+14. Try Seitan/Besan Patties
+15. Palak/chana
+16. Rajma
+    - kidney beans
+
