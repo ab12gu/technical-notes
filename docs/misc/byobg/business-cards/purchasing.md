@@ -11,5 +11,5 @@
 - [Fedex](https://www.office.fedex.com/default/business-cards)
     - $0.15 -> $0.18 each
 - [Staples](https://www.staplesadvantage.com/full-color-flat-standard-business-card-1-sided-uncoated-white-14pt-1000-box/product_24645627)
-    - 1000 for #32
+    - 1000 for $32
 
