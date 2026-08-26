@@ -2,6 +2,10 @@
 
 Just a list of recipes I make, will try to make, have made at one point, or will never make...
 
+## To Buy
+
+- Basket hanging on top of island for sweet potato/garlic/bananas
+
 ## 5 Human Taste Receptors
 
 1. Sweet
