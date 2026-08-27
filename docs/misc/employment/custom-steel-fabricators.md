@@ -50,4 +50,30 @@ Allied steeel fab
 
 Too Busy:  - https://www.alliedsteelfab.com/
 
+## Initial Meeting
 
+yeti design making
+
+oci visa india
+
+olson kundig
+shultz miller
+
+trimble - tekla fab suite power fab software used by custom fabricator
+
+allplan sds steel genie
+
+sketchdeck ai - converts beams to parts
+
+Ownership of the software company or a revenue royalty after development costs are recovered
+
+25%-50% equity
+10-20% royalties
+
+el camino frames
+shots and sprokets
+pratt welding school
+
+wed sailing circles lake union
+
+shovel research - portland -  chris king parts
