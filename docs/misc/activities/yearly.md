@@ -28,3 +28,12 @@
 - 12 hour drive from Seattle
 - 6 hour drive from San Jose
 - [https://burningman.org/](https://burningman.org/)
+
+## Critical NW
+
+- Local Burning Man
+- [https://criticalnw.org/](https://criticalnw.org/)
+- July 13-19, 2026
+- Leads retreat will be in April or May at the Critical NW site
+    - 6+ months with meetings every other week over Google Meet
+
