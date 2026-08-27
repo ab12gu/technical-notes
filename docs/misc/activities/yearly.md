@@ -37,3 +37,14 @@
 - Leads retreat will be in April or May at the Critical NW site
     - 6+ months with meetings every other week over Google Meet
 
+## Bike Swap
+
+- Cheap bikes in seattle center 
+- juneish timeframe
+
+## Deadbaby Downhill
+
+- midaugust
+- frankenstein bikes/bmx/race/bike polo
+- 7pm - midnight
+- georgetown
