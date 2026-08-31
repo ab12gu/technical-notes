@@ -27,6 +27,7 @@ There are summer math teachers for $8,000 for 1/2 day for 5 weeks. Robotics and 
     - $180k for director of athletics!
 - [Bush School, independent](https://thebushschool.hire.trakstar.com/)
     - Summer geometry teacher
+    - [Substitute Teacher](https://www.bush.edu/about-bush/employment#op-559593-substitute-and-temporary-school-position)
 - University Prep, Independent
     - [Math 2026-7](https://www.paycomonline.net/v4/ats/web.php/portal/1A98E41FF07E1ECA0C183B470F9B6784/jobs/258085)
     - Roosevelt area
