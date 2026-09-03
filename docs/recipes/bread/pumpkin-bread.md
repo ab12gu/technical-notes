@@ -27,6 +27,11 @@ Wet Ingredients
     - Puree in blender or food processor
 
 
+## Types of Pumpkin
+
+- Kabocha - sweetest, so can use less
+- Carving pumkins are bland
+- Orange eating pumpkins are fine!
 
 
 
