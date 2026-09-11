@@ -21,4 +21,9 @@ Example of wood vaneer on bike:
 
 - [https://www.instagram.com/p/DY7n8pvINtQ/](https://www.instagram.com/p/DY7n8pvINtQ/)
 
+### Purchasing
 
+- [https://www.woodcraft.com/collections/wood-veneer-supplies](https://www.woodcraft.com/collections/wood-veneer-supplies)
+    - Georgetown
+    - a few pieces paper size for $10
+- Amazon
