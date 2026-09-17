@@ -23,3 +23,5 @@ There must be a wholesaler somewhere because you can get multiple for cheaper
 
 - [https://jugglingwholesale.com/juggling-clubs/3283-kt-5club-strap.html](https://jugglingwholesale.com/juggling-clubs/3283-kt-5club-strap.html)
 - [https://www.etsy.com/listing/1686136457/3-clubs-strap-green?](https://www.etsy.com/listing/1686136457/3-clubs-strap-green?)
+- [https://www.metaestheticdesigns.com/product-page/universal-prop-strap](https://www.metaestheticdesigns.com/product-page/universal-prop-strap)
+    - Elliott's strap
