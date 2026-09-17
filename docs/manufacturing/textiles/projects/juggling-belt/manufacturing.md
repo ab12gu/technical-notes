@@ -18,3 +18,8 @@ Options:
 Roughly $5 for a single
 
 There must be a wholesaler somewhere because you can get multiple for cheaper
+
+## Existing Market
+
+- [https://jugglingwholesale.com/juggling-clubs/3283-kt-5club-strap.html](https://jugglingwholesale.com/juggling-clubs/3283-kt-5club-strap.html)
+- [https://www.etsy.com/listing/1686136457/3-clubs-strap-green?](https://www.etsy.com/listing/1686136457/3-clubs-strap-green?)
