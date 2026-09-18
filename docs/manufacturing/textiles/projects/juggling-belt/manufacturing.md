@@ -25,3 +25,7 @@ There must be a wholesaler somewhere because you can get multiple for cheaper
 - [https://www.etsy.com/listing/1686136457/3-clubs-strap-green?](https://www.etsy.com/listing/1686136457/3-clubs-strap-green?)
 - [https://www.metaestheticdesigns.com/product-page/universal-prop-strap](https://www.metaestheticdesigns.com/product-page/universal-prop-strap)
     - Elliott's strap
+    - $140
+- [https://www.circus-expert.com/strap-for-5-juggling-clubs.html](https://www.circus-expert.com/strap-for-5-juggling-clubs.html)
+    - Strap for 5 juggling clubs 
+    - $6
