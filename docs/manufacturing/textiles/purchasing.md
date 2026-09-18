@@ -7,4 +7,11 @@
     - [Seattle Fabrics](https://www.seattlefabrics.com/)
     - recommended by Elizabeth
 
+## Leather
 
+Tandy Leather
+
+- across the states
+- [https://maps.app.goo.gl/MDYnPBHzfMjaQcxE7](https://maps.app.goo.gl/MDYnPBHzfMjaQcxE7)
+    - Shoreline
+    - 25 minute drive
