@@ -2,6 +2,8 @@
 
 [https://www.youtube.com/watch?v=jRt_j6d7pAQ](https://www.youtube.com/watch?v=jRt_j6d7pAQ)
 
+![](https://www.myplantifulcooking.com/wp-content/uploads/2023/08/eggplant-stir-fry-plate.jpg){:style="width: 300px"}
+
 1. Chop eggplant
 2. Soak Eggplant in Salt
 3. Drain, sprinkle cornstarch
