@@ -9,9 +9,9 @@ level: classified
 ![alt text](images/pucks-v1/top.jpeg){width="300"}
 ![alt text](images/pucks-v1/bottom.jpeg){width="300"}
 ![alt text](images/pucks-v1/inside.jpeg){width="300"}
+![alt text](images/pucks-v1/side.jpeg){width="300"}
 ![alt text](images/pucks-v1/side-competitor.jpeg){width="300"}
 ![alt text](images/pucks-v1/side-competitor2.jpeg){width="300"}
-![alt text](images/pucks-v1/side.jpeg){width="300"}
 ![alt text](images/pucks-v1/side2.jpeg){width="300"}
 ![alt text](images/pucks-v1/side-solid.jpeg){width="300"}
 

@@ -14,14 +14,15 @@ Semi-tubular rivets (also known as tubular rivets) are essentially the same as s
 - [ytb short - semitubular punch install](https://www.youtube.com/shorts/fKvkP3poVog)
 - [ytb short - cross-section video punch](https://www.youtube.com/watch?v=I40ISVkF08s)
 
-![alt text](images/semi-tubular-rivets.png){width="300"}
-![alt text](images/punch.png){width="280"}
+![alt text](../images/tools/semi-tubular-rivets.png){width="300"}
+![alt text](../images/tools/punch.png){width="280"}
+![alt text](../images/tools/screw.png){width="350"}
 
 ### Videos
 
 - [Good rivet tutorial](https://www.youtube.com/watch?v=ZyWqWJKAV6k)
 - [Punch method - rivets](https://www.youtube.com/watch?v=uh4oUxCzVbw)
-    - https://www.youtube.com/shorts/fKvkP3poVog
+    - [https://www.youtube.com/shorts/fKvkP3poVog](https://www.youtube.com/shorts/fKvkP3poVog)
 - [ytb -  How To Use A Riveter or Rivet Gun - Ace Hardware - 4min](https://www.youtube.com/watch?v=yW3k3_sbkyc)
 - [ytb - push rivet - 1min](https://www.youtube.com/watch?v=2uxTrkzf6SE)
 - [ytb -  A Step-By-Step Guide on How to Use POP Rivets | Fasteners 101 - 14min](https://www.youtube.com/watch?v=1G8lGECOe1U) 
