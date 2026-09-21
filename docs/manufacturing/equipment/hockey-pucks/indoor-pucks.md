@@ -2,7 +2,7 @@
 
 Short cylinder made of vulcanized rubber
 
-![indoor puck](images/indoor-puck.png)
+![indoor puck](images/indoor-puck/indoor-puck.png)
 
 A standard ice hockey puck is:
 

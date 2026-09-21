@@ -1,6 +1,8 @@
+---
+level: classified
+---
+
 # Purchasing
-
-
 
 ## Rivets
 
