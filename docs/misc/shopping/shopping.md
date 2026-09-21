@@ -1,7 +1,4 @@
-# Shopping
-
-
-## Clothing
+# Blank Tees
 
 [https://www.bellacanvas.com/](https://www.bellacanvas.com/)
 
@@ -11,12 +8,6 @@
 - Cotton shrinks and loses shape, but breathable
 - $5 -> $10
 
-Goth Jacket
-
-- Black/white w/ white Snakes
-- Killstar brand
-- NYX in caphill
-
 [gilden.com](https://www.gildan.com/us/en/)
 
 - Unsure of quality... I've just seen graphic tees use this brand
@@ -25,18 +16,3 @@ Goth Jacket
     - [6oz/yd^2, 100% ring spun cotton long sleeve tee](https://www.gildan.com/us/en/2400-adult-long-sleeve-t-shirt-en_us/?color=025)
     - [6oz/yd^2, 100% ring spun cotton long sleeve tee](https://www.gildan.com/us/en/2400-adult-long-sleeve-t-shirt-en_us/?color=025)
 
-## Bike
-
-Bike Saddle
-
-- Aliexpress
-- 3d printed, rec from Riley
-
-
-## Appliances
-
-- handheld vacuum
-
-## Books
-
-- Hardware Hacking Book

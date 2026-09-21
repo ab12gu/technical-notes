@@ -14,4 +14,6 @@ This is a monthly meetup run by Ben for decades? where he covers methods of hack
 - [Seattle Makers summary of hardware hacking meetup](https://seattlemakers.org/events/hardware-hacking-meetup-3/)
 - [Meetup.com page fo Hardware Hacking Meetup](https://www.meetup.com/symbol-crash-proper-hacker-training/)
 
+## Books
 
+- [https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded/dp/1593278748?](https://www.amazon.com/Hardware-Hacking-Handbook-Breaking-Embedded/dp/1593278748?)
