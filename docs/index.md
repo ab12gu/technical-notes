@@ -36,4 +36,6 @@ Published via [github](https://github.com/ab12gu/technical-notes)
 - [pebbleproducts.com](https://pebbleproducts.com)
 - [206bikepolo.com](https://206bikepolo.com)
 - [eggdrop.github.io/](https://eggdrop.github.io/)
+<!--
 - [hannahiscool.com/](https://hannahiscool.com)
+-->
