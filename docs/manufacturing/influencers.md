@@ -1,6 +1,6 @@
 # Influencers
 
-- [https://www.instagram.com/kporter_stuff/](https://www.instagram.com/kporter_stuff/]
+- [https://www.instagram.com/kporter_stuff/](https://www.instagram.com/kporter_stuff/)
     - Haven't really watched but talkes about mechanical design of bolts/parts
 - [https://www.instagram.com/vilalaseroficial/](https://www.instagram.com/vilalaseroficial/)
     - high resolution laser cleaning rust
@@ -21,3 +21,16 @@
 - [https://www.instagram.com/trippforrester33/](https://www.instagram.com/trippforrester33/)
     - Doesn't look in mirror, nice aesthetic
 
+## Youtube Engineering
+
+Recommended on reddit
+
+- BPS.Space (probably the closest thing to Stuff Made Here)
+- Integza (all things rockets)
+- Breaking Taps (a bit more serious)
+- Styropyro (crazy laser projects)
+- Tom Stanton
+- Air Project
+- The Thought Emporium
+- NileRed / NileBlue (weird chemistry experiments)
+- Applied Science (Ben Krasnow)
