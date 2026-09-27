@@ -1,14 +1,23 @@
 # Archery
 
+## General
+
 - Connor & Sarah & Alex Ross want to go 
+
+Kirkland - [https://www.championarcheryshootingclub.com/](https://www.championarcheryshootingclub.com/
+)
+
 - Sarah said there is a good one in Woodenville
-
-Kirkland - https://www.championarcheryshootingclub.com/
-
 - $25, 90 min weekend, all day weekday
 - 13.30, bow rental
 
-Hyperlinks
+## Current
+
+Go to Bremerton w/ Lorin/Kenny
+
+## Hyperlinks
+
+All the links below were just from googling... idk whats really good tho tbh
 
 - https://www.championarcheryshootingclub.com/post/price-list
 - https://www.yelp.com/biz/mays-custom-archery-puyallup
