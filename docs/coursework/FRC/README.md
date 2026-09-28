@@ -17,7 +17,11 @@ International high school robotics competition mentored by parents, teachers, an
 - [https://frctees.bs.run/](https://frctees.bs.run/)
     - [https://frctees.com/](https://frctees.com/)
     - Kid who graduated BREAD
-
+- [https://git.emeraldcityrobotics.org/chainlynx?](https://git.emeraldcityrobotics.org/chainlynx?)
+    - hosted by John at Roosevelt
+    - unsure why
+    - was down first time we used it!
+    
 <iframe 
     src="https://www.youtube.com/watch?v=vZot9cgPKjI">
 <\iframe>
