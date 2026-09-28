@@ -6,7 +6,7 @@ South Seattle
 - Monday through Thursday: 8 am to 4:30 pm
 - [6000 16th Avenue SW, RSB 40, Seattle, WA 98106](https://www.google.com/maps?q=South+Seattle+College)
 
-Scholarships
+## Scholarships
 
 [https://southseattle.edu/workforce-education/opportunity-grant-scholarship](https://southseattle.edu/workforce-education/opportunity-grant-scholarship)
 
