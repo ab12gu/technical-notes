@@ -18,3 +18,14 @@ Generally, you don't need to make designs from scratch, but you can use [KiCAD](
 - Heat Shrink, $3
 - Snap-on connectors (Wagu, aliexpress versions)
 
+## US Electronics Manufacturers
+
+Adafruit
+
+- NYC, NY
+- [https://www.adafruit.com/](https://www.adafruit.com/)
+
+Polulo 
+
+- Las Vegas, NV
+- [https://www.pololu.com/](https://www.pololu.com/)
