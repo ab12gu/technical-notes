@@ -6,12 +6,15 @@
 - TQI diet, just low inflammatory diet imo
 - Online and infrequent in person classes (from Vashon Island)
 
-
 [Bryan Johnson](https://en.wikipedia.org/wiki/Bryan_Johnson)
 
 - Kasi followed him first
 - I follow him too much
 - [https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol](https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-protocol)
 
+[David Sinclair](https://en.wikipedia.org/wiki/David_A._Sinclair)
 
+- Known for extracting polyphenols from plants
+    - debated if works (Resveratrol)
+- Promotes Fasting
 
