@@ -8,4 +8,5 @@
 - Pololu Corporation
     - Las Vegas, Nevada since 2002 and have about 60 employees as of April 2026
     - [https://www.pololu.com/about](https://www.pololu.com/about)
+- [https://github.com/ChainLynxRobotics/Romi-Projects](https://github.com/ChainLynxRobotics/Romi-Projects)
 

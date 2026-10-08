@@ -1,5 +1,13 @@
 # Software Training
 
+## Chainlynx
+
+- [Google Drive > Perennial Content > Controls Department > Controls Training](https://drive.google.com/drive/u/0/folders/1onI7GefoWQvptRPn_1U6qYVDsFaKOwPt)
+- [https://github.com/ChainLynxRobotics/Romi-Projects](https://github.com/ChainLynxRobotics/Romi-Projects)
+
+
+## General
+
 - [Physics Simulation with WPILib](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/physics-sim.html)
     - used a lot last year, plan on using again
 - [MapleSim](https://github.com/Shenzhen-Robotics-Alliance/maple-sim)
