@@ -12,6 +12,11 @@ Just bought a [Keychron K2 HE](https://www.bestbuy.com/product/keychron-k2-he-75
 - 75% keyboard
 - hall effect gateron double-rail magnetic switches
 - 2.4 Ghz adapter, bluetooth, or wired connection
+- Remap keys:
+    - [launcher.keychron.com](https://launcher.keychron.com)
+    - only works on edge/chrome/opera not firefox
+- [https://www.keychron.com/](https://www.keychron.com/)
+- [K2 User Manual](https://www.keychron.com/pages/k2-user-manual-1)
 
 ## Depth
 
