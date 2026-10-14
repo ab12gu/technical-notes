@@ -4,7 +4,7 @@
 
 - [Google Drive > Perennial Content > Controls Department > Controls Training](https://drive.google.com/drive/u/0/folders/1onI7GefoWQvptRPn_1U6qYVDsFaKOwPt)
 - [https://github.com/ChainLynxRobotics/Romi-Projects](https://github.com/ChainLynxRobotics/Romi-Projects)
-
+- [https://git.emeraldcityrobotics.org/chainlynx/Romi-Projects](https://git.emeraldcityrobotics.org/chainlynx/Romi-Projects)
 
 ## General
 

@@ -1,3 +1,5 @@
-![[vendor-libraries.png]]
+# Vender Libraries
+
+![](images/vendor-libraries.png)
 
 
