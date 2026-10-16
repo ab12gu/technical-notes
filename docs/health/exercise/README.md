@@ -2,8 +2,12 @@
 
 ## FOOD
 
-1. before: Eat 1-2 hours before exercise. Go for complex carbs and some protein.
-2. after: Eat complex carbs and protein to refuel and repair muscles. Ideally within 1 hour.
+- Before: 
+    - Eat 1-2 hours before exercise
+    - Go for complex carbs and some protein.
+- After: 
+    - Eat complex carbs and protein to refuel and repair muscles. 
+    - Ideally within 1 hour.
 
 ## General
 
