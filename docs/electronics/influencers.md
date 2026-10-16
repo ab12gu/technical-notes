@@ -5,3 +5,9 @@
 - [https://www.instagram.com/jimmyerides](https://www.instagram.com/jimmyerides/)
     - not watched, but does cool escooter repair
 
+## Youtube
+
+- [@ExcessiveOverkill](https://www.youtube.com/@ExcessiveOverkill)
+    - recommeneded by Rafferty at Lincoln High
+- [@quadmvr](https://www.youtube.com/@quadmovr/)
+    - building drones

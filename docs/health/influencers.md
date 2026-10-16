@@ -18,3 +18,8 @@
     - debated if works (Resveratrol)
 - Promotes Fasting
 
+[Jasmina Aganovic](https://www.instagram.com/jasmina.aganovic)
+
+- body odor company
+- feeds bacteria?
+
