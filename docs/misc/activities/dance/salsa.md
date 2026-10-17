@@ -19,6 +19,11 @@ Two styles:
 - simlar to East Caost Swing
 - Cuban & Colombian style
 
+Salsa on 2 is on beat with the congas where as 1 is on beat with the güiro and/or cowbell
+
+- UWSalsa teaches on 1
+- Salsa con Todo on 2
+
 [ytb short on 1 vs on 2](https://www.youtube.com/shorts/chw40glTSHE)
 
 - On 1: I learned (closed is center)
