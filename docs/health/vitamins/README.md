@@ -1,5 +1,12 @@
 # Vitamins
 
+Generally Recommendation for most people:
+
+- Multivitamin
+- Fish Oil
+- Vitamin D
+- Magnesium
+
 ## Longevity Mix
 
 Sweeteners: Allulose & Monk Fruit Extract
