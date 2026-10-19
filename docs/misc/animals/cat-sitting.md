@@ -3,6 +3,8 @@
 ![](images/cat-drawer.webp){width="400"}
 
 - Name: Kajal (American name: Bean)
+    - Means: Black eyeliner in hindi
+    - So similarly, Kajol is an Indian actress often show in romance films with Sharukh Khan. And Darr, the movie referenced for Kiran's name, has the same actor. So you may think that I am just like Sharukh Khan ;)
 - Born: May 22nd, 2025
 - Breed: Domestic Short Hair Black Cat
 - Gender: Female

@@ -3,9 +3,14 @@
 ![](images/seattle-kiran2.webp){width="400"}
 
 - Dog Name: Kiran
-- Born: Sept 21st, 2020
+    - Indian female name, feel free to look it up
+    - Means ray of light
+    - Founded by asking chatgpt of Indian female names and she looked over when I said Kiran. I tried American names with a similar K sound like Kayla, but she didn't respond. So I assume her prior name was similar. 
+- Born: Sept 21st, 2020 theoretically
+    - The name was famous from this movie: [Darr](https://en.wikipedia.org/wiki/Darr), but is often used as male indian names. And some Irish ppl have names similarly.
+    - Got from shelter at 4 years on Sept 21st, 2024
 - Race: Siberian Husky Mix (Unknown mix)
-    - chris said breed is more politically correct
+    - Chris said breed is more politically correct
 - Weight: 56 lbs
 - Gender: Femaie
 - Spayed, so no kids :(
@@ -16,6 +21,8 @@
     - Feedback: Steve said to do monthly, will ensure monthly
 
 ![](images/seattle-kiran.webp){width="400"}
+
+I am 95% sure she was abused by her previous owner. Although they did train her well, she gets scared if you make fast hand motions or take off a belt. Once in awhile, I try to do some things to make her not flitch by petting her during these motions, but we rarely get into situations where she will get scared/flinch so don't worry about it.
 
 ## Emergency/Vet
 
@@ -45,6 +52,7 @@
 - Say `Up` or `Jump` to get onto a couch/bed/booth at bar
     - You also double tap the location with your hand
 - She is very quiet, so don't think this is abnormal 
+- She is a jealous dog, so if you call Kajal, she will come over knowing you aren't talking about her. Or if you are playing/petting Kajal, she will come over for attention
 
 ![](images/kiran-kajal.webp){width="400"}
 
@@ -84,8 +92,12 @@
 
 ## Interacting w/ other Animals
 
-- Be careful with other dogs/dogparkrs
-    - She gets along with about 3/4ths of dogs
+I go through phases of taking her to dog parks regularly. At the moment, she seems to be pretty comfortable at the parks. She will make herself clear if she wants a dog to back off :). But I would love if you took her to dogparks and tried to get her to play!
+
+- She is a velcro dog, so she'll generally stick to next to you at the park and not really care about other dogs. 
+- She gets tired of fetch after 5-10 minutes too
+- So I generally just like running around the dog park and get her to run behind/next to me
+- Be careful with other dogs/dogparks
     - I am really good at being aware but just keep an eye out
     - She makes a growl with her nose so you know immediately if she doesn't like a dog
     - if that happens i try to keep those dogs away from each other
@@ -96,6 +108,7 @@
     - not a sign of aggression, a sign of why are you so lazy?
     - a lot of bigger dogs don't play because they are slow and lazy so she pushes them
 - She is very possessive about toys
+    - NOTE: These are older notes, she seems to be more tame about balls during fetch now
     - even if some other dog has a toy/ball it becomes hers
     - if she gets her mouth on it at least once, then it is her possession
     - most dogs will try to get the toy back, but kiran will not let them
@@ -188,6 +201,8 @@
 
 ## Poop/Poop bags
 
+Try to take her out twice a day. I've been out and restricted her to once a day, which turns out fine. She generally won't eat/drink much when nobody is home maybe for this reason, unsure. The longer you walk her, the more she will poop, possibly becauase her digestive track is more active?
+
 - All the dog parks have poop bags
     - i use these to restock
 - But if you buy some, just venmo request me to restock!
@@ -198,6 +213,8 @@
 - On the first walk, Kiran may be embarrassed to go poop
     - a longer walk doesn't necessarily solve it, unsure of real solution
     - she will just poop on a later walk
+- I wonder if I could teach her to poop in toilet... hmmm...
+- No need to wipe her butt like other dogs who have hair on there hiney. You can see that butthole loud and clear!
 
 
 ![](images/kiran-sari.webp){width="400"}
