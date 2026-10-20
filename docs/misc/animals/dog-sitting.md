@@ -58,6 +58,7 @@ I am 95% sure she was abused by her previous owner. Although they did train her 
 
 ## Behaviors
 
+- She is kinda scared of vacuum lol, will just move to other side of room
 - If she is indoors and you are walking, she will sit really fast if she really needs to poop
     - very rare, but means she wants to poop now and you should go outside
 - If she does her beg, i'll link it, means she is upset and wants something
