@@ -105,11 +105,19 @@
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/off-season/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/admin/SPS/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/coursework/FRC/admin/first/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
          <loc>https://notes.abgup.com/coursework/FRC/awards/control-award/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/coursework/FRC/competitions/off-season/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
@@ -122,6 +130,10 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/coursework/FRC/hardware/roboRIO/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/coursework/FRC/hardware/romi/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
@@ -161,6 +173,10 @@
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
+         <loc>https://notes.abgup.com/coursework/FRC/scouting/</loc>
+         <lastmod>2026-10-21</lastmod>
+    </url>
+    <url>
          <loc>https://notes.abgup.com/coursework/FRC/seasons/2025/autonomous-mode/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
@@ -181,15 +197,7 @@
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/framework/</loc>
-         <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/to_finish/</loc>
-         <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/vender-libraries/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/misc/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
@@ -221,23 +229,11 @@
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/training/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/framework/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/training/mini-project/</loc>
-         <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/training/romi/</loc>
-         <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/coursework/FRC/verification/SPS/</loc>
-         <lastmod>2026-10-21</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/coursework/FRC/verification/first/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/framework/classes/</loc>
          <lastmod>2026-10-21</lastmod>
     </url>
     <url>
