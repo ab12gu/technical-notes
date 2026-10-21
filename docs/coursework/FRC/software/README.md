@@ -11,14 +11,10 @@
 - Drivers station
 - NI (need username/password, see separate file)
 
-## Repo Hosting
+## Tutorials
 
-Generally hosted via github, but sometimes hosted on internal servers. 
-
-- [https://git.emeraldcityrobotics.org/chainlynx?](https://git.emeraldcityrobotics.org/chainlynx?)
-    - hosted by John at Roosevelt
-    - unsure why
-    - was down first time we used it!
+- [Team 2059 Hitchhiker's Guide Slidedeck ](https://docs.google.com/presentation/d/1peEl9_YWmm6-Bfxce6n9BMwLMSHrxx_nzk3MCOxAUjU/edit#slide=id.p)
+- [FRC student ytb - Java turorial](https://www.youtube.com/watch?v=C6DqnIu6g8k)
 
 ## Links
 
