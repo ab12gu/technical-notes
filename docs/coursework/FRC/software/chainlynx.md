@@ -1,10 +1,10 @@
 # Chainlynx
 
 - [Google Drive > Perennial Content > Controls Department > Controls Training](https://drive.google.com/drive/u/0/folders/1onI7GefoWQvptRPn_1U6qYVDsFaKOwPt)
-- [https://github.com/ChainLynxRobotics/Romi-Projects](https://github.com/ChainLynxRobotics/Romi-Projects)
-- [https://git.emeraldcityrobotics.org/chainlynx?](https://git.emeraldcityrobotics.org/chainlynx?)
-    - [https://git.emeraldcityrobotics.org/chainlynx/Romi-Projects](https://git.emeraldcityrobotics.org/chainlynx/Romi-Projects)
-- [https://github.com/chainlynxrobotics](https://github.com/chainlynxrobotics)
+- [github.com/ChainLynxRobotics/Romi-Projects](https://github.com/ChainLynxRobotics/Romi-Projects)
+- [git.emeraldcityrobotics.org/chainlynx?](https://git.emeraldcityrobotics.org/chainlynx?)
+    - [git.emeraldcityrobotics.org/chainlynx/Romi-Projects](https://git.emeraldcityrobotics.org/chainlynx/Romi-Projects)
+- [github.com/chainlynxrobotics](https://github.com/chainlynxrobotics)
 
 ## Repo Hosting
 

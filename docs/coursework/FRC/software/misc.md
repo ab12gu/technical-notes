@@ -1,6 +1,8 @@
-# To Finish
+# Misc
 
-## videos:
+## To Finish
+
+### Videos:
 
 - [https://www.youtube.com/watch?v=C5DqnIu6g8k](https://www.youtube.com/watch?v=C5DqnIu6g8k)
 	- [https://docs.google.com/document/d/1QAT5izZ8L-tu4IyC9r5SlIA6Q4qgKr19VbmO7vczAfE/edit?tab=t.0](https://docs.google.com/document/d/1QAT5izZ8L-tu4IyC9r5SlIA6Q4qgKr19VbmO7vczAfE/edit?tab=t.0)
@@ -13,8 +15,7 @@
 - [https://www.youtube.com/watch?v=OLEvr6ty6Tg](https://www.youtube.com/watch?v=OLEvr6ty6Tg)
 - [https://www.youtube.com/watch?v=2NJZWlIMkvU](https://www.youtube.com/watch?v=2NJZWlIMkvU)
 
-
-## wpi reading:
+### WPI Reading:
 
 - [https://docs.wpilib.org/en/stable/docs/software/commandbased/organizing-command-based.html](https://docs.wpilib.org/en/stable/docs/software/commandbased/organizing-command-based.html)
 - [https://docs.wpilib.org/en/stable/docs/software/commandbased/structuring-command-based-project.html](https://docs.wpilib.org/en/stable/docs/software/commandbased/structuring-command-based-project.html)
