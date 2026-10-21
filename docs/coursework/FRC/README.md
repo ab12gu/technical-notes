@@ -8,17 +8,12 @@ Acryonym for: FIRST Robotics Competition
 ## Links
 
 - [https://en.wikipedia.org/wiki/FIRST_Robotics_Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)
-- [https://www.youtube.com/watch?v=vZot9cgPKjI](https://www.youtube.com/watch?v=vZot9cgPKjI)
+- [2025 World Finals - YTB 3 min](https://www.youtube.com/watch?v=vZot9cgPKjI)
 - [https://frctees.bs.run/](https://frctees.bs.run/)
     - [https://frctees.com/](https://frctees.com/)
     - Kid who graduated BREAD
-
-## Software
-
-- [https://git.emeraldcityrobotics.org/chainlynx?](https://git.emeraldcityrobotics.org/chainlynx?)
-    - hosted by John at Roosevelt
-    - unsure why
-    - was down first time we used it!
+- FRC wiki page: [https://en.wikipedia.org/wiki/FIRST_Robotics_Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)
+- WPILIB homepage: [https://docs.wpilib.org/en/stable/index.html#](https://maps.app.goo.gl/BafbHnsfA5JGaVk39)
 
 ## Scouting
 
@@ -39,12 +34,7 @@ Acryonym for: FIRST Robotics Competition
 - [Beginner Resources](https://docs.google.com/document/d/1KIM0KwgtD8pvLXAOlAtnrmV0s8arH_iWMpZlINE2_To/edit?usp=sharing)
 - [video-tutorial-1](https://www.youtube.com/watch?v=C5DqnIu6g8k)
 - [video-tutorial-2](https://www.youtube.com/watch?v=SLWOSvhonHA)
+
 # Useful Hyperlinks
-- FRC wiki page: https://en.wikipedia.org/wiki/FIRST_Robotics_Competition
-- WPILIB homepage: https://docs.wpilib.org/en/stable/index.html#
-- Java coding convention:
-    - https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
-    - https://www.javatpoint.com/java-naming-conventions 
-- Java learning website: https://www.codecademy.com/learn/learn-java
 
 
