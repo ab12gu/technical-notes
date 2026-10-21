@@ -1,6 +1,18 @@
 # Sauna
 
-Bryan Johnson Regime 
+1. Get internal body to 102.2F
+2. Takes BJ 20 minutes at 200F 
+3. Measure internal body temperature (BJ via pill)
+
+## Protocol
+
+- Frequency 3-5 per week (linear benefit increase)
+- 15-20 min
+- Temp: 175-200 F
+- Type: Dry Sauna
+- Time: After Excercise (stronger effects)
+
+## Bryan Johnson Regime 
 
 - Increase sperm count
 - Ice Pack on balls 
@@ -19,10 +31,3 @@ NOTE: Hurts sleep for first two weeks :(
     - Caused cramps at night
 - Some sweaters don't lose as much minerals in sweat (can check)
 
-## Protocol
-
-- Frequency 3-5 per week (linear benefit increase)
-- 15-20 min
-- Temp: 175-200 F
-- Type: Dry Sauna
-- Time: After Excercise (stronger effects)
