@@ -30,24 +30,34 @@ $50 for 30 servings, [link](blueprint.bryanjohnson.com/products/longevity-blend-
     + L-Theanine: 200 mg
     + Sodium Hyaluronate: 120 mg
 
-- 12 longevity actives:
-    - creatine
-    - glutathione
-    - CaAKG
-    - taurine
-    - glycine 
-- Supports metabolic energy:
-    - creatine monohydrate
-    - lysine
-    - vitamin C
-- Promotes restful sleep and recovery:
-    - magnesium
-    - glycine
-    - L‑theanine* 
-- Supports immune health:
-    - glutathione
-    - taurine
-    - vitamin C*
+### Breakdown
+
+12 longevity actives
+
+    + creatine
+    + glutathione
+    + CaAKG
+    + Amino Acids
+        + taurine
+        + glycine 
+
+Supports metabolic energy
+
+    + creatine monohydrate
+    + lysine
+    + vitamin C
+
+Promotes restful sleep and recovery
+
+    + magnesium
+    + glycine
+    + L‑theanine* 
+
+Supports immune health
+
+    + glutathione
+    + taurine
+    + vitamin C*
 
 ## Past Vitamin
 
