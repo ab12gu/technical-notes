@@ -35,3 +35,13 @@ Note:
 - Poplar is dry, 160->180F
 
 Other climbing gyms?
+
+## Negatives
+
+[https://seattlemassagepro.com/](https://seattlemassagepro.com/)
+
+- Infrared
+- $40 for 30 min
+
+
+
