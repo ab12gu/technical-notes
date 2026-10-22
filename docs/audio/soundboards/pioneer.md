@@ -14,7 +14,7 @@ Founded under parent company Pioneer, starting in 1994, but became an independen
 
 ## DJ-Controller DDJ-400
 
-https://www.pioneerdj.com/en/product/controller/ddj-400/black/overview/
+[https://www.pioneerdj.com/en/product/controller/ddj-400/black/overview/](https://www.pioneerdj.com/en/product/controller/ddj-400/black/overview/)
 
 
 ![Pioneer DJ](https://www.pioneerdj.com/-/media/pioneerdj/images/products/controller/ddj-400sxa/ddj-400_cgi_top_1792x1316.jpg?dmc=1){ width="500" }
@@ -26,7 +26,7 @@ d
 
 ## Speaker Wirirng 
 
-https://www.mediacollege.com/audio/connection/jack-stereo-rca-2.html
+[https://www.mediacollege.com/audio/connection/jack-stereo-rca-2.html](https://www.mediacollege.com/audio/connection/jack-stereo-rca-2.html)
 
 ![alt text](image.png)
 
@@ -35,4 +35,5 @@ Ground/Tip to outer side and tips are right/left
 
 ## Citations
 
-- https://en.wikipedia.org/wiki/Pioneer_DJ
+- [https://en.wikipedia.org/wiki/Pioneer_DJ](https://en.wikipedia.org/wiki/Pioneer_DJ)
+
