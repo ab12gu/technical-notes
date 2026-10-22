@@ -32,6 +32,6 @@ SBP (Seattle Bouldering Project)
 Note: 
 
 - Udistrict is infrared (not as good)
-- Poplar is dry
+- Poplar is dry, 160->180F
 
 Other climbing gyms?
