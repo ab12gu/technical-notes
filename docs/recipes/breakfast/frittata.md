@@ -6,6 +6,8 @@ Egg-based Italian Dish
 2. Add raw eggs to baking tray
 3. Bake for like an hour
 
+The more you whisk the eggs, the more air gets incorporated, so more fluffy :)
+
 ## Ingredients
 
 Veggies:
