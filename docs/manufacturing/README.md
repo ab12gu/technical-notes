@@ -17,3 +17,17 @@ There is lot of discussions about tools, material properties, methods of manufac
     - [https://hardwarefyi.substack.com/p/how-to-start-a-machine-shop-from](https://hardwarefyi.substack.com/p/how-to-start-a-machine-shop-from)
     - [https://www.skool.com/machine-shop-launchpad/about](https://www.skool.com/machine-shop-launchpad/about)
     - Older video/article: [https://hardwarefyi.substack.com/p/weekend-wire-8-how-a-garage-cnc-shop](https://hardwarefyi.substack.com/p/weekend-wire-8-how-a-garage-cnc-shop)
+
+## Maker Events
+
+[https://www.opensauce.com/](https://www.opensauce.com/)
+
+- $200 for 2 days
+- mid-july, SF
+- Details: makefaire
+
+[https://made.bike/](https://made.bike/)
+
+- $30 per day I think
+- Early Aug, Portland
+- Details: bicycle manufacturing showcase (small & large companies)
