@@ -12,6 +12,7 @@
 Tandy Leather
 
 - across the states
+- [https://tandyleather.com/](https://tandyleather.com/)
 - [https://maps.app.goo.gl/MDYnPBHzfMjaQcxE7](https://maps.app.goo.gl/MDYnPBHzfMjaQcxE7)
     - Shoreline
     - 25 minute drive
