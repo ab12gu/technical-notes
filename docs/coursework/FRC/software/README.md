@@ -5,6 +5,9 @@
 ## Required Software
 
 - wpilib
+    - [https://github.com/wpilibsuite/allwpilib/releases#release-v2027.0.0-alpha-8](https://github.com/wpilibsuite/allwpilib/releases#release-v2027.0.0-alpha-8)
+        - Wpilib has libraries used for FRC, but is integrated into a custom VSCode
+        - NOTE: the VSCode/WPILib will need to be upgraded every year
     - shuffleboard - included in wpilib install
     - advantagescope - included
     - SmartDashboard - included
