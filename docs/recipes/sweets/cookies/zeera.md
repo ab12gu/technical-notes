@@ -1,3 +1,3 @@
-# Zeera Cookies
+# Zeera
 
 Cumin shortbread cookies
