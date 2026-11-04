@@ -1,5 +1,13 @@
 # Resources
 
+Electrical and Electronics Engineering Glossary: 
+
+- [https://www.jadelearning.com/electrical-engineering-terms/](https://www.jadelearning.com/electrical-engineering-terms/)
+
+Simple Circuits: 
+
+- [https://www.varsitytutors.com/practice/subjects/ap-physics-2/lessons/simple-circuits](https://www.varsitytutors.com/practice/subjects/ap-physics-2/lessons/simple-circuits)
+
 ## Youtube Channels
 
 - [Electrarc2404](https://www.youtube.com/@electrarc240)
