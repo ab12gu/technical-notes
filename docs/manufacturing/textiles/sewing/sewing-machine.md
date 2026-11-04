@@ -9,8 +9,22 @@
 ## Instructional Videos
 
 - [How to thread the machine (4min, ytb)](https://www.youtube.com/watch?v=iAHTXd4z8aU)
+    - includes how to thread bobbin & installing bobbin
 - [How the stitch works (ytb short)](https://www.youtube.com/watch?v=zqRvljnNLFk)
 
+## Bobbin
+
+- Load with thread turning counter-clockwise
+    - thread coming out the bottom
+- pull the thread from the right to the left hooking the metal tab
+- then release thread in back, and put plastic cover
+
+Lastly, spin dial on side of machine to have the needle grab the bobbin thread, and hand pull through
+
+### Threading
+
+- pull thread from center up the side hole
+- add onto steel pin and let spin up via normal operating pedal
 
 ## Specs
 
