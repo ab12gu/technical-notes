@@ -5,6 +5,7 @@ Acryonym for: FIRST Robotics Competition
 - FIRST: For Insiration and Recognition in Science and Technology
 - International high school robotics competition mentored by parents, teachers, and engineers.
 
+
 ## Links
 
 - [https://en.wikipedia.org/wiki/FIRST_Robotics_Competition](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition)
@@ -32,5 +33,3 @@ Acryonym for: FIRST Robotics Competition
 - [Beginner Resources](https://docs.google.com/document/d/1KIM0KwgtD8pvLXAOlAtnrmV0s8arH_iWMpZlINE2_To/edit?usp=sharing)
 - [video-tutorial-1](https://www.youtube.com/watch?v=C5DqnIu6g8k)
 - [video-tutorial-2](https://www.youtube.com/watch?v=SLWOSvhonHA)
-
-
