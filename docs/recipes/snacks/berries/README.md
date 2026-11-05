@@ -25,8 +25,13 @@ Berries can support healthy:
     + blood pressure
     + blood sugar
 
-A daily cup of blueberries could promote healthy arteries and blood flow.
+Blueberries:
+
+- A daily cup of blueberries could promote healthy arteries and blood flow.
+- There’s some evidence that freezing actually increases the anthocyanins in blueberries.
 
 All of this contributes to supporting your heart health.
 
 [https://blueprint.bryanjohnson.com/blogs/news/why-bryan-johnson-loves-berries](https://blueprint.bryanjohnson.com/blogs/news/why-bryan-johnson-loves-berries)
+
+Some research points to 3 servings a week, so make that your baseline. Increase to 1 cup daily if possible

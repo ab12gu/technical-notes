@@ -23,6 +23,8 @@ Bryan Johnson Method:
     - Roast the sweet potato for 45–60 minutes at 400°F (~200°C).
     - Bake for 50 minutes until easily breakable with fork
 
+[https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-longevity-bowl-recipe](https://blueprint.bryanjohnson.com/blogs/news/bryan-johnsons-longevity-bowl-recipe)
+
 Else
 
     - Preheat to 425*F
