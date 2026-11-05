@@ -201,55 +201,63 @@
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/chainlynx/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/coding-conventions/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/libraries/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/buttons/button-binding/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/misc/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/command-based-programming/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/romi/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/command-based-programming/command-compositions/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/april-tags/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/command-based-programming/command-scheduler/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/april-tags/History/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/command-based-programming/commands/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/buttons/button-binding/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/command-based-programming/finite-state-machines/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/commands/command-based-programming/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/framework/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/commands/command-compositions/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/key-concepts/framework/classes/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/commands/command-scheduler/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/learning/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/commands/commands/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/learning/romi/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/framework/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/teams/chainlynx/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/coursework/FRC/software/framework/classes/</loc>
+         <loc>https://notes.abgup.com/coursework/FRC/software/vision/libraries/</loc>
+         <lastmod>2026-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/coursework/FRC/software/vision/april-tags/</loc>
+         <lastmod>2026-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/coursework/FRC/software/vision/april-tags/history/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
@@ -1753,6 +1761,10 @@
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
+         <loc>https://notes.abgup.com/misc/activities/events/</loc>
+         <lastmod>2026-11-05</lastmod>
+    </url>
+    <url>
          <loc>https://notes.abgup.com/misc/activities/holidays/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
@@ -1989,10 +2001,6 @@
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
-         <loc>https://notes.abgup.com/misc/entertainment/events/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
          <loc>https://notes.abgup.com/misc/entertainment/movies/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
@@ -2034,38 +2042,6 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/misc/entertainment/podcasts/recommended/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/read/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/toread/articles/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/toread/books/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/toread/online-catalogs/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/toread/publishing-groups/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/toread/sources/</loc>
-         <lastmod>2026-11-05</lastmod>
-    </url>
-    <url>
-         <loc>https://notes.abgup.com/misc/entertainment/reading/toread/toread/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
@@ -2466,6 +2442,18 @@
     </url>
     <url>
          <loc>https://notes.abgup.com/recipes/sweets/cookies/zeera/</loc>
+         <lastmod>2026-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/recipes/veggies/asparagus/</loc>
+         <lastmod>2026-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/recipes/veggies/carrots/</loc>
+         <lastmod>2026-11-05</lastmod>
+    </url>
+    <url>
+         <loc>https://notes.abgup.com/recipes/veggies/kale/</loc>
          <lastmod>2026-11-05</lastmod>
     </url>
     <url>
