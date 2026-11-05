@@ -1,40 +1,48 @@
 # Sweet Potatoes
 
+I generally just cook them without any seasoning. Boiling and steaming seem to taste similar. 
+
 Seasoning
 
-- Salt
-- Butter / Olive Oil
-- Cinnamon
-- Paprika
-- Rosemary
+    - Salt
+    - Butter / Olive Oil
+    - Cinnamon
+    - Paprika
+    - Rosemary
 
 ## Recipes
 
-1. Baking
+### Roasting/Baking
 
-    - Preheat to 400*F
-    - Poke holes w/ fork
+Roasting allows some browning for more diverse flavors, but reduces nutrition over steaming
+
+Bryan Johnson Method:
+
+    - Poke a few holes in the sweet potato 
+        - and lightly cover with extra virgin olive oil.
+    - Roast the sweet potato for 45–60 minutes at 400°F (~200°C).
     - Bake for 50 minutes until easily breakable with fork
-    - Season
 
-2. Roasting
+Else
 
     - Preheat to 425*F
     - Chop up
     - Toss w/ spices (include olive oil)
     - Roast for 30 minutes till crisp
 
-3. Boil
+### Boil
     
     - Chop up
     - Boil for 20 minutes until tender
 
-4. Steam (preserves most nutrients & flavor)
+### Steam (preserves most nutrients & flavor)
+
+Instapot needs to steam the potatoes for an hour (twice if setting limits to 30 min).
 
     - Place in steamer basket over boiling water
     - Cover/steam for 20 min
 
-5. Microwave
+### Microwave
 
     - Poke with fork
     - Microwave 4 minutes 1 side, flip
