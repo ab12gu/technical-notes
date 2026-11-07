@@ -1,8 +1,15 @@
 # Sauna
 
+Format: Dry (Finish style) Sauna
+
 1. Get internal body to 102.2F
 2. Takes BJ 20 minutes at 200F 
 3. Measure internal body temperature (BJ via pill)
+4. Daily
+5. Moisturizer befor sauna to mitigate transepidermal water loss
+6. Rehydrate after session
+
+Ideal temps 176-212F (80-93C and >19min
 
 ## Protocol
 

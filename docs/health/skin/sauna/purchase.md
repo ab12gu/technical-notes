@@ -5,4 +5,10 @@
 - $4,000+ for 2 person and up
 - in Kent
 
+[https://blueprint.bryanjohnson.com/products/plunge-sauna](https://blueprint.bryanjohnson.com/products/plunge-sauna)
 
+- $11,200
+- Natural cedar (no toxic off-gassing)
+- Reaches up to 230F
+- [https://huumsauna.com/sauna-heaters-and-sauna-controllers/](https://huumsauna.com/sauna-heaters-and-sauna-controllers/)
+    - $1,000 -> $2,000
