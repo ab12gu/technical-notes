@@ -11,6 +11,8 @@ Format: Dry (Finish style) Sauna
 
 Ideal temps 176-212F (80-93C and >19min
 
+[https://blueprint.bryanjohnson.com/blogs/news/what-to-look-for-in-a-sauna](https://blueprint.bryanjohnson.com/blogs/news/what-to-look-for-in-a-sauna)
+
 ## Protocol
 
 - Frequency 3-5 per week (linear benefit increase)
