@@ -12,3 +12,5 @@
 - Reaches up to 230F
 - [https://huumsauna.com/sauna-heaters-and-sauna-controllers/](https://huumsauna.com/sauna-heaters-and-sauna-controllers/)
     - $1,000 -> $2,000
+
+[Sauna Festival - Seattle, November, Ballard](https://www.myballard.com/2026/09/25/seattle-sauna-festival-returns-to-national-nordic-museum-in-november/)
