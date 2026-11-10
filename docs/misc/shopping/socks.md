@@ -11,12 +11,23 @@ Been mostly wearing: [Gold Toe Socks](https://en.wikipedia.org/wiki/Gold_Toe_Bra
 
 Also have some Fruit n Loom & Uniqulo socks. 
 
+[Uniqulo](https://www.uniqlo.com/us/en/products/E471947-000/00?colorDisplayCode=69&sizeDisplayCode=027)
+
+- great socks, super comfortable, have 1 pair
+- 77% Cotton, 12% Nylon, 8% Polyester, 3% Spandex
+
+[https://maggiesorganics.com/organic-cotton-socks-ragg/](https://maggiesorganics.com/organic-cotton-socks-ragg/)
+
+- don't hold up well
+- comfy but slimy cause of lack of polyester;
+- 88.3% organic cotton, 11.3% nylon, 0.4% spandex
+- Since 1992, all cotton socks proudly knit and dyed in the USA
+
+## Stores
+
+There is a store in Wallingford that has stance, maggies, grippy socks, darn tough, and single big toe/full toe sock brands
+
 ## Want to try
-
-- [Uniqulo](https://www.uniqlo.com/us/en/products/E471947-000/00?colorDisplayCode=69&sizeDisplayCode=027)
-- 
-
-
 
 Bombas
 
