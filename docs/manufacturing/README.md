@@ -4,9 +4,11 @@ Mostly consisting of notes on how to create rigid mechanical components.
 
 There is lot of discussions about tools, material properties, methods of manufacturing as well as many completed projects. 
 
-## Books
+## Books/Articles
 
 - [https://productrealizationbook.com/glossary/books-to-read-related-to-product-realization/](https://productrealizationbook.com/glossary/books-to-read-related-to-product-realization/)
+- [https://www.pololu.com/blog/27/thoughts-on-open-source-hardware](https://www.pololu.com/blog/27/thoughts-on-open-source-hardware)
+    - Long article, unsure if I agree with all povs
 
 ## Machine Shop at Home
 
