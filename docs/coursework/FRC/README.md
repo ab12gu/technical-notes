@@ -5,6 +5,9 @@ Acryonym for: FIRST Robotics Competition
 - FIRST: For Insiration and Recognition in Science and Technology
 - International high school robotics competition mentored by parents, teachers, and engineers.
 
+## Getting Started
+
+Generally, as a mentor, you join an existing team and start helping out students with through the course of the year. Slowly, you'll ramp up on the codebase and hardware and be able to be a bigger asset over the course of months/years. 
 
 ## Links
 

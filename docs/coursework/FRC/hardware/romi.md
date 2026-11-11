@@ -13,6 +13,10 @@ This robot uses WPILib/FRC commands, so a good place to start!
 - [https://github.com/ChainLynxRobotics/Romi-Projects](https://github.com/ChainLynxRobotics/Romi-Projects)
 - Breakdown of hardware: [https://docs.wpilib.org/en/stable/docs/romi-robot/hardware.html](https://docs.wpilib.org/en/stable/docs/romi-robot/hardware.html)
 
+## RoboRio vs Romi
+
+[https://docs.wpilib.org/en/stable/docs/romi-robot/hardware-support.html#compatible-classes](https://docs.wpilib.org/en/stable/docs/romi-robot/hardware-support.html#compatible-classes)
+
 ## Battery
 
 - Uses external rechargable batteries

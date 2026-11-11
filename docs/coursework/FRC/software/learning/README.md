@@ -1,5 +1,11 @@
 # Learning
 
+Starting at the end of Fall of 2026, [frsoftware.com](https://frcsoftware.org/) became a good place to start learning.
+
+You can skip some intro pages and start here:
+
+- [https://frcsoftware.org/learning-course/getting-started/required-tools/](https://frcsoftware.org/learning-course/getting-started/required-tools/)
+
 ## Tutorials
 
 - [Team 2059 Hitchhiker's Guide Slidedeck ](https://docs.google.com/presentation/d/1peEl9_YWmm6-Bfxce6n9BMwLMSHrxx_nzk3MCOxAUjU/edit#slide=id.p)
