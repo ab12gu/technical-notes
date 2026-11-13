@@ -2,7 +2,7 @@
 
 [Google Map](https://www.google.com/maps/dir/Sialkot,+Pakistan/Jammu,+India/Punjab,+India/Haryana,+India/New+Delhi,+India/)
 
-![](images/detailed-map.png){width=600px}
+![](images/state-map.png){width=600px}
 
 ![](images/closer-map.png){width=600px}
 
@@ -30,3 +30,4 @@ Ram Gupta
 
 Parents from [Haryana, India](https://maps.app.goo.gl/tK3YHQMAo8TXTnz87)
 
+![](images/detailed-map.png){width=600px}
