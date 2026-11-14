@@ -15,7 +15,9 @@ For UW health, you can just do all at mychart uw online/app
 [STD testing](https://kingcounty.gov/en/dept/dph/health-safety/health-centers-programs-services/public-health-centers/sexual-health-clinic)
 
 - Public Health Center
-- Walk-In's 
+- Walk-In's or Appointment
+- For premptive, its a nurse appointment
+- Free if under certain income/no insurance
 - Ninth and Jefferson Building
     - [908 Jefferson St](https://www.google.com/maps/place/908+Jefferson+St,+Seattle,+WA+98104/@47.6053658,-122.3259109,17z/data=!3m1!4b1!4m5!3m4!1s0x54906ab82fa4d9c9:0xcdbf6fd2c0037604!8m2!3d47.6053622!4d-122.3237222), 11th Floor, Seattle, WA 
 - 206-744-3590
