@@ -24,3 +24,10 @@ For UW health, you can just do all at mychart uw online/app
 - Mon -> Friday around 8am - 6pm, varies slightly per day (no weekends)
 
 ^this is where I've gone
+
+## Charts
+
+- [https://mychart.ochin.org/](https://mychart.ochin.org/)
+    - for dental and std
+- [https://mychart.uwmedicine.org/](https://mychart.uwmedicine.org/)
+    - general medical
