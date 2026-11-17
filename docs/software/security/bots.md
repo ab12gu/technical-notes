@@ -8,3 +8,11 @@ Developed in 1994, but has no detrement if not followed... Since 2020, it is use
 
 Each subdomain needs to have its own robots.txt file.
 
+
+## Links
+
+- [https://www.cloudflare.com/learning/bots/what-is-robots-txt/](https://www.cloudflare.com/learning/bots/what-is-robots-txt/)
+    - good examples/implementation
+- [https://developers.google.com/search/docs/crawling-indexing/robots/intro](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
+    - superficial info
+
