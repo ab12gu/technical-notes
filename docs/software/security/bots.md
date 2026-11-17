@@ -8,6 +8,13 @@ Developed in 1994, but has no detrement if not followed... Since 2020, it is use
 
 Each subdomain needs to have its own robots.txt file.
 
+Example: First disallow states to hide entire website from bots. The second disallow is redundant but specifies a page. Crawler delay stops server overload. You can also specify type of bot like GPTBot and block it specifically.
+```
+User-agent: *
+Disallow: /
+Disallow: /learning/bots/what-is-a-bot/
+Crawl-delay: 8
+```
 
 ## Links
 
