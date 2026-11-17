@@ -38473,6 +38473,12 @@
 <p>The <strong>Robots Exclusion Protocol</strong> (often referred to as <em>robots.txt</em>) is used to indicate visiting web crawlers/robotics if they are allowed to visit specific files or directories. </p>
 <p>Developed in 1994, but has no detrement if not followed... Since 2020, it is used against generative AI. However, bots often get sued over lack of compliance, <a href="https://en.wikipedia.org/wiki/Robots.txt#Compliance">examples</a>. Google turned it into a published standard in 2022 (submitted in 2019).</p>
 <p>Each subdomain needs to have its own robots.txt file.</p>
+<p>Example: First disallow states to hide entire website from bots. The second disallow is redundant but specifies a page. Crawler delay stops server overload. You can also specify type of bot like GPTBot and block it specifically.
+<div class="language-text highlight"><pre><span></span><code>User-agent: *
+Disallow: /
+Disallow: /learning/bots/what-is-a-bot/
+Crawl-delay: 8
+</code></pre></div></p>
 <h2 id="links">Links</h2>
 <ul>
 <li><a href="https://www.cloudflare.com/learning/bots/what-is-robots-txt/">https://www.cloudflare.com/learning/bots/what-is-robots-txt/</a><ul>
