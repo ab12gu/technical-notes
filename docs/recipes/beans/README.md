@@ -2,8 +2,10 @@
 
 [https://en.wikipedia.org/wiki/Bean](https://en.wikipedia.org/wiki/Bean)
 
-- Generally a good idea to wash beans to remove dust. 
-- Ratio: 3 cups of water to 1 cup beans
+1. Generally s good idea to wash beans to remove dust. 
+    -  Remove stones/debris by rinsing in a colander
+2. Soak in water (top off with 2-3 inches of water for >= 8 hours)
+    - Ratio: 3 cups of water to 1 cup beans
 
 ## Soak
 
