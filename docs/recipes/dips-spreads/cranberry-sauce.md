@@ -2,7 +2,7 @@
 
 [Kenji YTB - Sauce Recipe](https://www.youtube.com/watch?v=GNaTZCoqplE)
 
-Preserves for weeks because cranberries are very acidic. Flavors better as it rests!
+Preserves for weeks because cranberries are very acidic. Flavors better as it rests! It natural contains a lot of pectin so becomes thicc!  
 
 Time: 10-20 min
 
