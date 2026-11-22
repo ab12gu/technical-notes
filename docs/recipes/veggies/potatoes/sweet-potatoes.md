@@ -10,6 +10,17 @@ Seasoning
     - Paprika
     - Rosemary
 
+## Types
+
+- Orange
+    - high beta carotine
+- Japenese (purple skin)
+    - dense/sweeter/creamier, chestnut like
+- Purple
+    - high anthocyanins
+
+BJ eats Japanese ones, but generally lower nutrition than others... doesn't specify why
+
 ## Recipes
 
 ### Roasting/Baking
@@ -20,6 +31,7 @@ Bryan Johnson Method:
 
     - Poke a few holes in the sweet potato 
         - and lightly cover with extra virgin olive oil.
+        - only need to pierce skin to let steam escape when cooking
     - Roast the sweet potato for 45–60 minutes at 400°F (~200°C).
     - Bake for 50 minutes until easily breakable with fork
 
