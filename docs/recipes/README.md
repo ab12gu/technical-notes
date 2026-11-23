@@ -15,5 +15,4 @@ Just a list of recipes I make, will try to make, have made at one point, or will
 
 # TODO
 
-- Besan (chickpea flour) recipes
 - Make Pani Puri
