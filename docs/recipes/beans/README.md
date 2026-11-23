@@ -1,5 +1,7 @@
 # Beans
 
+They are seeds of some plants of legumes. It is sold fresh or by drying! They are summer crops (except peas) and India is its largest producer. 
+
 [https://en.wikipedia.org/wiki/Bean](https://en.wikipedia.org/wiki/Bean)
 
 1. Generally s good idea to wash beans to remove dust. 
