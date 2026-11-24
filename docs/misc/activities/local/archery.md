@@ -1,5 +1,13 @@
 # Archery
 
+## Current
+
+Go to Bremerton w/ Lorin/Kenny
+
+- I think its at [KBH](https://kbh.wildapricot.org/), but site is down at 4am
+- Need someone with key if driving in
+- $10 per person put into mailbox (no check)
+
 ## General
 
 - Connor & Sarah & Alex Ross want to go 
@@ -10,10 +18,6 @@ Kirkland - [https://www.championarcheryshootingclub.com/](https://www.championar
 - Sarah said there is a good one in Woodenville
 - $25, 90 min weekend, all day weekday
 - 13.30, bow rental
-
-## Current
-
-Go to Bremerton w/ Lorin/Kenny
 
 ## Hyperlinks
 
