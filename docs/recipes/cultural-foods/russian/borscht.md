@@ -32,5 +32,20 @@ Spices
 - garlic (for some reason said to add later)
 - broth or concentrate broth (enough salt to not add more)
 
+### Topping
+
+- Sour cream!
+    - barely any fat in dish so great add on (makes it sweet & creamy)
+    - vegan options are decent. the foregers cashew version was bad, but tofutti palm oil based one was great (sour!)
+        - I would eat the tofutti one in other dishes too!
+- Dill !!!
+    - it was fine with dill seasoning
+    - BUT Lydia recc'd fresh dill and it does smell more fragrant!
+
+### Serving
+
+I like the borscht being really hot when eating (maybe thats my general soup preference). Also the way I made it has much more veggies over water, which is also nice because you can eat more to fill you up since it is pretty low calorie before the sour cream. 
+
+
 
 
