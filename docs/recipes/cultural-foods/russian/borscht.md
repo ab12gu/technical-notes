@@ -24,6 +24,8 @@ Then chop/finely slice/or grate:
 - Protein! (I had soaked chickpeas, so added that)
     - lots of ytb vids have big bone-in meats!
 
+NOTE: grating is a pain... and wesley likes blending, but the sister's said that's not traditional! I did finely chopped for this recipe and no regrets!
+
 Spices
 
 - bay leaf
